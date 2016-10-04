@@ -1,6 +1,6 @@
 # Bijlage A – Vaste Rollen
 
-## Rol: Lead Link
+## Rol: Lead-Link
 
 ### Doel: Het dienen van het doel van de cirkel
 
@@ -18,7 +18,7 @@
 *De Lead Link krijgt alle rollen en taken toegewezen die niet gedefinieerd of toegewezen
 zijn in het rol- en werk-overleg*
 
-## Rol: Rep. Link
+## Rol: Rep-Link
 
 ### Doel: 
 Binnen de Super-cirkel is het de rol van de Rep Link om het doel van de vertegenwoordigde cirkel te behartigen; Binnen de 'eigen cirkel' is het doel: om de spanningen van de cirkel over processen in de grotere cirkel te vertolken en op te lossen
