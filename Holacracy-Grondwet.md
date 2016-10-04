@@ -311,7 +311,7 @@ De Facilitator test de geldigheid van een Voorstel door de Indiener vragen te st
 
 Echter, bij het beoordelen van de geldigheid van een Voorstel mag de Facilitator alleen oordelen of de Indiener het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met logische beredenering en dus of ze redelijk zijn. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid van de antwoorden, noch op de vraag of het Voorstel de Spanning voldoende zou aanpakken.
 
-//# hier was je gebleven
+// hier was je gebleven
 
 #### 3.2.4 Criteria voor geldige Bezwaren
 
