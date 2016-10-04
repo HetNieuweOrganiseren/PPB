@@ -3,6 +3,7 @@ Bijlage A – Vaste Rollen
 Rol: Lead Link
 Doel:
 Het dienen van het doel van de cirkel
+
 Domein:
 • Toewijzen van rollen binnen de Cirkel
 Verantwoordelijkheid:
