@@ -1,53 +1,57 @@
-#**Holacracy Grondwet**
+#**Holarchie Grondwet**
 
+## Disclaimer
+De Holarchie Grondwet is een Fork van de Holacracy Grondwet.
+De informatie in dit document zijn de holarchische regels en processen voor organiseren.
+HolacracyOne noch Het Nieuwe Organiseren zijn legitieme rechtsinstellingen. Dit document wordt u aangeboden zonder enigerlei vertegenwoordiging of garantie.
+Alvorens het gebruik van dit document in een rechts-vorm wordt u sterk aangeraden om
+advies in te winnen bij een rechtsgeldige instantie.
 
 ## Voorwoord
 
 Deze **‘Grondwet’** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (‘de **Gezaghebbenden’**), adopteren deze regels als de formele machtsstructuur voor de **‘Organisatie’**, als specificatie op het adopteren van de Holacracy Grondwet. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbenden besturende of leidende bevoegdheid over heeft. De Gezaghebbenden en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **‘Partners’**) kunnen bouwen op de autoriteit die wordt gegeven door deze Grondwet en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
 
-## Artikel 1: Rollen activeren
+## Artikel 1: Bezitten van rollen
 
 ### 1.1 Definitie van een Rol
 
+Een "Rol" is een organisatorische eenheid die een "doel"uit drukt, "Domeinen" controleert en "Verantwoordelijkheden" uit voert.
 De Partners van de Organisatie verrichten werk voor de Organisatie, door te handelen vanuit een expliciet gedefinieerde Rol. Een ‘Rol’ is een bouwsteen van de organisatie met een beschrijvende naam en één of meer van het volgende:
 
-**(a)** Een ‘**Purpose**’. Dit is een capaciteit, potentieel of onbereikbaar doel, die de Rol zal nastreven of uitdrukken namens de Organisatie. 
+**(a)** Een ‘**Doel**’. De rol heeft haar eigen Doel die ze na zal nastreven of uitdrukken richting het Hoofd-Doel van de Organisatie. 
 
 **(b)** Een of meerdere ‘**Domeinen**’. Dit zijn dingen die de Rol exclusief mag beheren en reguleren als zijn eigendom, namens de Organisatie.
 
 **(c)** Een of meer ‘**Verantwoordelijkheden**’. Dit zijn doorlopende activiteiten van de Organisatie die de Rol uitvoert. 
 
-### 1.2 Verantwoordelijkheden van Rol vervullers
+### 1.2 Verantwoordelijkheden van een Rol vervullen
 
-Als Partner van de Organisatie heb je de volgende verantwoordelijkheden voor iedere rol die je is toegeschreven en die je hebt toegezegd te vervullen:
+Wanneer een partner een rol vervult accepteert diegene de volgende verantwoordelijkheden:
 
 #### 1.2.1 Spanningen verwerken
 
-Je hebt de verantwoordelijk om te monitoren hoe de Purpose en Verantwoordelijkheden van jouw Rollen worden uitgedrukt. En om dat te vergelijken met jouw visie op hoe deze uitdrukking er idealiter in potentie uit ziet. Op die manieren identificeer je verschillen tussen de huidige realiteit en het ideale potentieel (elke verschil dat je ervaart is een ‘**Spanning**’). Je hebt ook de verantwoordelijkheid om te proberen om deze verschillen op te lossen door je bevoegdheden en andere mechanismen te gebruiken die voor jou aanwezig zijn binnen deze Grondwet.
+Een partner is verantwoordelijk voor het waarnemen van "spanningen" voor die rol en de verwerking daarvan. Een Spanning is: _het verschil tussen hoe je **weet** dat het is en hoe je **wil** dat het is._ De spanning word verwerkt in een Rol- of Actie-Overleg
 
-#### 1.2.2. Purpose en verantwoordelijkheden verwerken
+#### 1.2.2 Verwerken van verantwoordelijkheden
 
-Je hebt de verantwoordelijkheid om regelmatig te overwegen hoe je de Purpose en Verantwoordelijkheden van al je Rollen tot uitvoer brengt, door het volgende te definiëren:
-
-**(a)**  ‘**Eerstvolgende Actie**’. Dit zijn handelingen die je direct zou kunnen uitvoeren en die zinvol zouden zijn om direct uit te voeren, althans, wanneer er geen concurrerende prioriteiten zijn.
-
-**(b)** ‘**Projecten**’. Dit zijn concrete resultaten die meerdere opvolgende acties nodig hebben om te bereiken. Resultaten welke zinvol zijn om naartoe te werken, althans, wanneer er geen concurrerende prioriteiten zijn. 
+Een partner is verantwoordelijk voor het opdelen van de verantwoordelijkheden van hun rol in projecten en Vervolg-acties om dichter bij het doel te komen. Een project is een resultaat bereiken, en de Vervolg-actie is een concrete, fysieke actie die onmiddellijk kan worden uitgevoerd als de tijd het toestaan.
 
 #### 1.2.3 Projecten verwerken
 
-Je hebt de verantwoordelijkheid om regelmatig te overwegen hoe je ieder Project waar je voor je Rol aan werkt afrondt, inclusief het definiëren van zinvolle Eerstvolgende Acties om het Project voorwaarts te helpen. 
+Een partner is verantwoordelijk voor het opdelen van al hun projecten in Vervolg-acties.
 
 #### 1.2.4 Bijhouden van Projecten, Eerstvolgende Acties en Spanningen
 
-Je hebt de verantwoordelijkheid om alle Projecten en Eerstvolgende Acties voor je Rol vast te leggen en bij te houden in een (vorm van een) database, en om die database regelmatig te updaten en te reviewen, zodat deze wordt behouden als betrouwbare lijst van het actieve en potentiële werk van je Rollen. Je bent ook verantwoordelijk voor het vastleggen van Spanningen die je identificeert voor je Rol, in ieder geval totdat je ze verwerkt in gewenste Projecten of Eerstvolgende Acties, of ze op een andere manier oplost. 
+Een partner is verantwoordelijk voor het bijhouden van hun projecten en Vervolg-acties in een tastbaar systeem buiten hun geest (database, lijst ...), en het 'up-to-date' houden van dit systeem, zodat deze wordt behouden als betrouwbare lijst van het actieve en potentiële werk van je Rollen. Je bent ook verantwoordelijk voor het vastleggen van Spanningen die je identificeert voor je Rol, in ieder geval totdat je ze verwerkt in gewenste Projecten of Eerstvolgende Acties, of ze op een andere manier oplost. 
 
 #### 1.2.5 Aandacht en middelen beheren
 
+Een partner is verantwoordelijk voor het bewust en voortdurend kiezen aan welke projecten en Vervolg-acties men arbeid en/of middelen besteed ten aanzien van alle beschikbare opties.
 Als je tijd beschikbaar hebt om te handelen in je Rol, ben je verantwoordelijk om te bedenken welke potentiële Eerstvolgende Actie je efficiënt en effectief kunt uitvoeren op dat moment, en diegene uit te voeren waarvan jij gelooft dat deze de meeste waarde toevoegt. 
 
 ### 1.3. Autoriteit om te handelen
 
-Als Partner toegewezen aan een Rol, heb je de autoriteit om welke Eerstvolgende Acties dan ook uit te voeren, waarvan jij redelijkerwijs gelooft dat ze zinvol zijn voor het uitvoeren van de Purpose en Verantwoordelijkheden van jouw Rollen. 
+Als Partner toegewezen aan een Rol, heb je de autoriteit om welke Eerstvolgende Acties dan ook uit te voeren, waarvan jij redelijkerwijs gelooft dat ze zinvol zijn voor het uitvoeren van het doel en Verantwoordelijkheden van jouw Rol(len). 
 
 Echter, je kan geen controle uitoefenen of materiële invloed veroorzaken binnen een Domein waar een andere Rol of entiteit eigenaar van is, tenzij je hun toestemming hebt. De autoriteit verkregen in deze paragraaf wordt verder gelimiteerd in Artikel 2.1.3. 
 
@@ -63,131 +67,129 @@ De in deze Sectie verkregen autoriteit, kan verder gelimiteerd worden door beper
 
 ### 2.1 Cirkel fundamenten
 
-Een **‘Cirkel’** is een Rol die zichzelf verder kan opdelen door zijn eigen Rollen te definiëren om zijn Purpose te bereiken, zijn Domeinen te controleren en zijn Verantwoordelijkheden uit te voeren. De Rollen die een Cirkel definieert zijn '**Gedefinieerde** **Rollen’**, en iedereen die een van de Gedefinieerde rollen vervult is een **‘Cirkel**l**id’** van die Cirkel. 
+Een **‘Cirkel’** is een **‘Rol’** die zichzelf opsplitst in meerdere rollen, zodat meerdere partners samen kunnen werken aan de uitdrukking van het algemene doel en verantwoordelijkheden van die Cirkel. Een **‘Cirkel’** kan haar eigen Rollen definiëren, zijn Domeinen controleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn '**Gedefinieerde** **Rollen’**, en iedere Partner die een van de Gedefinieerde rollen vervult is een **‘Cirkel**l**id’** van die Cirkel. 
 
 #### 2.1.1 Rollen en Domeinafspraken definiëren 
 
-Elke Cirkel gebruikt het **‘****Governance Proces****’**, welke wordt beschreven in Artikel 3 van deze Grondwet, om Rollen te definiëren of te wijzigen binnen de Cirkel en de Domeinafspraken die het Domein van de Cirkel besturen. Niemand mag Rollen of Domeinafspraken van een Cirkel definiëren of wijzigen buiten dit Governance Proces, tenzij dit expliciet wordt toegestaan door een andere regel van deze Grondwet. 
+Elke Cirkel gebruikt het **‘****Bestuurs-Proces****’**, welke wordt beschreven in Artikel 3 van deze Grondwet, om Rollen te definiëren of te wijzigen binnen de Cirkel en de Domeinafspraken die het Domein van de Cirkel besturen. Niemand mag Rollen of Domeinafspraken van een Cirkel definiëren of wijzigen buiten dit Bestuurs-Proces, tenzij dit expliciet wordt toegestaan door een andere regel van deze Grondwet. 
 
-Verder mag iedere Cirkel controle uitoefenen op zijn eigen functies en activiteiten, alsof het een Domein van de Cirkel is, ten behoeve van het bepalen van Domeinafspraken die de Rollen van de Cirkel beperken. 
+Verder mag iedere Cirkel controle uitoefenen op haar eigen functies en activiteiten, alsof het een Domein van de Cirkel is, ten behoeve van het bepalen van Domeinafspraken die de Rollen van de Cirkel beperken. 
 
 #### 2.1.2 Rollen mogen invloed uitoefenen op Domeinen
 
-Als je een Rol vervult in een Cirkel, dan mag je ieder Domein gebruiken en beïnvloeden die wordt beheerd door de Cirkel zelf, of waarvan de Cirkel de autoriteit heeft gekregen om te beïnvloeden. Echter, je moet je houden aan eventuele beperkingen die van toepassing zijn op de Cirkel zelf of beperkingen die gedefinieerd zijn in een Domeinafspraak van de Cirkel, en je kunt het Domein mogelijk niet volledig beheersen of reguleren onder de voorwaarden van Artikel 1.4. 
+Als je een Rol vervult in een Cirkel dan mag je ieder Domein gebruiken en beïnvloeden die wordt beheerd door de Cirkel zelf, of waarvan de Cirkel de autoriteit heeft gekregen om die te beïnvloeden. Echter, je moet je houden aan eventuele beperkingen die van toepassing zijn op de Cirkel zelf of beperkingen die gedefinieerd zijn in een Domeinafspraak van de Cirkel, en je kunt het Domein mogelijk niet volledig beheersen of reguleren onder de voorwaarden van Artikel 1.4. 
 
 Verder mag je het Domein of belangrijke onderdelen ervan niet overdragen of er afstand van doen, ook mag je de rechten van de Cirkel niet aanzienlijk beperken ten opzichte van het Domein. Echter, deze beperkingen zijn niet van toepassingen als een Rol of een proces met autoriteit je de toestemming geeft om het te doen. 
 
 #### 2.1.3 Delegeren van beheer
 
-Als een Cirkel een Domein definieert op een van haar Rollen dan is daarmee de autoriteit van de Cirkel om dit domein te beïnvloeden, te reguleren of te controleren gedelegeerd aan die Rol en verwijderd van de Cirkel. 
+Elke rol binnen een Cirkel kan in het algemeen invloed hebben op het Domein van die Cirkel zonder uitdrukkelijke toestemming, tenzij het Domein gedelegeerd is aan een specifieke rol binnen de Cirkel.
 
-Echter, de Cirkel heeft het recht om te het Domein te verwijderen of te wijzigen, of om Domeinafspraken die de autoriteit op het Domein verder beperken of verruimen, te definiëren en aan te passen. 
+Echter, de Cirkel heeft het recht om te het Domein te verwijderen of te wijzigen, of om Domein-afspraken die de autoriteit op het Domein verder beperken of verruimen te definiëren en aan te passen. 
 
-### 2.2 Cirkel Lead Link
+### 2.2 Cirkel Lead-Link
 
-Iedere Cirkel heeft een ‘**Lead Link Rol**’. De definitie van deze Rol vind je in [Bijlage A](#bookmark=id.ft3sordgl9ty), de verantwoordelijkheden en bevoegdheden staan in dit Artikel. 
+Iedere Cirkel heeft een ‘**Lead-Link Rol**’. De definitie van deze Rol vind je in [Bijlage A](https://github.com/DmitriSchrama/Holacracy-Constitution-4.1-DUTCH/blob/master/Bijlage%20A.md), de verantwoordelijkheden en bevoegdheden staan in dit Artikel. 
 
-De persoon die de Lead Link Rol vervult wordt **Lead** **Link** genoemd wanneer hij handelt vanuit deze hoedanigheid. 
+De persoon die de LeadLink Rol vervult wordt **Lead-Link** genoemd wanneer hij handelt vanuit deze hoedanigheid. 
 
 #### 2.2.1 Vult ongedefinieerde functies in
 
-De Lead Link van de Cirkel verkrijgt de Purpose en alle Verantwoordelijkheden van de Cirkel en beheert elk Domein van de Cirkel, alsof de Cirkel slechts een Rol was en de Lead Link deze Rol vervult. Echter, dat geldt alleen als deze Verantwoordelijkheden en Domeinen niet zijn geplaatst op een Rol in de Cirkel, of op een andere manier zijn gedelegeerd. 
+De Lead-Link is de eindverantwoordelijke van een Cirkel en vervult het doel en alle Verantwoordelijkheden van de Cirkel en beheert elk Domein van die Cirkel. Tenzij de Verantwoordelijkheden en domeinen zijn gedefinieerd in een rol binnen die Cirkel of op een andere manier zijn gedelegeerd. 
 
-Verder mag de Lead Link geen Domeinafspraken definiëren die de Rollen van de Cirkel beperken, behalve wanneer dat gebeurt via het Roloverleg van de Cirkel. 
+Verder mag de Lead-Link geen Domeinafspraken definiëren die de Rollen van de Cirkel beperken, behalve wanneer dat gebeurt via het Roloverleg van de Cirkel. 
 
 #### 2.2.1 Bepaalt prioriteiten en strategieën 
 
-De Lead Link van een Cirkel mag relatieve prioriteiten voor de Cirkel bepalen. 
+De Lead-Link van een Cirkel mag relatieve prioriteiten voor de Cirkel bepalen. 
 
-Bovendien kan de Lead Link een meer algemene ‘Strategie’ of meerdere strategieën voor de Cirkel bepalen, welke als hulpmiddel dienen voor de Rollen om zelf op een voortdurende basis prioriteiten te bepalen. 
+Bovendien kan de Lead-Link een meer algemene ‘Strategie’ of meerdere strategieën voor de Cirkel bepalen, welke als hulpmiddel dienen voor de Rollen om zelf op een voortdurende basis prioriteiten te bepalen. 
 
-#### 2.2.1 Wijzigingen van de Lead Link Rol
+#### 2.2.1 Wijzigingen van de Lead-Link Rol
 
-De Cirkel mag geen Verantwoordelijkheden of andere functies toevoegen aan de eigen Lead Link Rol. Ook mag de Purpose van de Rol niet aangepast worden en de Rol niet verwijderd worden. 
+Een Cirkel mag geen Verantwoordelijkheden of andere functies toevoegen aan de LeadLink Rol. Ook mag het doel van deze Rol niet aangepast worden en kan de Rol niet verwijderd worden. 
 
-Echter, een Cirkel mag Verantwoordelijkheden, Domeinen, bevoegdheden of functies van de Lead Link Rol wel verwijderen, door ze of bij een andere Rol in de Cirkel te plaatsen, of door een alternatieve manier te bepalen om ze uit te voeren. Als dit gebeurt. verdwijnt automatisch de relevantie of de autoriteit van de Lead Link Rol, zolang deze delegatie in stand blijft. 
+Echter, een Cirkel mag Verantwoordelijkheden, Domeinen, bevoegdheden of functies van de Lead-Link Rol wel delegeren door ze bij een andere Rol in de Cirkel te plaatsen, of door een alternatieve manier te bepalen om ze uit te voeren. Als dit gebeurt. verdwijnt automatisch de relevantie of de autoriteit van de Lead-Link Rol, zolang deze delegatie in stand blijft. 
 
-### 2.3 Kernleden van de Cirkel
+### 2.3 Cirkel participatie & bestuur
 
-De Cirkelleden die deel mogen nemen aan het Governance Proces van de Cirkel, zijn '**Kernleden'** van de Cirkel. 
+De rollen die deel mogen nemen aan het Governance Proces van de Cirkel, zijn de '**leden'** van de Cirkel. 
 
-De Kernleden van de Cirkel houden zich aan de volgende regels:
+De leden van ene Cirkel houden zich aan de volgende regels:
 
 #### 2.3.1 Basis lidmaatschap
 
-Tenzij er een speciale afspraak of uitsluiting wordt gemaakt onder de voorwaarden van dit Artikel, zijn de de Kernleden van de Cirkel:
+Tenzij er een speciale afspraak of uitsluiting wordt gemaakt onder de voorwaarden van dit Artikel, zijn de de leden van de Cirkel:
 
-**(a)** iedere Partner die een Rol vervult in de Cirkel;
+**(a)** iedere Partner die een Rol vervult binnen die Cirkel;
 
-**(b)** de Lead Link van de Cirkel, zoals vastgelegd in Artikel 2.2;
+**(b)** de Lead-Link van de Cirkel, zoals vastgelegd in Artikel 2.2;
 
-**(c)** iedere verkozen Rep Link van de Cirkel, zoals vastgelegd in Artikel 2.6.4;
+**(c)** iedere verkozen Rep-Link van de Cirkel, zoals vastgelegd in Artikel 2.6.4;
 
-**(d)** iedere Cross Link in de Cirkel, zoals vastgelegd in Artikel 2,7. 
+**(d)** iedere Cross-Link in die Cirkel, zoals vastgelegd in Artikel 2,7. 
 
 #### 2.3.2 Uitsluiting van multi ingevulde Rollen
 
-Als meerdere Partners zijn toegewezen aan dezelfde Rol in een Cirkel, dan kan de Cirkel een Domeinafspraak uitvoeren waarmee het aantal Partners dat in die Rol Kernlid is wordt beperkt. Wel moet deze Domeinafspraak het minimaal 1 Partner die deze Rol vervult toestaan om zijn Rol te vertegenwoordigen als Kernlid van de Cirkel en uitleggen hoe deze vertegenwoordiger wordt bepaald. 
-
-Bovendien hebben alle Partners die deze Rol vertegenwoordigen de plicht om Spanningen te overdenken en te verwerken die worden overgebracht door de uitgesloten Partners, precies zoals een Rep Link zou doen als de Rol een Sub Cirkel zou zijn, tenzij de Domeinafspraak een andere manier voor de uitgesloten Partners bepaalt om Spanningen gerelateerd aan deze Rol te verwerken.  
+Als een rol wordt ingevuld door meerdere partners, kan een Cirkel een domein instellen waarmee slechts een van die Partners aangesteld word als vertegenwoordiger van die Rol. Als dat zo is gedraagt deze Partner zich als een Rep-Link om de spanningen van de andere Partners te vertegenwoordigen. Binnen deze Domein afspraak is er minimaal 1 Partner die deze Rol vervult als Klid van de Cirkel en moet kunnen uitleggen hoe deze vertegenwoordiger wordt bepaald. 
 
 #### 2.3.3 Uitsluiting bij minimale besteding van aandacht
 
-Soms besteedt een Partner slechts een zeer klein, bijna verwaarloosbaar gedeelte van zijn aandacht aan een Rol in de Cirkel. Als de Lead Link van de Cirkel denkt dat dit redelijkerwijs het geval is, dan kan de Lead Link deze Partner in deze Rol uitsluiten als Kernlid van de Cirkel. 
+Soms besteedt een Partner slechts een zeer klein, bijna verwaarloosbaar gedeelte van zijn aandacht aan een Rol in de Cirkel. Als de Lead-Link van de Cirkel denkt dat dit redelijkerwijs het geval is, dan kan de Lead-Link deze Partner in deze Rol uitsluiten als lid van de Cirkel. 
 
-Als een Partner op deze manier wordt uitgesloten, heeft de Lead Link de plicht om Spanningen te overdenken en te verwerken die worden overgebracht door de uitgesloten Partner, precies zoals een Rep Link zou doen als de Rol een Sub Cirkel zou zijn, tenzij er een ander manier voor de uitgesloten Partner is bepaald om Spanningen gerelateerd aan deze Rol te verwerken. 
+Als een Partner op deze manier wordt uitgesloten, heeft de Lead-Link de plicht om Spanningen te overdenken en te verwerken die worden overgebracht door de uitgesloten Partner, precies zoals een Rep-Link zou doen als de Rol een Sub Cirkel zou zijn, tenzij er een ander manier voor de uitgesloten Partner is bepaald om Spanningen gerelateerd aan deze Rol te verwerken. 
 
-#### 2.3.4 Speciale benoeming van Cirkel Kernleden
+#### 2.3.4 Speciale benoeming van Cirkel leden
 
-De Lead Link van de Cirkel kan extra personen aanwijzen als Kernlid van de Cirkel, naast de voorgeschreven personen die genoemd staan in deze Grondwet, en kan deze benoeming op ieder moment opheffen. 
+De Lead Link van de Cirkel kan extra personen aanwijzen als lid van de Cirkel, naast de voorgeschreven personen die genoemd staan in deze Grondwet, en kan deze benoeming op ieder moment opheffen. 
 
 ### 2.4 Rol toewijzing
 
-De Lead Link van de Cirkel kan mensen toewijzen aan een Rol in de Cirkel, tenzij deze autoriteit is beperkt of gedelegeerd. 
+De Lead-Link van de Cirkel kan Partners toewijzen aan een Rol in de Cirkel, tenzij deze autoriteit is beperkt of gedelegeerd. 
 
 #### 2.4.1 Onvervulde Rollen
 
-Als een Rol in een Cirkel door niemand wordt vervuld, dan wordt verwacht van de Lead Link dat deze de Rol vervult. 
+Als een Rol in een Cirkel niet door een Partner wordt vervuld word deze toegewezen aan de Lead-Link. 
 
 #### 2.4.2 Rollen toewijzen aan meerdere personen
 
-Een Lead Link mag meerdere personen toewijzen aan dezelfde Gedefinieerde Rol, zolang dat de helderheid niet afneemt over wie de Verantwoordelijkheden en bevoegdheden van de Rol uitvoert in voorkomende situaties. 
+Een rol kan aan meerdere personen worden toegekend, zolang het is duidelijk wie verantwoordelijkheden en bevoegdheden voor de specifieke situaties waarmee de rol houdt. Een manier om dit duidelijk is om een "Focus" toewijzen aan elke persoon binnen de rol.
 
-Een manier om deze helderheid te behouden is dat de Lead Link een ‘Focus’ kan specificeren bij iedere toewijzing. Dit is een gebied of context voor die persoon om op te focussen tijdens het uitvoeren van de Rol. 
+Een Lead-Link mag meerdere personen toewijzen aan een Rol zolang het helder blijft wie welke Verantwoordelijkheden en bevoegdheden van de Rol uitvoert. 
 
-Als een Rol toewijzing een Focus bevat dan geldt voor die specifieke persoon dat de Purpose, Verantwoordelijkheden en Domeinen van die Rol worden uitgevoerd binnen die Focus. 
+Een manier om deze helderheid te behouden is om een ‘Focus’ te specificeren bij iedere toewijzing. Dit is een gebied of context voor die persoon om op te focussen tijdens het uitvoeren van de Rol. 
+
+Als een Rol toewijzing een Focus bevat dan geldt dat het doel, de Verantwoordelijkheden en Domeinen van die Rol worden uitgevoerd door die specifieke Partner binnen die Focus. 
 
 #### 2.4.3 Afstand doen van Rollen
 
-Als je een Rol vervult, kun je op ieder moment afstand doen van je Rol, tenzij je akkoord bent gegaan met een andere afspraak, door dat te laten weten aan de persoon die de toewijzing van die Rol beheert - standaard is dat de Lead Link. 
+Een Partner die een Rol vervult kan daar op ieder moment afstand van doen, tenzij er een andere afspraak geld, door dat te laten weten aan de persoon die de toewijzing van die Rol beheert - standaard is dat de Lead-Link. 
 
 ### 2.5 Verkozen Rollen
 
-Elke Cirkel heeft een **‘Facilitator** **Rol****’**, een **‘Secretaris** **Rol’** en een **‘Rep** **Link** **Rol’**, waarvan de definities in Bijlage A staan. Dit zijn de ‘Verkozen Rollen’ van de Cirkel. De personen die deze Rollen vervullen noemen we de **‘Facilitator’**, **‘Secretaris’** en **‘Rep** **Link’** van de Cirkel wanneer ze handelen vanuit deze Verkozen Rollen. 
+Elke Cirkel heeft een **‘Facilitator** **Rol****’**, een **‘Secretaris** **Rol’** en een **‘Rep-Link** **Rol’**, waarvan de definities in Bijlage A staan. Dit zijn de ‘Verkozen Rollen’ van de Cirkel. De personen die deze Rollen vervullen noemen we de **‘Facilitator’**, **‘Secretaris’** en **‘Rep-Link’** van de Cirkel wanneer ze handelen vanuit deze Verkozen Rollen. 
 
 #### 2.5.1 Verkiezingen en verkiesbaarheid
 
-De Facilitator van elke Cirkel begeleidt terugkerende verkiezingen om een Kernlid van de Cirkel te verkiezen voor ieder van de Verkozen Rollen, gebruik makend van het proces en de regels die bepaald zijn in Artikel 3. Alle Kernleden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Lead Link van de Cirkel, welke niet mag worden gekozen als Facilitator of Rep Link. 
+De Facilitator van elke Cirkel begeleidt terugkerende verkiezingen volgens de regels van artikel 3.3.5 om een Partner die lid is van een Cirkel te verkiezen voor de verkiesbare Rollen. Alle leden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Lead Link van de Cirkel die niet mag worden gekozen als Facilitator of Rep Link. 
 
 #### 2.5.2 Verkiezingstermijn en herzien van verkiezingen 
 
-Tijdens het verkiezingsproces zal de Facilitator een termijn vaststellen voor iedere verkiezing. Als de termijn is verstreken, is de Secretaris verantwoordelijk voor het direct voorstellen van een nieuwe verkiezing voor die Verkozen Rol. 
+Tijdens het verkiezingsproces stelt de Facilitator een termijn vast voor iedere verkiezing. Voor het verstrijken van de termijn is de Secretaris verantwoordelijk voor het plannen van een nieuwe verkiezing voor die Verkozen Rol. 
 
-Echter, nog voordat een termijn is verstreken kan elk Kernlid van de Cirkel een nieuwe verkiezing voorstellen, gebruikmakend van het proces dat is bepaald in Artikel 3. 
+Echter, nog voordat een termijn is verstreken kan elk lid van de Cirkel een nieuwe verkiezing voorstellen, gebruikmakend van het proces dat is bepaald in Artikel 3. 
 
 #### 2.5.3 Wijzigen van Verkozen Rollen
 
-Een Cirkel kan Verantwoordelijkheden en Domeinen toevoegen aan de Verkozen Rollen en deze ook toevoegingen aanpassen of verwijderen. 
+Een Cirkel kan Verantwoordelijkheden of domeinen toevoegen aan haar Verkozen Rollen en kan die toevoegingen later weer aanpassen of verwijderen. Het is niet mogelijk om het standaard doel, de domeinen en/of verantwoordelijkheden zoals vastgesteld in bijlage A te veranderen of the verwijderen.
 
-Echter, een Cirkel mag alleen iets toevoegen aan zijn eigen Rep Link Rol en niet aan de Rep Link Rol die is toegewezen door de Cirkel door een Sub Cirkel. 
-
-Verder mag een Cirkel geen Purpose, Domein, Verantwoordelijkheden en of bevoegdheden van een Verkozen Rol, verkregen zoals Gedefinieerde in deze Grondwet, verwijderen of wijzigen. Ook mag een Verkozen Rol niet in zijn geheel verwijderd worden. 
+Een Cirkel kan niets veranderen aan verkozen Rollen van andere cirkels, met inbegrip van Rep-Links uit Sub-cirkels.
 
 #### 2.5.4 Vervanging van verkozen Rollen
 
-Een vervanger kan tijdelijk een Verkozen Rol vervullen wanneer deze niet vervuld is, of als de persoon die de Rol normaal vervult niet beschikbaar is voor een Cirkel overleg of wanneer hij zich niet in staat of bereid voelt om de taken van de Rol uit te voeren. 
+Een vervangende Partner kan tijdelijk een Verkozen Rol vervullen wanneer deze niet is vervuld, of als de persoon die de Rol normaal vervult niet beschikbaar is voor een Cirkel overleg of wanneer hij zich niet in staat of bereid voelt om de taken van de Rol uit te voeren. 
 
-Als er een vervanger nodig is, dan wordt de vervanger, in deze volgorde:
+Als er een vervanger nodig is, dan wordt de vervanger bepaald in deze volgorde:
 
 **(a) **iemand die expliciet is bepaald door de oorspronkelijke Rol vervuller; of
 
@@ -197,63 +199,69 @@ Als er een vervanger nodig is, dan wordt de vervanger, in deze volgorde:
 
 **(d)** de Lead Link van de Cirkel; of
 
-**(e)** het eerste Kernlid van de Cirkel dat aangeeft dat hij of zij als vervanger zal optreden. 
+**(e)** een lid van de Cirkel die aangeeft dat hij of zij als vervanger zal optreden. 
 
 ### 2.6 Sub-Cirkels
 
-Een Cirkel kan zijn Gedefinieerde Rollen uitbreiden naar volledige Cirkels, via zijn Governance Proces. Als dat gebeurt, dan wordt de nieuwe Cirkel de ‘Sub-Cirkel’, terwijl de cirkel zelf de ‘Super-Cirkel’ wordt van deze nieuwe Sub-Cirkel. 
+Een Cirkel kan zijn Gedefinieerde Rollen opsplitsen in volledige Cirkels via het bestuurs-Proces. Als dat gebeurt dan wordt de nieuwe Cirkel de ‘Sub-Cirkel’ en de cirkel de ‘Super-Cirkel’ van deze nieuwe Sub-Cirkel. 
 
 #### 2.6.1 Wijzigen van Sub-Cirkels
 
-Een Cirkel kan de Purpose, het Domein en verantwoordelijkheden van een Sub-Cirkel veranderen. Een Cirkel kan ook zijn eigen Rollen of Domeinafspraken verplaatsen in een Sub-Cirkel, of die van de Sub-Cirkel naar zijn eigen Cirkel verplaatsen. Elke van deze wijzigingen mag alleen gedaan worden via het Governance Proces van de Cirkel. Naast deze toegestane wijzigingen, mag een Cirkel geen Rollen of Domeinafspraken binnen een Sub-Cirkel wijzigen.
+Een Cirkel kan het Doel, Domein en verantwoordelijkheden van haar Sub-Cirkel(s) veranderen. Een Cirkel kan ook haar eigen Rollen of Domeinafspraken verplaatsen naar een Sub-Cirkel, of die van de Sub-Cirkel naar zijn eigen Cirkel verplaatsen. Elke wijziging mag alleen gedaan worden via het Bestuurs-Proces van de Cirkel. Een Cirkel mag niet de Rollen of Domeinafspraken binnen haar Sub-Cirkel(s) wijzigen.
 
 #### 2.6.2 Verwijderen van Sub-Cirkels
 
-Via het Governance Proces kan een Cirkel een Sub-Cirkel verwijderen. Dit kan worden gedaan door de Sub-Cirkel met alles erin volledig te verwijderen, of door selectief bepaalde elementen van de Sub-Cirkel binnen de Cirkel te houden. Een Sub-Cirkel kan ook verwijderd worden door het in te laten klappen van een Cirkel naar slechts een rol. 
+Een Cirkel kan een Sub-cirkel verwijderen door middel van bestuur door;
+**(a) **het geheel verwijderen van de Sub-cirkel, met inbegrip van alle rollen, of
+**(b) **het terugbrengen van de Sub-cirkel naar een enkele rol, dus door alle rollen te verwijderen, of
+**(c)** het oplossen van de Sub-cirkel grens, zodat alle functies worden geabsorbeerd door de Super-cirkel.
 
 #### 2.6.3 Lead Link van Sub-Cirkel
 
-De Lead Link van een Cirkel kan iemand toewijzen om de Lead Link Rol voor elke Sub-Cirkel te vervullen, gebruikmakend van dezelfde regels die gelden als de Lead Link personen toewijst aan andere Gedefinieerde Rollen van de Cirkel. 
+De Lead-Link van een Cirkel kan een Partner aanwijzen om de Lead-Link Rol voor een Sub-Cirkel te vervullen, gebruikmakend van dezelfde regels die gelden als de Lead-Link personen toewijst aan andere Gedefinieerde Rollen van de Cirkel.
+Of de Partner die de oorspronkelijk rol vervulde word de Lead-Link van de nieuwe Cirkel
 
 #### 2.6.4 Rep Link naar Sub-Cirkel
 
-Elke Cirkel verkiest normaliter een Rep Link naar zijn Super-Cirkel. Echter, deze verkiezing is niet nodig wanneer een Cirkel geen Kernleden anders heeft dan deze die de Lead Link en Cross Link Rol dienen. In dat geval, ook al wordt er een verkiezing gehouden, wordt de Rep Link geen Kernlid van de Super Cirkel. 
+Elke Cirkel verkiest normaliter een Rep-Link voor haar Super-Cirkel. Deze verkiezing is echter niet nodig wanneer een Cirkel geen andere leden heeft dan een Lead-Link en een Koppel-Link. In dat geval, ook al wordt er een verkiezing gehouden, wordt de Rep Link geen Kernlid van de Super Cirkel. 
 
-### 2.7 Cross Linking
+### 2.7 Koppel-Link
 
-Een Cirkel kan een **‘Cross** **Link** **Domeinafspraak’** maken om een entiteit of groep uit te nodigen om deel te nemen aan het Governance Proces en de uitvoer van een andere Cirkel. De entiteit of groep die wordt uitgenodigd om deel te nemen is de **‘Gelinkte** **Entiteit’**. Deze kan van buiten de organisatie zijn, of het kan een andere Rol of Cirkel in de organisatie zijn. De Cirkel die deze link krijgt is de **‘Doelcirkel’** en moet de Cirkel zijn die de Cross Link Domeinafspraak maakt, of een van zijn Sub-Cirkels. 
+Een Cirkel kan een "Koppel-link Beleid" definiëren door het bestuur. Waarmee een andere entiteit (de "gekoppelde Entiteit") word uitgenodigd als vertegenwoordiger in die Cirkel of een van de Sub-cirkels (de "Doel Cirkel").
 
-Zodra een Cross Link Domeinafspraak is aangenomen, kan de Gelinkte Entiteit een vertegenwoordiger toewijzen om deel te nemen in de Broncirkel onder de voorwaarden van dit Artikel, tenzij er andere voorwaarden zijn gedefinieerd in de Cross Link Domeinafspraak. 
+Een Cirkel kan een **‘Koppel-Link** **Domeinafspraak’** maken om een entiteit of groep uit te nodigen om deel te nemen aan het Bestuurs-Proces en de uitvoer van een andere Cirkel. De entiteit of groep die wordt uitgenodigd om deel te nemen is de **‘Gekoppelde** **Entiteit’**. Deze kan van buiten de organisatie zijn, of het kan een andere Rol of Cirkel in de organisatie zijn. De Cirkel die deze link krijgt is de **‘Doel-Cirkel’** en moet de Cirkel (of een van haar Sub-Cirkels) zijn die de Koppel-Link Domeinafspraak maakt.
 
-#### 2.7.1 Cross Link Rol
+Zodra een Koppel-Link Domeinafspraak is aangenomen, kan de Gelinkte Entiteit een vertegenwoordiger toewijzen om deel te nemen in de Doel-Cirkel onder de voorwaarden van dit Artikel, tenzij er andere voorwaarden zijn gedefinieerd in de Koppel-Link Domeinafspraak. 
 
-Als de Gelinkte Entiteit een Rol is, dan mag die Rol zoals hieronder beschreven deelnemen in de Broncirkel. Dit is de ‘Cross Link Rol’ en de persoon die deze vervult wordt de ‘Cross Link’. 
+#### 2.7.1 Koppel-Link Rol
 
-Als de Gelinkte Entiteit een Cirkel of een groep is, dan wordt in plaats daarvan automatisch een nieuwe Cross Link Rol met een eigen Purpose gecreëerd, welke tot zowel de Gelinkte Identiteit als de Broncirkel behoort, ongeveer zoals een Rep Link. In dit geval heeft de Cross Link Rol dezelfde Purpose en Verantwoordelijkheden als een Rep Link. Maar waar bij de Rep Link wordt verwezen naar de Cirkel, wordt hier de Gelinkte Identiteit bedoeld en waar wordt verwezen naar de Super-Cirkel wordt hier Doelcirkel bedoeld. 
+Als de Gelinkte Entiteit een Rol is, dan mag die Rol zoals hieronder beschreven deelnemen in de Doel-Cirkel. Dit is de ‘Koppel-Link Rol’ en de persoon die deze vervult wordt de ‘Koppel-Link’. 
 
-Als de Gelinkte Entiteit geen heldere Purpose en geen enkele heldere Verantwoordelijkheden heeft, dan moet de Cross Link Domeinafspraak verder verhelderen wat de Cross Link Rol zal vertegenwoordigen in de Doelcirkel. 
+Als de Gekoppelde Entiteit een Cirkel of een groep is, dan wordt in plaats daarvan automatisch een nieuwe Koppel-Link Rol met een eigen Doel gecreëerd, welke tot zowel de Gelinkte Identiteit als de Doel-Cirkel behoort, ongeveer zoals een Rep-Link. In dit geval heeft de Koppel-Link Rol hetzelfde doel en Verantwoordelijkheden als een Rep Link. Maar waar bij de Rep Link wordt verwezen naar de Cirkel, wordt hier de Gelinkte Identiteit bedoeld en waar wordt verwezen naar de Super-Cirkel wordt hier Doel-Cirkel bedoeld. 
 
-#### 2.7.2 Cross Link toewijzing
+Als de Gekoppelde Entiteit geen helder doel en geen enkele heldere Verantwoordelijkheden heeft, dan moet de Koppel-Link Domeinafspraak verder verhelderen wat de Koppel-Link Rol zal vertegenwoordigen in de Doel-Cirkel. 
 
-Als de Gelinkte Entiteit een Cirkel of een groep is, dan mag deze iemand aanwijzen om de Cross Link Rol te vervullen, gebruikmakend van welk proces de Entiteit of groep al gebruikt voor het toewijzen van mensen om Rollen of gelijksoortige werkfuncties te vervullen. 
+#### 2.7.2 Koppel-Link toewijzing
 
-Als een Gelinkte Identiteit een groep vertegenwoordigt die geen duidelijke proces of heldere autoriteit heeft om de Cross Link Rol toe te wijzen, dan kan de Broncirkel in plaats daarvan iemand toewijzen aan de Cross Link Rol, tenzij anders gespecificeerd in de Cross Link Rol Domeinafspraak. 
+Als de Gekoppelde Entiteit een Cirkel of een groep is, dan mag deze een Partner aanwijzen om de Koppel-Link te vervullen, gebruikmakend van het proces de Entiteit of groep al gebruikt voor het toewijzen van Partners om Rollen of gelijksoortige werkfuncties te vervullen. 
 
-In alle gevallen mag slechts 1 persoon toegewezen worden aan de Cross Link Rol, tenzij toegestaan door de Cross Link Domeinafspraak. Als een Cross Link Rol niet is toegewezen aan iemand, wordt het beschouwd als niet bestaand en heeft het geen standaard opdracht of effect. 
+Als een Gekoppelde Entiteit een groep vertegenwoordigt die geen duidelijk proces of heldere autoriteit heeft om de Koppel-Link Rol toe te wijzen, dan kan in plaats daarvan de Doel-Cirkel iemand toewijzen aan de Koppel-Link Rol, tenzij anders gespecificeerd in de Koppel-Link Rol Domeinafspraak. 
 
-#### 2.7.3 Cross Link autoriteit
+In alle gevallen mag slechts 1 persoon toegewezen worden aan de Koppel-Link Rol, tenzij toegestaan door de Koppel-Link Domeinafspraak. Als een Koppel-Link Rol niet is toegewezen aan een persoon, wordt deze beschouwd als niet bestaand.
 
-Een Cross Link wordt een Kernlid van de Doelcirkel en kan de autoriteit van een Kernlid gebruiken om Spanningen te verwerken die gerelateerd zijn aan de Doelcirkel en de Gelinkte Entiteit beperken. 
+#### 2.7.3 Koppel-Link autoriteit
 
-Echter, naast het wegnemen van beperkingen, mag een Cross Link de Doelcirkel niet gebruiken om meer capaciteit te bouwen voor de Gelinkte Entiteit, tenzij deze capaciteit ook de Doelcirkel helpt bij het uitdrukken van haar eigen Purpose en Verantwoordelijkheden. 
+Een Koppel-Link wordt lid van de Doel-Cirkel en kan de autoriteit als lid gebruiken om Spanningen te verwerken die gerelateerd zijn aan de Doelcirkel en de Gelinkte Entiteit beperken. 
 
-#### 2.7.4 Toevoegingen aan een Cross Link Rol
+Echter, naast het wegnemen van beperkingen, mag een Koppel-Link de Doelcirkel niet gebruiken om meer capaciteit te bouwen voor de Gekoppelde Entiteit, tenzij deze capaciteit ook de Doel-Cirkel helpt bij het volbrengen van haar eigen Doel en Verantwoordelijkheden. 
 
-Een Gelinkte Entiteit kan haar Cross Link Rol wijzigen via haar eigen Governance Proces. Een Doelcirkel kan Domeinen en Verantwoordelijkheden toevoegen aan een Cross Link Rol via zijn eigen Governance Proces en kan later wijzigen of verwijderen wat is toegevoegd. 
+#### 2.7.4 Toevoegingen aan een Koppel-Link Rol
+
+Een Gekoppelde Entiteit kan haar Koppel-Link Rol wijzigen via haar eigen Bestuurs Proces. Een Doelcirkel kan Domeinen en Verantwoordelijkheden toevoegen aan een Koppel-Link Rol via haar eigen Bestuurs Proces en kan deze later wijzigen of verwijderen.
 
 #### 2.7.5 Beperkingen en delegeren 
 
-De Gelinkte Entiteit die is uitgenodigd in een Doelcirkel kan een Rol zijn die onderdeel is van een andere Cirkel. In dat geval kan deze Cirkel de Gelinkte Entiteit wijzigen in een andere Rol van de Cirkel waarvan de Cirkel denkt dat het meer geschikt is, of de Cirkel kan de keuze van de Gelinkte Entiteit delegeren aan een van zijn Sub-Cirkels. 
+De Gekoppelde Entiteit die is uitgenodigd in een Doel-Cirkel kan een Rol zijn die onderdeel is van een andere Cirkel. In dat geval kan deze Cirkel de Gekoppelde Entiteit wijzigen in een andere Rol waarvan de Cirkel denkt dat deze meer geschikt is. Of de Cirkel kan de keuze van de Gelinkte Entiteit delegeren aan een van haar Sub-Cirkels. 
 
 ## ARTIKEL III Artikel 3: Het Governance Proces
 
