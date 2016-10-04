@@ -263,51 +263,55 @@ Een Gekoppelde Entiteit kan haar Koppel-Link Rol wijzigen via haar eigen Bestuur
 
 De Gekoppelde Entiteit die is uitgenodigd in een Doel-Cirkel kan een Rol zijn die onderdeel is van een andere Cirkel. In dat geval kan deze Cirkel de Gekoppelde Entiteit wijzigen in een andere Rol waarvan de Cirkel denkt dat deze meer geschikt is. Of de Cirkel kan de keuze van de Gelinkte Entiteit delegeren aan een van haar Sub-Cirkels. 
 
-## ARTIKEL III Artikel 3: Het Governance Proces
+## ARTIKEL III Artikel 3: Het Bestuur Proces
 
-### 3.1 De scope van het Governance Proces
+Een Cirkels Bestuurs-proces wordt gebruikt om rollen en beleid te definiëren. Dit artikel definieert het Bestuurs-proces en de regels voor het voorstellen van een verandering of het bezwaar daarop.
 
-Het Governance Proces van een Cirkel heeft de macht om:
+### 3.1 Reikwijdte van bestuur
 
-**(a) **rollen van de Cirkel en Sub-Cirkels te definiëren, te veranderen of te verwijderen;
+De enige geldige daden van het "Bestuur" van een Cirkel zijn het aanmaken & aanpassen van; rollen, Beleid, Sub-cirkels, of het houden van verkiezingen. Niets anders kan worden beslist of opgeschreven in het **'bestuurs-document'** van een Cirkel.
 
-**(b)** domeinafspraken van de Cirkel te definiëren, te veranderen of te verwijderen;
+Het Bestuurs-proces van een Cirkel heeft de macht om;
+**(a)** rollen van de Cirkel en Sub-Cirkels te definiëren, veranderen of verwijderen,
+**(b)** domeinafspraken van de Cirkel te definiëren, veranderen of verwijderen,
+**(c)** verkiezingen te houden voor de Verkozen Rollen. 
 
-(**c) **verkiezingen te houden voor de Verkozen Rollen. 
-
-Op ieder willekeurig moment, definiëren de dan actuele resultaten van het Governance Proces het bepalende **'****Governance****'**. Alleen de uitkomsten die in dit Artikel staan zijn geldige Governance voor een Cirkel; niemand mag andere uitkomsten van Governance opnemen in de Governance vastlegging van de Cirkel.. 
+Op ieder willekeurig moment definiëren de dan actuele resultaten van het Governance Proces het bepalende **'****Bestuur****'**. Alleen de uitkomsten die in dit bestuurs-document staan is geldig bestuur voor een Cirkel. Alleen de secretaris mag het Bestuurs-document aanpassen.
 
 ### 3.2 Governance veranderen
 
-Elk Kernlid van een Cirkel kan een voorstel doen om de Governance van de Cirkel te veranderen, door een '**Voorstel**' te doen als '**Indiener**'. 
+Elk lid van een Cirkel kan een voorstel doen om het Bestuur van die Cirkel te veranderen door een '**Voorstel**' te doen als '**Indiener**'. 
 
-Voordat een Voorstel wordt aangenomen, moeten alle Kernleden van de Cirkel de mogelijkheid hebben om Spanningen te benoemen over het aannemen van het Voorstel. Als een Spanning voldoet aan de criteria die zijn vastgelegd in dit Artikel, dan spreken we van een **'Bezwaar'** en de persoon die de Spanning inbrengt wordt de **'Bezwaarmaker'**. 
+Voordat een Voorstel wordt aangenomen moeten alle leden van de Cirkel de mogelijkheid hebben om Spanningen te benoemen. Als een Spanning voldoet aan de criteria die zijn vastgelegd in dit Artikel spreken we van een **'Bezwaar'** en de persoon die de Spanning inbrengt wordt de **'Bezwaarmaker'**. 
 
-Voorstellen worden beschouwd als aangenomen en wijzigen de Governance van de Cirkel, alleen als er geen Bezwaren worden ingebracht. Als er Bezwaren worden ingebracht, dan moeten de Bezwaarmaker en de Indiener een manier vinden om de Bezwaren aan te spreken voordat de Cirkel het Voorstel kan aannemen, waarna alle Kernleden van de Cirkel nog een andere mogelijkheid moeten hebben om andere Bezwaren te benoemen voordat het Voorstel wordt aangenomen.
+Voorstellen worden beschouwd als aangenomen en wijzigen het Bestuur van de Cirkel als er geen Bezwaren zijn. Als er Bezwaren worden ingebracht moeten de Bezwaarmaker en de Indiener de Bezwaren oplossen waarna alle leden van de Cirkel een volgende mogelijkheid krijgen om andere Bezwaren te benoemen voordat het Voorstel wordt aangenomen.
 
 #### 3.2.1 Voorstellen doen
 
-Ieder Kernlid van de Cirkel mag een Voorstel doen in het '**Roloverleg**' van de Cirkel (dat is het overleg dat binnenhet Governance Proces plaats vindt), onder de voorwaarden van Artikel 3.3. Als alternatief kan een Voorsteller ook een Voorstel verspreiden aan alle Kernleden van de Cirkel op een ander moment, buiten een Roloverleg, gebruikmakend van het geschreven communicatiekanaal dat door de Secretaris voor dit doel is goedgekeurd. 
+Elk lid van de Cirkel mag een Voorstel doen in het '**Rol-Overleg**', volgens de regels van Artikel 3.3. 
+Als alternatief kan een Voorsteller ook een Voorstel indienen aan alle leden van de Cirkel buiten een Roloverleg, hierbij  gebruik makend van het geschreven communicatiekanaal dat door de Secretaris voor dit doel is goedgekeurd. 
 
-Als dit gebeurt, dan kan de Facilitator hetzelfde proces en dezelfde regels toepassen die worden gebruikt tijdens een Roloverleg, of hij kan het toestaan dat ieder Kernlid van de Cirkel direct verklaart of hij wel of geen Bezwaren heeft om te integreren. Verder, op ieder moment totdat het ingediende Voorstel buiten het Roloverleg is aangenomen, kan de Facilitator of elk willekeurig Kernlid van de Cirkel het proces buiten het Roloverleg stoppen door de Voorsteller te verzoeken het Voorstel naar een Roloverleg te brengen en de Secretaris op de hoogte te brengen. 
+Als dit gebeurt kan de Facilitator hetzelfde proces en dezelfde regels toepassen die worden gebruikt tijdens een Roloverleg, of toestaan dat ieder lid van de Cirkel direct verklaart of er wel of geen Bezwaren zijn om te integreren. Op ieder moment, totdat het ingediende Voorstel buiten het Rol-Overleg is aangenomen, kan de Facilitator of elk willekeurig lid van de Cirkel het proces buiten het Roloverleg stoppen door de Voorsteller te verzoeken het Voorstel naar een Rol-Overleg te brengen.
 
-Een Cirkel kan Domeinafspraken aannemen om verder te beperken hoe en wanneer Voorstellen gemaakt of verwerkt kunnen worden buiten het Roloverleg. Echter, geen enkele Domeinafspraak mag het recht beperken van de Kernleden om een Voorstel buiten het Roloverleg te escaleren naar een Roloverleg. Een Cirkel kan ook een Domeinafspraak gebruiken om een tijdslimiet te zetten op het reageren op een Voorstel buiten het Roloverleg, zodat een Voorstel buiten een Roloverleg automatisch aangenomen is als er geen Bezwaren of escalatie verzoeken worden ingebracht. 
+Een Cirkel kan Domeinafspraken aannemen om te beperken hoe en wanneer Voorstellen gemaakt of verwerkt kunnen worden buiten het Roloverleg. Maar geen enkele Domeinafspraak mag het recht beperken van de Kernleden om een Voorstel buiten het Roloverleg naar een Rol-Overleg te brengen. 
 
 #### 3.2.2 Criteria voor geldige Voorstellen
 
-Sommige Voorstellen worden niet toegestaan tijdens het Governance Proces van de Cirkel en de Facilitator kan deze afwijzen voordat ze volledig verwerkt zijn.
+Sommige Voorstellen worden niet toegestaan tijdens het Bestuur Proces van de Cirkel en de Facilitator kan deze afwijzen voordat ze volledig verwerkt zijn.
 
-Om geldig te zijn voor verwerking moet een Voorstel een Spanning oplossen of verminderen die wordt waargenomen door de Voorsteller. 
+Om geldig te zijn voor verwerking moet een Voorstel een Spanning oplossen of verminderen die wordt waargenomen door de Voorsteller. Een Voorstel helpt de Indiener het Doel of een Verantwoordelijkheid van een van de Rollen die de Partner vervult in de Cirkel beter uit te drukken. 
 
-Bovendien moet een Voorstel de Indiener normaliter helpen de Purpose of een Verantwoordelijkheid van een van de Rollen die hij vervult in de Cirkel beter uit te drukken. Echter, een Voorstel mag als alternatief ook een ander Kernlid van de Cirkel helpen om een van zijn Rollen in de Cirkel beter uit te drukken, maar alleen als die persoon de Indiener de toestemming heeft gegeven om die Rol te vertegenwoordigen. 
+Een partner mag alleen een voorstel doen voor een Rol die door een andere Partner vervuld word als die Partner daar expliciet toestemming voor heeft gegeven.
 
-Tot slot, een Voorstel is altijd geldig, ongeacht de voorgaande criteria, als het uitsluitend is bedoeld om de Governance  van de Cirkel met meer helderheid te laten reflecteren wat er al gebeurt in de praktijk, of om een nieuwe verkiezing te initiëren. 
+Een Voorstel is altijd geldig, ongeacht de voorgaande criteria, als het uitsluitend is bedoeld om het Bestuur van de Cirkel met meer helderheid te laten reflecteren wat er al in de praktijk gebeurt, of om een nieuwe verkiezing te initiëren. 
 
 #### 3.2.3 Voorstellen testen
 
-De Facilitator mag de geldigheid van een Voorstel testen door de Indiener vragen te stellen. Voor een Voorstel om de test te doorstaan, moet de Indiener in staat zijn om de Spanning te omschrijven en een voorbeeld geven van een feitelijke situatie waarin het Voorstel de Spanning zou hebben verminderd. De Facilitator moet het Voorstel verwerpen als de Facilitator vindt dat de Voorsteller niet heeft voldaan aan deze voorwaarde. 
+De Facilitator test de geldigheid van een Voorstel door de Indiener vragen te stellen. Voor een Voorstel om de test te doorstaan moet de Indiener in staat zijn om de Spanning te omschrijven en een voorbeeld geven van een feitelijke situatie waarin het Voorstel de Spanning zou hebben verminderd. De Facilitator moet het Voorstel verwerpen als de Facilitator vindt dat de Voorsteller niet heeft voldaan aan deze voorwaarde. 
 
-Echter, bij het beoordelen van de geldigheid van een Voorstel mag de Facilitator alleen oordelen of de Indiener het vereiste voorbeeld en uitleg heeft gegeven, en of deze werden gepresenteerd met logische beredenering en of ze dus redelijk zijn. De Facilitator kan geen oordeel vellen op basis van de nauwkeurigheid van de antwoorden, noch op de vraag of het Voorstel de Spanning voldoende zou aanpakken.
+Echter, bij het beoordelen van de geldigheid van een Voorstel mag de Facilitator alleen oordelen of de Indiener het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met logische beredenering en dus of ze redelijk zijn. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid van de antwoorden, noch op de vraag of het Voorstel de Spanning voldoende zou aanpakken.
+
+//# hier was je gebleven
 
 #### 3.2.4 Criteria voor geldige Bezwaren
 
