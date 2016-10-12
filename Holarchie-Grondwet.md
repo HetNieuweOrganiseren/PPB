@@ -269,7 +269,7 @@ Een Cirkels Bestuurs-proces wordt gebruikt om rollen en beleid te definiëren. D
 
 ### 3.1 Reikwijdte van bestuur
 
-De enige geldige daden van het "Bestuur" van een Cirkel zijn het aanmaken & aanpassen van; rollen, Beleid, Sub-cirkels, of het houden van verkiezingen. Niets anders kan worden beslist of opgeschreven in het **'bestuurs-document'** van een Cirkel.
+De enige geldige daden van het "Bestuur" van een Cirkel zijn het aanmaken & aanpassen van; rollen, Beleid, Sub-cirkels, of het houden van verkiezingen. Niets anders kan worden beslist of opgeschreven in het **'Bestuurs-document'** van een Cirkel.
 
 Het Bestuurs-proces van een Cirkel heeft de macht om;
 **(a)** rollen van de Cirkel en Sub-Cirkels te definiëren, veranderen of verwijderen,
@@ -278,7 +278,7 @@ Het Bestuurs-proces van een Cirkel heeft de macht om;
 
 Op ieder willekeurig moment definiëren de dan actuele resultaten van het Governance Proces het bepalende **'****Bestuur****'**. Alleen de uitkomsten die in dit bestuurs-document staan is geldig bestuur voor een Cirkel. Alleen de secretaris mag het Bestuurs-document aanpassen.
 
-### 3.2 Governance veranderen
+### 3.2 Bestuur veranderen
 
 Elk lid van een Cirkel kan een voorstel doen om het Bestuur van die Cirkel te veranderen door een '**Voorstel**' te doen als '**Indiener**'. 
 
@@ -307,31 +307,31 @@ Een Voorstel is altijd geldig, ongeacht de voorgaande criteria, als het uitsluit
 
 #### 3.2.3 Voorstellen testen
 
-De Facilitator test de geldigheid van een Voorstel door de Indiener vragen te stellen. Voor een Voorstel om de test te doorstaan moet de Indiener in staat zijn om de Spanning te omschrijven en een voorbeeld geven van een feitelijke situatie waarin het Voorstel de Spanning zou hebben verminderd. De Facilitator moet het Voorstel verwerpen als de Facilitator vindt dat de Voorsteller niet heeft voldaan aan deze voorwaarde. 
+De Facilitator test de geldigheid van een Voorstel door de Indiener vragen te stellen. Voor een Voorstel om de test te doorstaan moet de Indiener in staat zijn om de Spanning te omschrijven en een voorbeeld geven van een feitelijke situatie waarin het Voorstel de Spanning zou hebben verminderd. De Facilitator moet het Voorstel verwerpen als de Facilitator vindt dat de Voorsteller niet heeft voldaan aan deze voorwaarden. 
 
-Echter, bij het beoordelen van de geldigheid van een Voorstel mag de Facilitator alleen oordelen of de Indiener het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met logische beredenering en dus of ze redelijk zijn. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid van de antwoorden, noch op de vraag of het Voorstel de Spanning voldoende zou aanpakken.
-
-// hier was je gebleven
+Echter, bij het beoordelen van de geldigheid van een Voorstel mag de Facilitator alleen oordelen of de Indiener het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met logische beredenering en dus of ze redelijk zijn. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid van de antwoorden, noch op de vraag of het Voorstel de Spanning voldoende zou oplossen.
 
 #### 3.2.4 Criteria voor geldige Bezwaren
 
-Sommige Spanningen gelden niet als Bezwaren en kunnen genegeerd worden tijden de behandeling van een Voorstel. Een Spanning telt alleen als een Bezwaar als het voldoet aan alle criteria van **(a)** t/m **(d)** die hieronder gedefinieerd staan, of de speciale criteria, gedefinieerd in **(e)**. 
+Sommige Spanningen gelden niet als Bezwaren en kunnen genegeerd worden tijden de behandeling van een Voorstel. Een Spanning geld alleen als een Bezwaar als het voldoet aan alle criteria van **(a)** t/m **(d)** of de speciale criteria gedefinieerd in **(e)**. 
 
-**(a) **Als de Spanning niet zou worden aangepakt, dan zou dat de capaciteit van de Cirkel om zijn Purpose uit te drukken of zijn Verantwoordelijkheden uit te voeren verminderen. Aldus wordt de Spanning niet veroorzaakt door een beter idee of een potentie voor verdere verbetering, maar doordat het Voorstel de Cirkel daadwerkelijk een stap achteruit brengt in zijn huidige capaciteit. Ten behoeve van deze criteria geldt het afnemen van helderheid als het verminderen van capaciteit, maar enkel het falen om helderheid te verbeteren niet. 
+**(a) **Als de Spanning niet zou worden opgelost, dan zou dat de capaciteit van de Cirkel om zijn Doel uit te drukken of zijn Verantwoordelijkheden uit te voeren verminderen. Aldus wordt de Spanning niet veroorzaakt door een beter idee of een potentie voor verdere verbetering, maar doordat het Voorstel de Cirkel daadwerkelijk een stap terug zet binnen haar huidige capaciteit. Ten behoeve van deze criteria geldt het afnemen van helderheid als het verminderen van capaciteit, maar falen om de helderheid te verbeteren niet. 
 
-**(b)** De Spanning bestaat niet al voor de Cirkel, zelfs in de afwezigheid van het Voorstel. Aldus, de Spanning wordt specifiek gecreëerd door het aannemen van dit Voorstel en zou niet bestaan als het Voorstel ingetrokken zou worden. 
+**(b)** De Spanning bestond nog niet in de Cirkel, ook niet bij de afwezigheid van het Voorstel. Dus de Spanning wordt specifiek gecreëerd door het aannemen van dit Voorstel en zou niet bestaan als het Voorstel ingetrokken zou worden. 
 
-**(c) **De Spanning is veroorzaakt door reeds bekende feiten of gebeurtenissen, zonder rekening te houden met een voorspelling van wat mogelijk zou kunnen gebeuren in de toekomst. Echter, een beroep doen op voorspellingen wordt toegestaan wanneer er in de toekomst waarschijnlijk geen gelegenheid is om adequaat te waarnemen en te reageren voordat het Voorstel tot significante impact heeft geleid. 
+**(c) **De Spanning is veroorzaakt door reeds bekende feiten of gebeurtenissen zonder en niet gebaseerd op een voorspelling van wat er mogelijk in de toekomst zou kunnen gebeuren. Echter, een beroep doen op voorspellingen wordt toegestaan wanneer er in de toekomst waarschijnlijk geen gelegenheid is om de schade adequaat waar te nemen en te reageren voordat het Voorstel tot significante impact heeft geleid. 
 
-**(d) **De Spaning beperkt de capaciteit van de Bezwaarmaker om de Purpose of een Verantwoordelijkheid uit te voeren van een van zijn rollen in de Cirkel, of, als het een andere Rol beperkt, de Bezwaarmaker heeft de toestemming van de persoon die deze Rol normaal vervult om deze Rol te vertegenwoordigen. 
+**(d) ** De Spanning beperkt de capaciteit van de Bezwaarmaker doordat zijn of haar Rol haar Doel of verantwoordelijkheden niet uit kan voeren. Of de Spanning beperkt een andere rol waarvan de bezwaarmaker toestemming heeft om deze te vertegenwoordigen.
 
-Echter, ongeacht bovenstaande criteria, een Spanning over het aannemen van een Voorstel telt altijd als een Bezwaar als:
+Echter, ongeacht bovenstaande criteria telt een Spanning altijd als een Bezwaar als:
 
-**(e) **Het behandelen of aannemen van het Voorstel de regels breekt die gedefinieerd zijn in deze Grondwet, of het de Cirkel of zijn leden aanzet om te handelen buiten de autoriteit die worden gegeven in deze Grondwet. Bijvoorbeeld, Eerstvolgende Acties, Projecten en specifieke operationele beslissingen zijn geen geldige uitkomsten van het Governance Proces onder de voorwaarden van Artikel 3.1, dus iedereen die betrokken is kan een Bezwaar inbrengen dat een Voorstel met deze uitkomsten de regels van de Grondwet breken. 
+**(e) **Het behandelen of aannemen van het Voorstel de regels breekt die gedefinieerd zijn in deze Grondwet. Of als het de Cirkel of zijn leden aanzet om te handelen buiten de autoriteit van deze Grondwet. 
+Bijvoorbeeld, Eerstvolgende Acties, Projecten en specifieke operationele beslissingen zijn geen geldige uitkomsten van het Bestuurs-proces onder de voorwaarden van Artikel 3.1. Elk lid kan een Bezwaar inbrengen als een Voorstel de regels van de Grondwet breken. 
 
 #### 3.2.5 Bezwaren testen
 
-De Facilitator mag de geldigheid van een ingebracht Bezwaart testen door de Bezwaarmaker vragen te stellen. Voor een Bezwaar om de test te doorstaan, moet de Bezwaarmaker in staat zijn om een redelijk argument te geven waarom het voldoet aan iedere specifieke criteria van een Bezwaar. De Facilitator moet het Bezwaar verwerpen als de Facilitator vindt dat de Bezwaarmaker niet heeft voldaan aan deze voorwaarde. 
+De Facilitator mag de geldigheid van een ingebracht Bezwaart testen door de Bezwaarmaker vragen te stellen. Om geldig te zijn moet de Bezwaarmaker het Bezwaar onderbouwen met een redelijk argument voor ieder van de gestelde criteria van 3.2.4.
+De Facilitator moet het Bezwaar verwerpen als deze van mening is dat de Bezwaarmaker niet heeft voldaan aan deze voorwaarden. 
 
 Bij het beoordelen van de geldigheid van een Bezwaar mag de Facilitator alleen oordelen of de Bezwaarmaker de vereiste argumenten heeft gegeven en of deze werden gegeven met logische beredenering en of ze dus redelijk zijn. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid of de belangrijkheid van de argumenten.
 
@@ -339,47 +339,56 @@ Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de 
 
 #### 3.2.6 Regels van integratie
 
-Als er een Bezwaar tegen een Voorstel wordt ingebracht gelden de volgende aanvullende regels tijdens de zoektocht naar een oplossing:
+Als er een Bezwaar is gelden de volgende aanvullende regels voor het vinden van een oplossing:
 
-**(a) **De Facilitator moet een Bezwaar testen als dat wordt verzocht door een Kernlid van de Cirkel en deze verwerpen als het niet voldoet aan de criteria die zijn Gedefinieerde in dit Artikel. 
+**(a) **De Facilitator moet een Bezwaar testen als dat wordt verzocht door een lid van de Cirkel en deze verwerpen als het niet voldoet aan de criteria van Artikel 3. 
 
-**(b)** De Bezwaarmaker moet proberen om een wijziging te vinden aan het Voorstel dat zijn Spanning zal oplossen en nog steeds de Spanning van de Voorsteller adresseert. Anderen mogen helpen. Als de Facilitator concludeert dat de Bezwaarmaker geen eerlijke inspanning doet om een mogelijke wijziging te vinden, dan moet de Facilitator het Bezwaar beschouwen als verworpen en doorgaan met het verwerken van het Voorstel alsof het Bezwaar niet was ingebracht. 
+**(b)** De Bezwaarmaker moet een wijziging voorstellen die zowel de Spanning van de Bezwaarmaker als de Voorsteller oplost. Anderen leden mogen helpen bij het formuleren van de oplossing. Als de Facilitator concludeert dat de Bezwaarmaker geen oprechte inspanning doet om een redelijke wijziging te formuleren moet de Facilitator het Bezwaar beschouwen als verworpen en doorgaan met het verwerken van het Voorstel alsof het Bezwaar niet was ingebracht. 
 
-**(c) **Ieder Kernlid van de Cirkel mag de Voorsteller verhelderende vragen stellen over de Spanning achter het Voorstel, of over ieder voorbeeld dat de Voorsteller heeft gedeeld om de Spanning toe te lichten. Als de Facilitator concludeert dat de Voorsteller geen eerlijke inspanning doet om die vragen te beantwoorden, dan moet de Facilitator het Voorstel beschouwen als ongeldig om te behandelen en verwerpen. 
+**(c) **Ieder Lid van de Cirkel mag de Voorsteller verhelderende vragen stellen over de Spanning achter het Voorstel of over de voorbeelden die de Voorsteller heeft gegeven om de Spanning toe te lichten. Als de Facilitator concludeert dat de Voorsteller geen oprechte inspanning doet om die vragen te beantwoorden moet de Facilitator het Voorstel beschouwen als ongeldig en deze verwerpen. 
 
-**(d) **De Bezwaarmaker mag een gewijzigd Voorstel voorstellen en redelijke argumenten geven waarom het de Spanning in iedere specifieke situatie die de Voorsteller heeft gegeven om de Spanning toe te lichten, zou oplossen of voorkomen. Dan, op verzoek van de Bezwaarmaker, moet de Voorsteller een redelijk argument geven waarom het gewijzigde Voorstel de Spanning in minimaal 1 specifieke situatie die al was gegeven niet zou oplossen of voorkomen. Als alternatief mag de Voorsteller een extra voorbeeld geven dat het gewijzigde Voorstel niet zou oplossen, maar welke nog steeds voldoet aan de criteria voor het behandelen van een Voorstel zoals vereist in Artikel 3.2.2. Als de Facilitator concludeert dat de Voorsteller niet heeft voldaan aan deze voorwaarden, dan moet de Facilitator het Voorstel beschouwen als ongeldig om te behandelen en verwerpen. 
+**(d) **Bij het wijzigen van een voorstel geeft De Bezwaarmaker redelijke argumenten hoe het de Spanning oplost of voorkomt voor elke specifieke situatie die de Voorsteller heeft gegeven. Vervolgens moet de Voorsteller een redelijk argument geven waarom het gewijzigde Voorstel de Spanning in minimaal één specifieke situatie die al was gegeven niet zou oplossen of voorkomen. 
+Als alternatief mag de Voorsteller een extra voorbeeld geven dat het gewijzigde Voorstel niet zou oplossen, maar welke nog steeds voldoet aan de criteria voor het behandelen van een Voorstel zoals vereist in Artikel 3.2.2. Als de Facilitator concludeert dat de Voorsteller niet heeft voldaan aan deze voorwaarden word het Voorstel beschouwd als ongeldig en verworpen. 
 
 ### 3.3 Roloverleggen
 
-De Secretaris van een Cirkel is verantwoordelijk voor het plannen van Roloverleggen om het Governance Proces van de Cirkel uit te voeren. Als aanvulling op ieder regulier, terugkerend Roloverleg dat de Secretaris plant, is de Secretaris verantwoordelijk voor het direct plannen van extra speciale Roloverleggen op verzoek van ieder Kernlid van de Cirkel. De Facilitator is verantwoordelijk voor het voorzitten van alle Roloverleggen in lijn met de volgende regels van relevante Domeinafspraken van de Cirkel.
+De Secretaris van een Cirkel is verantwoordelijk voor het plannen van een Rol-overleg om het Bestuuurs proces van de Cirkel uit te voeren. Als aanvulling op ieder regulier, terugkerend Rol-overleg dat de Secretaris plant, is de Secretaris verantwoordelijk voor het direct plannen van extra speciale Rol-overleggen op verzoek van ieder Lid van de Cirkel. De Facilitator is verantwoordelijk voor het voorzitten van alle Rol-overleggen in lijn met de geldende regels van relevante Domeinafspraken van de Cirkel.
 
 #### 3.3.1 Aanwezigheid
 
-Alle Kernleden van de Cirkel hebben het recht om volledig mee te doen in alle Roloverleggen van de Cirkel. De waarnemende Facilitator en Secretaris hebben ook het recht om volledig mee te doen en worden Kernleden van de Cirkel tijdens een Roloverleg, zelfs als ze normaal geen Kernleden van de Cirkel zijn. 
+Alle Leden van de Cirkel hebben het recht om volledig mee te doen in alle Rol-overleggen van de Cirkel. Een waarnemende Facilitator en/of Secretaris hebben ook het recht om volledig mee te doen en worden Leden van de Cirkel tijdens een Roloverleg, zelfs als zij normaal geen Leden van de Cirkel zijn. 
 
-Bovendien mogen de Lead Link en iedere Rep Link en Cross Link van de Cirkel 1 extra persoon uitnodigen, uitsluitend om de link te helpen bij het verwerken van een specifieke Spanning. De uitgenodigde persoon wordt dan ook een Kernlid van de Cirkel voor de duur van dat Roloverleg. Naast de personen genoemd in dit Artikel, is het niemand anders toegestaan om deel te nemen aan een Roloverleg van een Cirkel, tenzij ze expliciet zijn uitgenodigd in een Domeinafspraak van de Cirkel. 
+Bovendien mogen de Lead-Link en iedere Rep-Link en Koppel-Link van een Cirkel één extra Partner uitnodigen. Maar uitsluitend om de -link te helpen bij het verwerken van een specifieke Spanning. De uitgenodigde Partner wordt dan ook een Lid van die Cirkel voor de duur van dat Rol-overleg. Buiten zij die genoemd zijn in dit Artikel is het niemand anders toegestaan om deel te nemen aan een Roloverleg van een Cirkel, tenzij ze expliciet zijn uitgenodigd via een Domeinafspraak van de Cirkel. 
 
 #### 3.3.1 Aankondiging en minimum aantal deelnemers
 
-Een Cirkel mag alleen haar Governance Proces uitvoeren in een Roloverleg als de Secretaris alle Kernleden van de Cirkel een redelijke tijd voorafgaand aan het Roloverleg een aankondiging heeft gegeven dat het Roloverleg zal plaatsvinden, inclusief de tijd en de locatie. naast deze vereiste aankondiging is er geen minimaal aantal deelnemers vereist voor een Cirkel om een Roloverleg uit te voeren, tenzij er een minimum is bepaald in een Domeinafspraak van de Cirkel.
+Een Cirkel mag alleen haar Bestuurs proces uitvoeren in een Rol-overleg als de Secretaris alle Leden van de Cirkel een redelijke tijd voorafgaand aan het Roloverleg een aankondiging heeft gegeven dat het Roloverleg zal plaatsvinden, inclusief de tijd en de locatie. Er is geen minimaal aantal deelnemers vereist voor een Cirkel om een Roloverleg uit te voeren, tenzij er een minimum is bepaald in een Domeinafspraak van de Cirkel.
 
-Iedereen die er niet in slaagt om aanwezig te zijn bij een Roloverleg, telt als iemand die de mogelijkheid heeft gehad om alle Voorstellen die in het Roloverleg zijn gemaakt te bezien en geen Bezwaren heeft ingebracht tegen het aannemen van deze Voorstellen. 
+Iedere Partner die er niet in slaagt om aanwezig te zijn bij een Rol-overleg geld als iemand die de mogelijkheid heeft gehad om alle Voorstellen van dat Rol-Overleg te kunnen inzien en geen Bezwaren heeft ingebracht tegen het aannemen van deze Voorstellen. 
 
 #### 3.3.3 Roloverleg proces
 
 De Facilitator moet het volgende proces gebruiken voor Roloverleggen:
 
-**(a) Check-in Ronde**: De Facilitator staat het iedere deelnemer om de beurt toe om zijn of haar huidige staat van gedachten, of een ander type openingsreactie voor het Roloverleg, te delen. Reacties zijn niet toegestaan.
+**(a) Check-in Ronde**: De Facilitator geeft ieder lid om de beurt de gelegenheid om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Roloverleg te delen. Reacties zijn niet toegestaan.
 
-**(b) Administratieve Mededelingen**: De Facilitator staat ruimte toe om iedere administratieve of logistieke onderwerpen, die de Facilitator waardevol vindt om aandacht te geven, te bespreken en op te lossen.
+**(b) Administratieve Mededelingen**: De Facilitator geeft de ruimte om alle relevante administratieve of logistieke onderwerpen te bespreken en op te lossen.
 
-**(c) Agenda Opbouw en Verwerking**: De Facilitator bouwt een agenda van Spanningen op om te verwerken en verwerkt daarna ieder agendapunt om de beurt. 
+**(c) Agenda Opbouw en Verwerking**: De Facilitator bouwt een agenda aan de hand van de actuele Spanningen die de leden willen verwerken en behandeld vervolgens om de beurt ieder agendapunt. 
 
-**(d) Check-out Ronde**: De Facilitator staat het iedere deelnemer om de beurt toe om een afsluitende reflectie of andere gedachten die zijn veroorzaakt door het Roloverleg te delen. Reacties zijn niet toegestaan. 
+**(d) Check-out Ronde**: De Facilitator geeft ieder lid om de beurt de gelegenheid om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Roloverleg, te delen. Reacties zijn niet toegestaan. 
 
-Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag niet in strijd zijn met een van de stappen of andere regels die zijn gedefinieerd in dit Artikel van de Grondwet. 
+Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar niet als dit in strijd is met een van de stappen of andere regels die zijn gedefinieerd in dit Artikel van de Grondwet. 
 
 #### 3.3.4 Agenda opbouw
+
+
+
+<-hier was je gebleven ->
+
+
+
+
 
 De Facilitator moet een agenda van Spanningen opbouwen om te verwerken in een Roloverleg door agendapunten te vragen en vast te leggen van alle deelnemers. Dit moet worden gedaan tijdens het overleg en niet vooraf en iedere deelnemer mag zoveel agendapunten als gewenst toevoegen. Deelnemers mogen ook tijdens het overleg extra agendapunten toevoegen, tussen de verwerking van alle bestaande agendapunten. 
 
