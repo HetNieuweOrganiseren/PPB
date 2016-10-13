@@ -415,21 +415,29 @@ De Facilitator voert het Integratief Besluitvormingsproces als volgt uit:
 
 **(f) Integratie**: Als er geldige Bezwaren zijn begeleidt de Facilitator een dialoog om het Voorstel zo te wijzigen dat ieder Bezwaar één voor één wordt opgelost. De Facilitator verklaart het Bezwaar als opgelost zodra de Bezwaarmaker bevestigt dat het gewijzigde Voorstel het Bezwaar niet zou veroorzaken en de Voorsteller bevestigt dat het gewijzigde voorstel nog steeds de Spanning van de Voorsteller aanspreekt. Tijdens de dialoog moet de Facilitator de regels van integratie toepassen zoals gedefinieerd in Artikel 3.2.6. Zodra alle vastgelegde Bezwaren zijn opgelost gaat de Facilitator terug naar de Bezwarenronde om te kijken of er nieuwe Bezwaren zijn op het gewijzigde Voorstel. 
 
-<--- hier was je gebleven --->
-
 #### 3.3.6 Integratief Verkiezingsproces
 
 De Facilitator moet het Integratief Verkiezingsproces als volgt uitvoeren:
 
-**(a) Rol omschrijven**: Als eerste moet de Facilitator de Rol waar het om gaat identificeren voor de verkiezing. De Facilitator mag ook de functies van de Rol omschrijven en andere relevantie informatie over de Rol presenteren. 
+**(a) Rol omschrijven**: Als eerste moet de Facilitator de beoogde Rol en haar termijn identificeren voor de verkiezing. De Facilitator mag ook de functies van de beoogde Rol omschrijven en andere relevantie informatie voor die Rol presenteren. 
 
-**(b) Stembriefjes invullen**: Iedere deelnemer moet daarna een stembriefje invullen om uit alle mogelijke kandidaten diegene te nomineren waarvan de deelnemer denkt dat die het meest geschikt is voor de Rol. Iedere deelnemer moet het stembriefje ook kenmerken met zijn of haar eigen naam en niemand mag zich onthouden van stemmen of meerdere mensen nomineren. Voor en tijdens deze stap moet de Facilitator direct alle reacties of discussies over mogelijke kandidaten of nominaties stoppen. 
+**(b) Stembiljet invullen**: Ieder Lid vult vervolgens een Stembiljet in om van alle beschikbare Leden diegene te nomineren waarvan het Lid denkt dat die het meest geschikt is voor de Rol. Iedere Lid moet het stembriefje ook kenmerken met zijn of haar eigen naam en niemand mag zich onthouden van stemmen of meerdere mensen nomineren. Voor en tijdens deze stap moet de Facilitator direct alle reacties of discussies over mogelijke kandidaten of nominaties stoppen.
 
-**(c) Nominatieronde**: Als alle stembriefjes zijn ingediend moet de Facilitator de inhoud van ieder stembriefje één voor één delen met alle deelnemers. Als de Facilitator een nominatie deelt moet degene die heeft genomineerd uitleggen waarom hij of zij vindt dat de kandidaat goed zou passen in deze Rol. De Facilitator moet reacties of andere opmerkingen stoppen, als ook alle opmerkingen van degene die de nominatie heeft gedaan over andere mogelijke kandidaten behalve de genomineerde. 
+**(c) Nominatieronde**: Als alle Stembiljetten zijn ingediend deelt de Facilitator één voor één de inhoud van ieder stembriefje met alle Leden. Als de Facilitator een nominatie deelt moet het Lid dat heeft genomineerd uitleggen waarom hij of zij vindt dat die kandidaat goed zou passen in deze Rol. Alleen opmerkingen over de genomineerde kandidaat zijn toegestaan, elke andere reactie of opmerking moet gestopt worden door de Facilitator.
 
-**(d) Nominatie veranderronde**: Zodra alle nominaties zijn gedeeld moet de Facilitator iedere deelnemer de mogelijkheid geven om zijn of haar nominatie te veranderen. Een deelnemer die een verandering doet mag zijn of haar reden om een nieuwe kandidaat te selecteren uitleggen, maar de Facilitator moet alle andere reacties of discussie stoppen. 
+**(d) Nominatie veranderronde**: Zodra alle nominaties zijn gedeeld geeft de Facilitator alle Leden de mogelijkheid om zijn of haar nominatie te veranderen. Een deelnemer die een verandering doet mag alleen zijn of haar reden voor de verandering uitleggen, elke andere reactie of opmerking moet gestopt worden door de Facilitator.
 
-**(e) Een Voorstel maken**: Vervolgens moet de Facilitator de nominaties tellen en een Voorstel doen om de kandidaat met de meeste stemmen voor de gestelde termijn te verkiezen. Als er een gelijkspel is voor wie de meeste nominaties heeft dan mag de Facilitator een van de volgende dingen doen: **(i)** een van de kandidaten blindelings en willekeurig selecteren en die persoon voorstellen, of **(ii) **als de persoon die de Rol nu vervult een van de gelijkspelende kandidaten is, deze persoon voorstellen, of **(iii) **als een van gelijkspelende kandidaten zichzelf heeft genomineerd deze persoon voorstellen, of **(iv)** teruggaan naar de vorige stap en iedere deelnemer die iemand anders heeft genomineerd dan de gelijkspelende kandidaten vragen om die nominatie te veranderen in een van de gelijkspelende kandidaten en dan teruggaan naar deze stap en opnieuw de regels toepassen. 
+<--- hier was je gebleven --->
+
+**(e) Een Voorstel maken**: Vervolgens moet de Facilitator de nominaties tellen en een Voorstel doen om de kandidaat met de meeste stemmen voor de gestelde termijn te verkiezen. Als er een gelijkspel is voor wie de meeste nominaties heeft dan mag de Facilitator een van de volgende dingen doen: 
+
+**(i)** een van de kandidaten blindelings en willekeurig selecteren en die persoon voorstellen, of 
+
+**(ii)** als de persoon die de Rol nu vervult een van de gelijkspelende kandidaten is, deze persoon voorstellen, of 
+
+**(iii)** als een van gelijkspelende kandidaten zichzelf heeft genomineerd deze persoon voorstellen, of 
+
+**(iv)** teruggaan naar de vorige stap en iedere deelnemer die iemand anders heeft genomineerd dan de gelijkspelende kandidaten vragen om die nominatie te veranderen in een van de gelijkspelende kandidaten en dan teruggaan naar deze stap en opnieuw de regels toepassen. 
 
 **(f) Voorstel doen: **Zodra de Facilitator een Voorstel maakt om een kandidaat te verkiezen moet de Facilitator naar het Integratief Besluitvormingsproces gaan om dat Voorstel te verwerken. Echter, de Facilitator moet direct starten met de Bezwarenronde en als de voorgestelde kandidaat aanwezig is dan moet de Facilitator deze kandidaat als laatste vragen om Bezwaren. Als er Bezwaren worden ingebracht mag de Facilitator kiezen om deze te verwerken als normaal of om het Voorstel direct na de Bezwarenronde of op ieder punt tijdens de stap van Integratie te verwerpen. Als de Facilitator ervoor kiest om het Voorstel te verwerpen, dan moet de Facilitator teruggaan naar de vorige stap in dit proces, alle nominaties voor de bestaande kandidaat verwerpen en de regels volgen van de voorgaande stap om een andere kandidaat te selecteren om in plaats daarvan voor te stellen. 
 
