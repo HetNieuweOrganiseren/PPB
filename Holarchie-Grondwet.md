@@ -9,20 +9,22 @@ advies in te winnen bij een rechtsgeldige instantie.
 
 ## Voorwoord
 
-Deze **‘Grondwet’** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (‘de **Gezaghebbenden’**), adopteren deze regels als de formele machtsstructuur voor de **‘Organisatie’**, als specificatie op het adopteren van de Holacracy Grondwet. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbenden besturende of leidende bevoegdheid over heeft. De Gezaghebbenden en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **‘Partners’**) kunnen bouwen op de autoriteit die wordt gegeven door deze Grondwet en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
+Deze **"Grondwet"** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbenden"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Holacracy Grondwet. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbenden besturende of leidende bevoegdheid over heeft. De Gezaghebbenden en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Partners"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Grondwet en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
 
 ## Artikel 1: Bezitten van rollen
+
+Een rol is de bouwsteen van een Holarchische Organisatie structuur. Dit artikel beslaat de basis bevoegdheden, autoriteit en verplichtingen voor een partner die een rol bezit.
 
 ### 1.1 Definitie van een Rol
 
 Een "Rol" is een organisatorische eenheid die een "doel"uit drukt, "Domeinen" controleert en "Verantwoordelijkheden" uit voert.
-De Partners van de Organisatie verrichten werk voor de Organisatie, door te handelen vanuit een expliciet gedefinieerde Rol. Een ‘Rol’ is een bouwsteen van de organisatie met een beschrijvende naam en één of meer van het volgende:
+De Partners van de Organisatie verrichten werk voor de Organisatie, door te handelen vanuit een expliciet gedefinieerde Rol. Een "Rol" is een bouwsteen van de organisatie met een beschrijvende naam en één of meer van het volgende:
 
-**(a)** Een ‘**Doel**’. De rol heeft haar eigen Doel die ze na zal nastreven of uitdrukken richting het Hoofd-Doel van de Organisatie. 
+**(a)** Een **"Doel"**. De rol heeft haar eigen Doel die ze na zal nastreven of uitdrukken richting het Hoofd-Doel van de Organisatie. 
 
-**(b)** Een of meerdere ‘**Domeinen**’. Dit zijn dingen die de Rol exclusief mag beheren en reguleren als zijn eigendom, namens de Organisatie.
+**(b)** Een of meerdere **"Domeinen"**. Dit zijn dingen die de Rol exclusief mag beheren en reguleren als zijn eigendom, namens de Organisatie.
 
-**(c)** Een of meer ‘**Verantwoordelijkheden**’. Dit zijn doorlopende activiteiten van de Organisatie die de Rol uitvoert. 
+**(c)** Een of meer **"Verantwoordelijkheden"**. Dit zijn doorlopende activiteiten van de Organisatie die de Rol uitvoert. 
 
 ### 1.2 Verantwoordelijkheden van een Rol vervullen
 
@@ -65,13 +67,15 @@ De in deze Sectie verkregen autoriteit, kan verder gelimiteerd worden door beper
 
 ## Artikel 2: Cirkel Structur
 
+Een Cirkel bevat een integreert vele rollen. Dit artikel beschrijft hoe een Cirkel is gestructureerd en hoe de rollen daarin toegewezen, verkozen of gevormd worden tot Sub-cirkels
+
 ### 2.1 Cirkel fundamenten
 
-Een **‘Cirkel’** is een **‘Rol’** die zichzelf opsplitst in meerdere rollen, zodat meerdere partners samen kunnen werken aan de uitdrukking van het algemene doel en verantwoordelijkheden van die Cirkel. Een **‘Cirkel’** kan haar eigen Rollen definiëren, zijn Domeinen controleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn '**Gedefinieerde** **Rollen’**, en iedere Partner die een van de Gedefinieerde rollen vervult is een **‘Cirkel**l**id’** van die Cirkel. 
+Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere rollen, zodat meerdere partners samen kunnen werken aan de uitdrukking van het algemene doel en verantwoordelijkheden van die Cirkel. Een **"Cirkel"** kan haar eigen Rollen definiëren, zijn Domeinen controleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn **"Gedefinieerde"** **"Rollen"**, en iedere Partner die een van de Gedefinieerde rollen vervult is een **"Cirkel Lid"** van die Cirkel. 
 
 #### 2.1.1 Rollen en Domeinafspraken definiëren 
 
-Elke Cirkel gebruikt het **‘****Bestuurs-Proces****’**, welke wordt beschreven in Artikel 3 van deze Grondwet, om Rollen te definiëren of te wijzigen binnen de Cirkel en de Domeinafspraken die het Domein van de Cirkel besturen. Niemand mag Rollen of Domeinafspraken van een Cirkel definiëren of wijzigen buiten dit Bestuurs-Proces, tenzij dit expliciet wordt toegestaan door een andere regel van deze Grondwet. 
+Elke Cirkel gebruikt het **"Bestuurs Proces"**, welke wordt beschreven in Artikel 3 van deze Grondwet, om Rollen te definiëren of te wijzigen binnen de Cirkel en de Domeinafspraken die het Domein van de Cirkel besturen. Niemand mag Rollen of Domeinafspraken van een Cirkel definiëren of wijzigen buiten dit Bestuurs-Proces, tenzij dit expliciet wordt toegestaan door een andere regel van deze Grondwet. 
 
 Verder mag iedere Cirkel controle uitoefenen op haar eigen functies en activiteiten, alsof het een Domein van de Cirkel is, ten behoeve van het bepalen van Domeinafspraken die de Rollen van de Cirkel beperken. 
 
@@ -89,9 +93,9 @@ Echter, de Cirkel heeft het recht om te het Domein te verwijderen of te wijzigen
 
 ### 2.2 Cirkel Lead-Link
 
-Iedere Cirkel heeft een ‘**Lead-Link Rol**’. De definitie van deze Rol vind je in [Bijlage A](https://github.com/DmitriSchrama/Holacracy-Constitution-4.1-DUTCH/blob/master/Bijlage%20A.md), de verantwoordelijkheden en bevoegdheden staan in dit Artikel. 
+Iedere Cirkel heeft een **"Lead-Link Rol"**. De definitie van deze Rol vind je in [Bijlage A](https://github.com/DmitriSchrama/Holacracy-Constitution-4.1-DUTCH/blob/master/Bijlage%20A.md), de verantwoordelijkheden en bevoegdheden staan in dit Artikel. 
 
-De persoon die de LeadLink Rol vervult wordt **Lead-Link** genoemd wanneer hij handelt vanuit deze hoedanigheid. 
+De persoon die de LeadLink Rol vervult wordt **Lead-Link** genoemd wanneer deze handelt in die hoedanigheid. 
 
 #### 2.2.1 Vult ongedefinieerde functies in
 
@@ -113,7 +117,7 @@ Echter, een Cirkel mag Verantwoordelijkheden, Domeinen, bevoegdheden of functies
 
 ### 2.3 Cirkel participatie & bestuur
 
-De rollen die deel mogen nemen aan het Governance Proces van de Cirkel, zijn de '**leden'** van de Cirkel. 
+De rollen die deel mogen nemen aan het Governance Proces van de Cirkel, zijn de **"Leden"** van de Cirkel. 
 
 De leden van ene Cirkel houden zich aan de volgende regels:
 
@@ -167,7 +171,7 @@ Een Partner die een Rol vervult kan daar op ieder moment afstand van doen, tenzi
 
 ### 2.5 Verkozen Rollen
 
-Elke Cirkel heeft een **‘Facilitator** **Rol****’**, een **‘Secretaris** **Rol’** en een **‘Rep-Link** **Rol’**, waarvan de definities in Bijlage A staan. Dit zijn de ‘Verkozen Rollen’ van de Cirkel. De personen die deze Rollen vervullen noemen we de **‘Facilitator’**, **‘Secretaris’** en **‘Rep-Link’** van de Cirkel wanneer ze handelen vanuit deze Verkozen Rollen. 
+Elke Cirkel heeft een **"Facilitator Rol"**, een **"Secretaris Rol"** en een **"Rep-Link Rol"**, waarvan de definities in Bijlage A staan. Dit zijn de ‘Verkozen Rollen’ van de Cirkel. De personen die deze Rollen vervullen noemen we de **"Facilitator"**, **"Secretaris"** en **"Rep-Link"** van de Cirkel wanneer ze handelen vanuit deze Verkozen Rollen. 
 
 #### 2.5.1 Verkiezingen en verkiesbaarheid
 
@@ -191,9 +195,9 @@ Een vervangende Partner kan tijdelijk een Verkozen Rol vervullen wanneer deze ni
 
 Als er een vervanger nodig is, dan wordt de vervanger bepaald in deze volgorde:
 
-**(a) **iemand die expliciet is bepaald door de oorspronkelijke Rol vervuller; of
+**(a)** iemand die expliciet is bepaald door de oorspronkelijke Rol vervuller; of
 
-**(b) **de Facilitator van de Cirkel; of
+**(b)** de Facilitator van de Cirkel; of
 
 **(c)** de Secretaris van de Cirkel; of
 
@@ -203,7 +207,7 @@ Als er een vervanger nodig is, dan wordt de vervanger bepaald in deze volgorde:
 
 ### 2.6 Sub-Cirkels
 
-Een Cirkel kan zijn Gedefinieerde Rollen opsplitsen in volledige Cirkels via het bestuurs-Proces. Als dat gebeurt dan wordt de nieuwe Cirkel de ‘Sub-Cirkel’ en de cirkel de ‘Super-Cirkel’ van deze nieuwe Sub-Cirkel. 
+Een Cirkel kan zijn Gedefinieerde Rollen opsplitsen in volledige Cirkels via het bestuurs-Proces. Als dat gebeurt dan wordt de nieuwe Cirkel de "Sub-Cirkel" en de cirkel de "Super-Cirkel" van deze nieuwe Sub-Cirkel. 
 
 #### 2.6.1 Wijzigen van Sub-Cirkels
 
@@ -212,8 +216,8 @@ Een Cirkel kan het Doel, Domein en verantwoordelijkheden van haar Sub-Cirkel(s) 
 #### 2.6.2 Verwijderen van Sub-Cirkels
 
 Een Cirkel kan een Sub-cirkel verwijderen door middel van bestuur door;
-**(a) **het geheel verwijderen van de Sub-cirkel, met inbegrip van alle rollen, of
-**(b) **het terugbrengen van de Sub-cirkel naar een enkele rol, dus door alle rollen te verwijderen, of
+**(a)** het geheel verwijderen van de Sub-cirkel, met inbegrip van alle rollen, of
+**(b)** het terugbrengen van de Sub-cirkel naar een enkele rol, dus door alle rollen te verwijderen, of
 **(c)** het oplossen van de Sub-cirkel grens, zodat alle functies worden geabsorbeerd door de Super-cirkel.
 
 #### 2.6.3 Lead Link van Sub-Cirkel
@@ -229,7 +233,7 @@ Elke Cirkel verkiest normaliter een Rep-Link voor haar Super-Cirkel. Deze verkie
 
 Een Cirkel kan een "Koppel-link Beleid" definiëren door het bestuur. Waarmee een andere entiteit (de "gekoppelde Entiteit") word uitgenodigd als vertegenwoordiger in die Cirkel of een van de Sub-cirkels (de "Doel Cirkel").
 
-Een Cirkel kan een **‘Koppel-Link** **Domeinafspraak’** maken om een entiteit of groep uit te nodigen om deel te nemen aan het Bestuurs-Proces en de uitvoer van een andere Cirkel. De entiteit of groep die wordt uitgenodigd om deel te nemen is de **‘Gekoppelde** **Entiteit’**. Deze kan van buiten de organisatie zijn, of het kan een andere Rol of Cirkel in de organisatie zijn. De Cirkel die deze link krijgt is de **‘Doel-Cirkel’** en moet de Cirkel (of een van haar Sub-Cirkels) zijn die de Koppel-Link Domeinafspraak maakt.
+Een Cirkel kan een **"Koppel-Link Domeinafspraak"** maken om een entiteit of groep uit te nodigen om deel te nemen aan het Bestuurs-Proces en de uitvoer van een andere Cirkel. De entiteit of groep die wordt uitgenodigd om deel te nemen is de **"Gekoppelde Entiteit"**. Deze kan van buiten de organisatie zijn, of het kan een andere Rol of Cirkel in de organisatie zijn. De Cirkel die deze link krijgt is de **"Doel-Cirkel"** en moet de Cirkel (of een van haar Sub-Cirkels) zijn die de Koppel-Link Domeinafspraak maakt.
 
 Zodra een Koppel-Link Domeinafspraak is aangenomen, kan de Gelinkte Entiteit een vertegenwoordiger toewijzen om deel te nemen in de Doel-Cirkel onder de voorwaarden van dit Artikel, tenzij er andere voorwaarden zijn gedefinieerd in de Koppel-Link Domeinafspraak. 
 
@@ -269,26 +273,26 @@ Een Cirkels Bestuurs-proces wordt gebruikt om rollen en beleid te definiëren. D
 
 ### 3.1 Reikwijdte van bestuur
 
-De enige geldige daden van het "Bestuur" van een Cirkel zijn het aanmaken & aanpassen van; rollen, Beleid, Sub-cirkels, of het houden van verkiezingen. Niets anders kan worden beslist of opgeschreven in het **'bestuurs-document'** van een Cirkel.
+De enige geldige daden van het "Bestuur" van een Cirkel zijn het aanmaken & aanpassen van; rollen, Beleid, Sub-cirkels, of het houden van verkiezingen. Niets anders kan worden beslist of opgeschreven in het **"Bestuurs Document"** van een Cirkel.
 
 Het Bestuurs-proces van een Cirkel heeft de macht om;
 **(a)** rollen van de Cirkel en Sub-Cirkels te definiëren, veranderen of verwijderen,
 **(b)** domeinafspraken van de Cirkel te definiëren, veranderen of verwijderen,
 **(c)** verkiezingen te houden voor de Verkozen Rollen. 
 
-Op ieder willekeurig moment definiëren de dan actuele resultaten van het Governance Proces het bepalende **'****Bestuur****'**. Alleen de uitkomsten die in dit bestuurs-document staan is geldig bestuur voor een Cirkel. Alleen de secretaris mag het Bestuurs-document aanpassen.
+Op ieder willekeurig moment definiëren de dan actuele resultaten van het Governance Proces het bepalende **"Bestuur"**. Alleen de uitkomsten die in dit bestuurs-document staan is geldig bestuur voor een Cirkel. Alleen de secretaris mag het Bestuurs-document aanpassen.
 
 ### 3.2 Governance veranderen
 
-Elk lid van een Cirkel kan een voorstel doen om het Bestuur van die Cirkel te veranderen door een '**Voorstel**' te doen als '**Indiener**'. 
+Elk lid van een Cirkel kan een voorstel doen om het Bestuur van die Cirkel te veranderen door een **"Voorstel"** te doen als **"Indiener"**.
 
-Voordat een Voorstel wordt aangenomen moeten alle leden van de Cirkel de mogelijkheid hebben om Spanningen te benoemen. Als een Spanning voldoet aan de criteria die zijn vastgelegd in dit Artikel spreken we van een **'Bezwaar'** en de persoon die de Spanning inbrengt wordt de **'Bezwaarmaker'**. 
+Voordat een Voorstel wordt aangenomen moeten alle leden van de Cirkel de mogelijkheid hebben om Spanningen te benoemen. Als een Spanning voldoet aan de criteria die zijn vastgelegd in dit Artikel spreken we van een **"Bezwaar"** en de persoon die de Spanning inbrengt wordt de **"Bezwaarmaker"**.
 
 Voorstellen worden beschouwd als aangenomen en wijzigen het Bestuur van de Cirkel als er geen Bezwaren zijn. Als er Bezwaren worden ingebracht moeten de Bezwaarmaker en de Indiener de Bezwaren oplossen waarna alle leden van de Cirkel een volgende mogelijkheid krijgen om andere Bezwaren te benoemen voordat het Voorstel wordt aangenomen.
 
 #### 3.2.1 Voorstellen doen
 
-Elk lid van de Cirkel mag een Voorstel doen in het '**Rol-Overleg**', volgens de regels van Artikel 3.3. 
+Elk lid van de Cirkel mag een Voorstel doen in het **"Rol-Overleg"**, volgens de regels van Artikel 3.3. 
 Als alternatief kan een Voorsteller ook een Voorstel indienen aan alle leden van de Cirkel buiten een Roloverleg, hierbij  gebruik makend van het geschreven communicatiekanaal dat door de Secretaris voor dit doel is goedgekeurd. 
 
 Als dit gebeurt kan de Facilitator hetzelfde proces en dezelfde regels toepassen die worden gebruikt tijdens een Roloverleg, of toestaan dat ieder lid van de Cirkel direct verklaart of er wel of geen Bezwaren zijn om te integreren. Op ieder moment, totdat het ingediende Voorstel buiten het Rol-Overleg is aangenomen, kan de Facilitator of elk willekeurig lid van de Cirkel het proces buiten het Roloverleg stoppen door de Voorsteller te verzoeken het Voorstel naar een Rol-Overleg te brengen.
@@ -315,7 +319,7 @@ Echter, bij het beoordelen van de geldigheid van een Voorstel mag de Facilitator
 
 Sommige Spanningen gelden niet als Bezwaren en kunnen genegeerd worden tijden de behandeling van een Voorstel. Een Spanning telt alleen als Bezwaar als het aan de criteria **(a)** t/m **(d)** voldoet, of de speciale criteria, gedefinieerd in **(e)**. 
 
-**(a) **Als de Spanning niet zou worden opgelost zou het de capaciteit van de Cirkel om haar Doel uit te drukken of haar Verantwoordelijkheden uit te voeren verminderen. De Spanning word niet veroorzaakt door een beter idee of een mogelijke verdere verbetering, maar doordat het Voorstel de Cirkel daadwerkelijk een stap terug zet in haar huidige capaciteit. 
+**(a)** Als de Spanning niet zou worden opgelost zou het de capaciteit van de Cirkel om haar Doel uit te drukken of haar Verantwoordelijkheden uit te voeren verminderen. De Spanning word niet veroorzaakt door een beter idee of een mogelijke verdere verbetering, maar doordat het Voorstel de Cirkel daadwerkelijk een stap terug zet in haar huidige capaciteit. 
 Ten behoeve van deze criteria geldt het afnemen van helderheid als het verminderen van capaciteit, maar enkel het falen om de helderheid te verbeteren niet. 
 
 **(b)** De Spanning bestond niet in de Cirkel, ook niet als het voorstel niet gedaan zou zijn. Oftewel: de Spanning wordt specifiek gecreëerd door het aannemen van dit Voorstel en zou niet bestaan als het Voorstel ingetrokken zou worden. 
@@ -336,19 +340,19 @@ Een bezwaar doorstaat de test als de Bezwaarmaker in staat is om een redelijk ar
 
 Bij het beoordelen van de geldigheid van een Bezwaar mag de Facilitator alleen oordelen of de Bezwaarmaker de vereiste argumenten heeft gegeven en of deze werden gegeven met logische beredenering en of ze dus redelijk zijn. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid of de belangrijkheid van de argumenten.
 
-Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Grondwet, zie Artikel 3.2.4 **(e), **dan mag de Facilitator de Secretaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Grondwet. Als dit  het geval blijkt te zijn moet de Facilitator het Bezwaar verwerpen. 
+Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Grondwet, zie Artikel 3.2.4 **(e)**, dan mag de Facilitator de Secretaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Grondwet. Als dit  het geval blijkt te zijn moet de Facilitator het Bezwaar verwerpen. 
 
 #### 3.2.6 Regels van integratie
 
 Als er een Bezwaar tegen een Voorstel wordt ingebracht gelden de volgende aanvullende regels tijdens het vinden van een oplossing:
 
-**(a) **De Facilitator moet een Bezwaar testen als dat wordt verzocht door een Lid van de Cirkel en deze verwerpen als het niet voldoet aan de criteria die zijn Gedefinieerde in Artikel 3. 
+**(a)** De Facilitator moet een Bezwaar testen als dat wordt verzocht door een Lid van de Cirkel en deze verwerpen als het niet voldoet aan de criteria die zijn Gedefinieerde in Artikel 3. 
 
 **(b)** De Bezwaarmaker moet een voorstel doen die een oplossing bied voor de huidige spanning en de oorspronkelijke spanning van de Voorsteller. Andere Leden van de Cirkel mogen helpen bij het formuleren van de oplossing. Wanneer de Facilitator concludeert dat de Bezwaarmaker geen oprechte inspanning doet om een oplossing te vinden moet de Facilitator het Bezwaar beschouwen als verworpen en doorgaan met het verwerken van het Voorstel alsof het Bezwaar niet was ingebracht. 
 
-**(c) **Ieder Lid van de Cirkel mag de Voorsteller verhelderende vragen stellen over de Spanning die ten grondslag ligt aan het Voorstel en/of over ieder voorbeeld dat de Voorsteller heeft gegeven om die Spanning toe te lichten. Als de Facilitator concludeert dat de Voorsteller geen oprechte inspanning doet om die vragen te beantwoorden moet de Facilitator het Voorstel beschouwen als ongeldig en deze verwerpen. 
+**(c)** Ieder Lid van de Cirkel mag de Voorsteller verhelderende vragen stellen over de Spanning die ten grondslag ligt aan het Voorstel en/of over ieder voorbeeld dat de Voorsteller heeft gegeven om die Spanning toe te lichten. Als de Facilitator concludeert dat de Voorsteller geen oprechte inspanning doet om die vragen te beantwoorden moet de Facilitator het Voorstel beschouwen als ongeldig en deze verwerpen. 
 
-**(d) **De Bezwaarmaker mag een wijziging voorstellen en moet redelijke argumenten geven waarom het de Spanning zou oplossen of voorkomen in iedere specifieke situatie die de Voorsteller heeft gegeven om de Spanning toe te lichten.
+**(d)** De Bezwaarmaker mag een wijziging voorstellen en moet redelijke argumenten geven waarom het de Spanning zou oplossen of voorkomen in iedere specifieke situatie die de Voorsteller heeft gegeven om de Spanning toe te lichten.
 Vervolgens moet de Voorsteller een redelijk argument geven waarom het gewijzigde Voorstel de Spanning in minimaal 1 specifieke situatie die al was gegeven niet zou oplossen of voorkomen.
 Als alternatief mag de Voorsteller een extra voorbeeld geven dat het gewijzigde Voorstel niet zou oplossen, maar welke nog steeds voldoet aan de criteria voor het behandelen van een Voorstel zoals vereist in Artikel 3.2.2. Als de Facilitator concludeert dat de Voorsteller niet heeft voldaan aan deze voorwaarden moet de Facilitator het Voorstel beschouwen als ongeldig en deze verwerpen. 
 
@@ -392,12 +396,12 @@ Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag nie
 
 De Facilitator bouwt een agenda tijdens (dus niet voorafgaand aan) het Rol-overleg door het vastleggen van de actuele Spanningen van de aanwezige Leden. Elk Lid mag zoveel agendapunten toevoegen als gewenst. Deelnemers mogen ook tijdens het overleg, tussen de verwerking van alle bestaande agendapunten, extra agendapunten toevoegen. 
 
-**(a) Agendapunten** **Format**: Ieder agendapunt in een Roloverleg vertegenwoordigt een Spanning om op te lossen, en word verwerkt door de deelnemer die het agendapunt heeft toegevoegd. Bij het toevoegen van een agendapunt mag de deelnemer alleen een kort kenmerk voor de Spanning geven. Dus niet de Spanning verder uitleggen of bespreken totdat het verwerken van dat agendapunt daadwerkelijk begint. 
+**(a) Agendapunten Format**: Ieder agendapunt in een Roloverleg vertegenwoordigt een Spanning om op te lossen, en word verwerkt door de deelnemer die het agendapunt heeft toegevoegd. Bij het toevoegen van een agendapunt mag de deelnemer alleen een kort kenmerk voor de Spanning geven. Dus niet de Spanning verder uitleggen of bespreken totdat het verwerken van dat agendapunt daadwerkelijk begint. 
 
-**(b)** **Volgorde van de Agenda**: De Facilitator mag bepalen in welke volgorde de agendapunten worden behandeld en maakt daarbij gebruik van een proces of criteria die de Facilitator geschikt acht. Echter, een agendapunt die vraagt om een verkiezing van een van de Verkozen Rollen van de Cirkel krijgt voorrang boven alle andere agendapunten wanneer hierom word verzocht door een aanwezig Lid. 
+**(b) Volgorde van de Agenda**: De Facilitator mag bepalen in welke volgorde de agendapunten worden behandeld en maakt daarbij gebruik van een proces of criteria die de Facilitator geschikt acht. Echter, een agendapunt die vraagt om een verkiezing van een van de Verkozen Rollen van de Cirkel krijgt voorrang boven alle andere agendapunten wanneer hierom word verzocht door een aanwezig Lid. 
 Verder, als het overleg gepland is naar aanleiding van een verzoek van een van de Leden, dan moet de Facilitator alle agendapunten die worden ingebracht door dit Lid voorrang geven boven alle agendapunten, tenzij dat Lid iets anders voorstelt. 
 
-**(c)** **Agendapunten Behandelen**: Zodra de Facilitator een eerste volgorde van de agenda heeft bepaald moet de Facilitator de Leden begeleiden bij het behandelen van ieder opeenvolgend agendapunt. Om een agendapunt te behandelen dat vraagt om een verkiezing moet de Facilitator het '**Integratief Verkiezingsproces'** gebruiken zoals gedefinieerd in Artikel 3.3.6. Voor het verwerken van ieder ander agendapunt moet de Facilitator gebruik maken van het '**Integratief Besluitvormingsproces**', gedefinieerd in Artikel 3.3.5.
+**(c) Agendapunten Behandelen**: Zodra de Facilitator een eerste volgorde van de agenda heeft bepaald moet de Facilitator de Leden begeleiden bij het behandelen van ieder opeenvolgend agendapunt. Om een agendapunt te behandelen dat vraagt om een verkiezing moet de Facilitator het **"Integratief Verkiezingsproces"** gebruiken zoals gedefinieerd in Artikel 3.3.6. Voor het verwerken van ieder ander agendapunt moet de Facilitator gebruik maken van het **"Integratief Besluitvormingsproces"**, gedefinieerd in Artikel 3.3.5.
 
 #### 3.3.5 Integratief Besluitvormingsproces
 
@@ -449,79 +453,84 @@ Verder dragen operationele uitkomsten en beslissingen die gemaakt zijn tijdens e
 
 Als een partner van de Organisatie mag je jouw redelijke oordeel gebruiken om deze Grondwet en het vastegelegde Bestuur van de Organisatie te interpreteren, inclusief hoe deze worden toegepast in een specifieke situatie, en handelen op basis van die interpretatie. Je mag er ook op rekenen dat de Secretaris een expliciete interpretatie van het Bestuur van elke Cirkel geeft die wordt beïnvloed door dat Bestuur. Echter, in iedere situatie gelden de volgende aanvullende voorwaarden:
 
-#### 3.4.1. Interpretatie van de Secretaris overtroeft
+#### 3.4.1. Interpretatie van de Secretaris overstemt
 
 Als jouw interpretatie in strijd is met de interpretatie van een Secretaris dan overstemt de interpretatie van de Secretaris die van jou en ben je verantwoordelijk om in lijn met deze interpretatie te handelen totdat het Bestuur is verandert. 
 
-<--- hier was je gebleven --->
+#### 3.4.2 Interpretatie van de Super-Cirkel overstemt 
 
-#### 3.4.2 Interpretatie van de Super-Cirkel overtroeft 
-
-De Secretaris van een Cirkel mag een interpretatie die is gegeven door een Secretaris van een Sub-Cirkel overschrijven. Als twee Secretarissen een conflicterende uitspraak over interpretatie geven en een is van de Secretaris van een Cirkel die uiteindelijk onderdeel is van de andere Cirkel, dan ben je verantwoordelijk om in lijn met de interpretatie te handelen die wordt gegeven door de Secretaris van de bredere Cirkel. 
+De Secretaris van een Cirkel mag een interpretatie die is gegeven door een Secretaris van een Sub-Cirkel overstemmen. Als twee Secretarissen een conflicterende uitspraak over interpretatie geven en een daarvan is de Secretaris van een Sub-Cirkel die onderdeel is van de bredere Cirkel, dan ben je verantwoordelijk om in lijn te handelen met de interpretatie die wordt gegeven door de Secretaris van de bredere Cirkel. 
 
 #### 3.4.3 Interpretaties worden standaard
 
-Na de beslissing over een interpretatie mag een Secretaris ervoor kiezen om die interpretatie en de logica erachter te publiceren in de Governance vastlegging van de Cirkel. Zodra het gepubliceerd is zijn de Secretaris van die Cirkel an de Secretarissen van elke andere Cirkel die daar onderdeel van zijn verantwoordelijk om alle toekomstige uitspraken in lijn te laten zijn met de voorgaande gepubliceerde logica en interpretaties. Een Secretaris mag voorgaande logica en interpretaties alleen tegenspreken als een overtuigend nieuw argument of een nieuwe omstandigheid een ommekeer ondersteunt. Eenmaal tegengesproken worden de nieuwe logica en interpretaties de actuele standaard waar alle toekomstige uitspraken in lijn mee moeten zijn. 
+Na de beslissing over een interpretatie mag een Secretaris van een cirkel ervoor kiezen om die interpretatie en de logica erachter te publiceren in het Bestuurs Document van die Cirkel. Zodra het gepubliceerd is zijn de Secretaris van die Cirkel en de Secretarissen van alle Sub-Cirkels die daar onderdeel van zijn verantwoordelijk om alle toekomstige uitspraken in lijn te laten zijn met de voorgaande gepubliceerde logica en interpretaties. Een Secretaris mag voorgaande logica en interpretaties alleen tegenspreken als een overtuigend nieuw argument of een nieuwe omstandigheid een verandering ondersteunt. Eenmaal tegengesproken worden de nieuwe logica en interpretaties de actuele standaard waar alle toekomstige uitspraken in lijn mee moeten zijn. 
 
-#### 3.4.4 Schrappen van ongeldige Governance
+#### 3.4.4 Schrappen van ongeldig Bestuur
 
-Ieder lid van de Cirkel mag zijn Secretaris vragen om een uitspraak te doen over de geldigheid van de vastlegging van Governance  van de Cirkel of van iedere Rol of Sub-Cirkel waar de Cirkel uiteindelijk onderdeel van is. Als de Secretaris bij een dergelijk verzoek concludeert dat de Governance in strijd is met de regels van deze Grondwet, dan moet de Secretaris de conflicterende Governance schrappen uit het betreffende Governance vastlegging. Na dit gedaan te hebben, moet de Secretaris direct communiceren aan alle Kernleden van de Cirkel wat er gewijzigd is en waarom. 
+Ieder lid van de Cirkel mag zijn Secretaris vragen om een uitspraak te doen over de geldigheid van de vastlegging van Bestuur van de Cirkel of van iedere Rol of Sub-Cirkel waar de Cirkel uiteindelijk onderdeel van is. Als de Secretaris bij een dergelijk verzoek concludeert dat de Governance in strijd is met de regels van deze Grondwet moet de Secretaris de conflicterende Governance schrappen uit het betreffende Bestuurs Document. Als dit gebeurd moet de Secretaris direct aan alle Leden van de Cirkel communiceren wat er gewijzigd is en waarom. 
 
-### 3.5 Processtoring 
+### 3.5 Proces-storing 
 
-Een '**Processtoring**' doet zich voor als een Cirkel een patroon van gedrag laat zien dat in strijd is met de regels van deze Grondwet. 
+Een **"Proces-storing"** doet zich voor als er in een Cirkel een patroon word geconstateerd van gedrag dat in strijd is met de regels van deze Grondwet. 
 
-#### 3.5.1 Storing door vastgelopen Roloverleg
+#### 3.5.1 Storing door vastgelopen Rol-overleg
 
-De Facilitator mag een Processtoring in de Cirkel uitspreken als de Kernleden van de Cirkel er niet in slagen om succesvol een Voorstel te behandelen in een Roloverleg, zelfs nadat er een redelijk lange tijd is gespendeerd om dat te proberen. Als de Voorsteller speciaal voor het behandelen van dat Voorstel een Roloverleg heeft verzocht, dan mag de Voorsteller in dat geval ook een Processtoring uitspreken. 
+De Facilitator kan een Proces-storing in de Cirkel constateren als de Leden van de Cirkel er niet in slagen om een Voorstel succesvol te behandelen in een Roloverleg, zelfs als dat voor geruime tijd is geprobeerd.
+Als de Voorsteller speciaal voor het behandelen van dat Voorstel een Roloverleg heeft verzocht, dan mag de Voorsteller in dat geval ook een Processtoring constateren. 
 
-#### 3.5.2 Storing tegenstrijdig gedrag
+#### 3.5.2 Storing door ongrondwettelijk gedrag
 
-De Facilitator van een Cirkel mag een Processtoring uitspreken in een van de Sub-Cirkels wanneer hij een patroon van gedrag of uitkomsten ontdekt die in strijd zijn met de regels van deze Grondwet. Echter, Als de Facilitator ook de Lead Link of Facilitator van de Sub-Cirkel is dan mag de Secretaris van de Super-Cirkel of de Rep Link deze verklaring ook doen. 
+De Facilitator van een Cirkel mag een Proces-storing constateren in een van de Sub-Cirkels wanneer er een patroon van gedrag of uitkomsten word geconstateerd die in strijd is met de regels van deze Grondwet. Echter, wanneer de Facilitator ook de Lead-Link of Facilitator van de Sub-Cirkel is dan mogen de Secretaris van de Super-Cirkel of de Rep Link deze constatering ook doen. 
 
 #### 3.5.3 Proces herstel
 
-Wanneer een daartoe bevoegde partij een Processtoring uitspreekt in een Cirkel, dan gebeurt het volgende:
+Wanneer een daartoe bevoegde partij een Processtoring in een Cirkel constateert gebeurt het volgende:
 
-**(a) **De Facilitator van de Super-Cirkel krijgt een Project om het proces te herstellen in de Cirkel; en 
+**(a)** De Facilitator van de Super-Cirkel krijgt een Project om het proces te herstellen in die Cirkel; en 
 
-**(b) **De Facilitator van de Super-Cirkel krijg de autoriteit om het over te nemen als Facilitator of Secretaris van de Cirkel, of om iemand anders te benoemen om dat te doen; en
+**(b)** De Facilitator van de Super-Cirkel krijg de autoriteit om op te treden als Facilitator of Secretaris van die Cirkel, of om een andere Partner te benoemen om dat te doen; en
 
-**(c) **De Facilitator van de Cirkel krijgt de autoriteit om de nauwkeurigheid van alle argumenten die worden gepresenteerd om Spanningen en Bezwaren te valideren in het Governance Proces van de Cirkel te beoordelen.
+**(c)** De Facilitator van die Cirkel krijgt de autoriteit om de nauwkeurigheid te beoordelen van alle argumenten die worden gepresenteerd om Spanningen en Bezwaren te valideren in het Bestuurs Proces van die Cirkel.
 
-Deze autoriteit is tijdelijk en verdwijnt zodra de Facilitator van de Super-Cirkel concludeert dat het proces in de cirkel is hersteld. 
+Deze autoriteit is tijdelijk en stopt zodra de Facilitator van de Super-Cirkel concludeert dat het proces in de cirkel is hersteld.
 
-#### 3.5.4 Escalatie van Processtoring
+#### 3.5.4 Escalatie van Proces-storing
 
-Een Processtoring van één Cirkel mag niet beschouwd worden als een Processtoring van zijn Super-Cirkel, zolang de Facilitator van de Super-Cirkel eraan werkt om de Processtoring snel en ijverig op te lossen. 
+Een Processtoring van één Cirkel mag niet beschouwd worden als een Processtoring van haar Super-Cirkel, zolang de Facilitator van de Super-Cirkel snel en ijverig werkt om de Processtoring  op te lossen.
 
-Echter, als de Processtoring niet binnen een redelijke termijn is opgelost is, dan mag de Secretaris van iedere Super-Cirkel waar de tegenstrijdige Cirkel uiteindelijk onderdeel van is ook een Processtoring uitspreken in de Super-Cirkel. 
+Echter, als de Proces-storing niet binnen een redelijke termijn is opgelost mag de Secretaris van iedere Super-Cirkel waar de verstoorde Cirkel onderdeel van is ook een Proces-storing in de Super-Cirkel constateren.
 
 ## Artikel 4: Operationeel Proces
 
+Artikel IV heeft betrekking op de regels van operationele processen - de manieren waarop Cirkel-leden "kennis en kunde" synchroniseren en hun werk verdelen over de Rollen in de vorm van Acties en Projecten door middel van het Actie-Overleg.
+De Cirkel-leden vertrouwen er op dat men elkaar ondersteund en helpt het operationele werk te volbrengen. 
+
 ### 4.1 Plichten van Cirkelleden
 
-Als je een Rol vervult in een Cirkel heb je de volgende plichten ten opzichte van je mede Cirkelleden wanneer zij handelen namens andere Rollen in de Cirkel:
+Als je een Rol vervult in een Cirkel heb je de volgende plichten ten opzichte van de mede Cirkel Leden wanneer zij handelen namens andere Rollen in die Cirkel:
 
 #### 4.1.1 Plicht van transparantie
 
 Je hebt de plicht om transparantie te geven wanneer dat gevraagd wordt door je mede Cirkelleden, op de volgende gebieden:
 
-**(a) Projecten en Eerstvolgende Acties**: Je moet alle Projecten en Eerstvolgende Acties die je vastlegt voor de Rollen in de Cirkel delen. 
+**(a) Projecten en Eerstvolgende Acties**: Je moet alle Projecten en Eerstvolgende Acties delen die je vastlegt voor al jouw Rollen in de Cirkel. 
 
-**(b) Relatieve prioriteit**: Je moet jouw oordeel over de relatieve prioriteit van alle Projecten of Eerstvolgende Acties die je hebt vastgelegd voor jouw Rollen in de Cirkel delen, ten opzichte van alle andere potentiële activiteiten die om jouw aandacht en middelen vragen. 
+**(b) Relatieve prioriteit**: Je moet jouw oordeel over de relatieve prioriteit delen, van alle Projecten of Eerstvolgende Acties die je hebt vastgelegd voor jouw Rollen in de Cirkel, ten opzichte van alle andere potentiële activiteiten die om jouw aandacht en middelen vragen. 
 
-**(c) Schattingen**: Je moet een schatting geven van de datum waarop je verwacht een Project of een Eerstvolgende Actie af te ronden die zijn vastgelegd voor iedere van jouw Rollen in de Cirkel. Een ruwe schatting is voldoende, kijkend naar je huidige context en prioriteiten, maar zonder gedetailleerde analyse of planning. Deze schatting is op geen enkele manier een bindende verplichting, en tenzij Governance iets anders zegt, heb je geen verplichting om de schatting vast te leggen, je werk je managen om het te bereiken of om opvolging te geven aan de ontvanger als er iets verandert. 
+**(c) Schattingen**: Je moet een schatting geven van de datum waarop je verwacht een Project of een Eerstvolgende Actie af te ronden. Een ruwe schatting met het oog op je huidige context en prioriteiten is voldoende, dus zonder gedetailleerde analyse of planning. 
+Deze schatting is op geen enkele manier een bindende verplichting en, tenzij het bestuur iets anders zegt, is er geen verplichting om die schatting vast te leggen, te archiveren, of een verandering terug te koppelen naar de partner die om de schatting gevraagd heeft.
 
-**(d) Checklist items & Metrics**: Je moet delen of je reguliere, terugkerende acties die je routinematig uitvoert ten dienste van jouw Rollen in de Cirkel hebt volbracht. Je moet ook Metrics vastleggen en rapporteren die zijn toegewezen aan jouw Rollen door de Lead Link van de Cirkel of door een andere Rol of ander Proces die de autoriteit heeft gekregen om Metrics van de Cirkel te definiëren. 
+**(d) Checklist punten & Metriek:** Je moet delen of je de reguliere, terugkerende, acties die je routinematig uitvoert ten dienste van jouw Rollen in de Cirkel hebt volbracht. Je moet ook Metrieken vastleggen en rapporteren die zijn toegewezen aan jouw Rollen door de Lead Link van de Cirkel of door een andere Rol of ander Proces die de autoriteit heeft gekregen om Metrieken van de Cirkel te definiëren. 
 
 #### 4.1.2 Plicht van verwerking
 
-Je hebt de plicht om berichten en verzoeken van je mede Cirkelleden snel te verwerken, op de volgende manier:
+Je hebt de plicht om berichten en verzoeken van je mede Cirkel-Leden snel te verwerken, op de volgende manier:
 
-**(a) Verzoeken voor Verwerking**: Andere Cirkelleden mogen je vragen om iedere Verantwoordelijkheid of Project van een een Rol die je vervult in de Cirkel te verwerken. Als je er geen Eerstvolgende Acties voor hebt vastgelegd, moet je een Eerstvolgende Actie bepalen en vastleggen als er redelijke zijn die je kunt nemen. Als die er niet zijn, dan moet je in plaats daarvan delen waar je op wacht. Dat moet ofwel een Eerstvolgende Actie of Project zijn die is vastgelegd door een andere Rol. of een specifieke situatie of conditie die moet plaatsvinden voordat je verdere Eerstvolgende Acties neemt. 
+**(a) Verzoeken voor Verwerking**: Andere Cirkel-Leden mogen je vragen om iedere Verantwoordelijkheid of Project van een een Rol die je vervult in de Cirkel te verwerken. Als je daar geen Eerstvolgende Acties voor hebt vastgelegd moet je een Eerstvolgende Actie bepalen en vastleggen wanneer die redelijke is om te doen. Als die er niet zijn moet je in plaats daarvan aangeven waar je op wacht. Dat moet ofwel een Eerstvolgende Actie of Project zijn die is vastgelegd door een andere Rol. of een specifieke situatie of conditie die moet plaatsvinden voordat je een verdere Eerstvolgende Acties neemt. 
 
-**(b) Verzoeken voor Projecten en Eerstvolgende Acties:** Andere Cirkelleden mogen je vragen om een specifieke Eerstvolgende Actie of een specifiek Project in een van je Rollen in de Cirkel op te nemen. Als je het een redelijke Eerstvolgende Actie of een redelijk Project vindt om op je te nemen, dan moet je het accepteren en vastleggen. Als dat niet het geval is, dan moet je ofwel uitleggen wat je redenen zijn, of een andere Eerstvolgende Actie of een ander Project vastleggen en communiceren, waarvan je denkt dat het het doel van de aanvrager tegemoet komt. 
+**(b) Verzoeken voor Projecten en Eerstvolgende Acties:** Andere Cirkel-Leden mogen je vragen om een specifieke Eerstvolgende Actie of een specifiek Project voor een van je Rollen in de Cirkel op je te nemen. Als je het een redelijke Eerstvolgende Actie of een redelijk Project vindt moet je deze accepteren en vastleggen. Als dat niet het geval is moet je; ofwel uitleggen wat je redenen zijn, of een andere Eerstvolgende Actie of een ander Project, waarvan je denkt dat het het doel van de aanvrager tegemoet komt, vastleggen en communiceren.
+
+<--- hier was je gebleven --->
 
 **(c) Verzoeken om een Domein te beïnvloeden:** Andere Cirkelleden mogen vragen om een Domein te beïnvloeden die wordt beheerd door een van jouw Rollen in de Cirkel. Als je geen Bezwaren ziet voor dit verzoek dan moet je het toestaan. Als je wel Bezwaren ziet, dan moet je de Bezwaren uitleggen aan de aanvrager. 
 
@@ -553,11 +562,11 @@ Werkoverleggen zijn bedoeld om:
 
 **(a)** de status van voltooiing van terugkerende acties op checklijsten van de Rollen van de Cirkel te delen;
 
-**(b) **regelmatige metrics die zijn toegeschreven aan de Rollen van de Cirkel om te rapporteren te delen;
+**(b)** regelmatige metrics die zijn toegeschreven aan de Rollen van de Cirkel om te rapporteren te delen;
 
-**(c) **updates over de voortgang van Projecten en ander wek van de Rollen van de Cirkel te delen; en 
+**(c)** updates over de voortgang van Projecten en ander wek van de Rollen van de Cirkel te delen; en 
 
-**(d) **Spanningen die de Rollen van de Cirkel beperken om te zetten in Eerstvolgende Acties, Projecten of andere output die helpt om die Spanningen te verminderen. 
+**(d)** Spanningen die de Rollen van de Cirkel beperken om te zetten in Eerstvolgende Acties, Projecten of andere output die helpt om die Spanningen te verminderen. 
 
 #### 4.2.2 Aanwezigheid
 
