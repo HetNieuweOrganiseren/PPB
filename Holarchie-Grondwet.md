@@ -93,7 +93,7 @@ Echter, de Cirkel heeft het recht om te het Domein te verwijderen of te wijzigen
 
 ### 2.2 Cirkel Lead-Link
 
-Iedere Cirkel heeft een **"Lead-Link Rol"**. De definitie van deze Rol vind je in [Bijlage A](https://github.com/DmitriSchrama/Holacracy-Constitution-4.1-DUTCH/blob/master/Bijlage%20A.md), de verantwoordelijkheden en bevoegdheden staan in dit Artikel. 
+Iedere Cirkel heeft een **"Lead-Link Rol"**. De definitie van deze Rol vind je in [Bijlage A](#bijlage-a-definitie-van-kernrollen), de verantwoordelijkheden en bevoegdheden staan in dit Artikel. 
 
 De persoon die de LeadLink Rol vervult wordt **Lead-Link** genoemd wanneer deze handelt in die hoedanigheid. 
 
@@ -382,13 +382,13 @@ Iedereen die er niet in slaagt om aanwezig te zijn bij een Roloverleg geld als i
 
 De Facilitator moet de volgende stappen gebruiken voor Roloverleggen en helder aangeven in welke stap het overleg zich bevind:
 
-**(a) Check-in Ronde**: De Facilitator geeft iedere Partner om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Roloverleg te delen. Reacties zijn niet toegestaan.
+**(a) Check-in Ronde:** De Facilitator geeft iedere Partner om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Roloverleg te delen. Reacties zijn niet toegestaan.
 
-**(b) Administratieve Mededelingen**: De Facilitator geeft de ruimte om relevante administratieve of logistieke onderwerpen te bespreken en op te lossen.
+**(b) Administratieve Mededelingen:** De Facilitator geeft de ruimte om relevante administratieve of logistieke onderwerpen te bespreken en op te lossen.
 
-**(c) Agenda Opbouw en Verwerking**: De Facilitator bouwt een agenda aan de hand van de actuele spanningen van de leden en verwerkt deze vervolgens om de beurt.
+**(c) Agenda Opbouw en Verwerking:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen van de leden en verwerkt deze vervolgens om de beurt.
 
-**(d) Check-out Ronde**: De Facilitator geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Roloverleg, te delen. Reacties zijn niet toegestaan. 
+**(d) Check-out Ronde:** De Facilitator geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Roloverleg, te delen. Reacties zijn niet toegestaan. 
 
 Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag niet in strijd zijn met een van de stappen of andere regels die zijn gedefinieerd in dit Artikel van de Grondwet. 
 
@@ -396,42 +396,42 @@ Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag nie
 
 De Facilitator bouwt een agenda tijdens (dus niet voorafgaand aan) het Rol-overleg door het vastleggen van de actuele Spanningen van de aanwezige Leden. Elk Lid mag zoveel agendapunten toevoegen als gewenst. Deelnemers mogen ook tijdens het overleg, tussen de verwerking van alle bestaande agendapunten, extra agendapunten toevoegen. 
 
-**(a) Agendapunten Format**: Ieder agendapunt in een Roloverleg vertegenwoordigt een Spanning om op te lossen, en word verwerkt door de deelnemer die het agendapunt heeft toegevoegd. Bij het toevoegen van een agendapunt mag de deelnemer alleen een kort kenmerk voor de Spanning geven. Dus niet de Spanning verder uitleggen of bespreken totdat het verwerken van dat agendapunt daadwerkelijk begint. 
+**(a) Agendapunten Format:** Ieder agendapunt in een Roloverleg vertegenwoordigt een Spanning om op te lossen, en word verwerkt door de deelnemer die het agendapunt heeft toegevoegd. Bij het toevoegen van een agendapunt mag de deelnemer alleen een kort kenmerk voor de Spanning geven. Dus niet de Spanning verder uitleggen of bespreken totdat het verwerken van dat agendapunt daadwerkelijk begint. 
 
-**(b) Volgorde van de Agenda**: De Facilitator mag bepalen in welke volgorde de agendapunten worden behandeld en maakt daarbij gebruik van een proces of criteria die de Facilitator geschikt acht. Echter, een agendapunt die vraagt om een verkiezing van een van de Verkozen Rollen van de Cirkel krijgt voorrang boven alle andere agendapunten wanneer hierom word verzocht door een aanwezig Lid. 
+**(b) Volgorde van de Agenda:** De Facilitator mag bepalen in welke volgorde de agendapunten worden behandeld en maakt daarbij gebruik van een proces of criteria die de Facilitator geschikt acht. Echter, een agendapunt die vraagt om een verkiezing van een van de Verkozen Rollen van de Cirkel krijgt voorrang boven alle andere agendapunten wanneer hierom word verzocht door een aanwezig Lid. 
 Verder, als het overleg gepland is naar aanleiding van een verzoek van een van de Leden, dan moet de Facilitator alle agendapunten die worden ingebracht door dit Lid voorrang geven boven alle agendapunten, tenzij dat Lid iets anders voorstelt. 
 
-**(c) Agendapunten Behandelen**: Zodra de Facilitator een eerste volgorde van de agenda heeft bepaald moet de Facilitator de Leden begeleiden bij het behandelen van ieder opeenvolgend agendapunt. Om een agendapunt te behandelen dat vraagt om een verkiezing moet de Facilitator het **"Integratief Verkiezingsproces"** gebruiken zoals gedefinieerd in Artikel 3.3.6. Voor het verwerken van ieder ander agendapunt moet de Facilitator gebruik maken van het **"Integratief Besluitvormingsproces"**, gedefinieerd in Artikel 3.3.5.
+**(c) Agendapunten Behandelen:** Zodra de Facilitator een eerste volgorde van de agenda heeft bepaald moet de Facilitator de Leden begeleiden bij het behandelen van ieder opeenvolgend agendapunt. Om een agendapunt te behandelen dat vraagt om een verkiezing moet de Facilitator het **"Integratief Verkiezingsproces"** gebruiken zoals gedefinieerd in Artikel 3.3.6. Voor het verwerken van ieder ander agendapunt moet de Facilitator gebruik maken van het **"Integratief Besluitvormingsproces"**, gedefinieerd in Artikel 3.3.5.
 
 #### 3.3.5 Integratief Besluitvormingsproces
 
 De Facilitator voert het Integratief Besluitvormingsproces als volgt uit:
 
-**(a) Voorstel doen**: Allereerst omschrijft de Voorsteller de Spanning en doet een Voorstel om de Spanning op te lossen. Als de Voorsteller om hulp vraagt bij het formuleren van een Voorstel mag de Facilitator en dialoog, of een ander gemeenschappelijk proces om te helpen, toestaan. Maar de Facilitator moet deze activiteit uitsluitend richten op het maken van een initieel Voorstel voor de actuele spanning en niet om andere Spanningen aan te spreken of om andermans zorgen te integreren in het Voorstel. 
+**(a) Voorstel doen:** Allereerst omschrijft de Voorsteller de Spanning en doet een Voorstel om de Spanning op te lossen. Als de Voorsteller om hulp vraagt bij het formuleren van een Voorstel mag de Facilitator en dialoog, of een ander gemeenschappelijk proces om te helpen, toestaan. Maar de Facilitator moet deze activiteit uitsluitend richten op het maken van een initieel Voorstel voor de actuele spanning en niet om andere Spanningen aan te spreken of om andermans zorgen te integreren in het Voorstel. 
 
-**(b) Verhelderende vragen**: Zodra de Voorsteller het Voorstel heeft geformuleerd mogen de andere deelnemers verhelderende vragen stellen om het Voorstel of de Spanning erachter beter te begrijpen. De Voorsteller mag iedere vraag beantwoorden maar is hiertoe niet verplicht. De Facilitator staat geen enkele reactie of mening over het Voorstel toe en voorkomt enige discussie van dien aard. Iedere deelnemer mag ten alle tijden aan de Secretaris vragen om het vastgelegde Voorstel voor te lezen of om het bestaande bestuur te verhelderen. Dat geld voor deze stap en iedere andere stap waarin het de Leden is toegestaan om te praten. De Secretaris moet dit verzoek altijd honoreren. 
+**(b) Verhelderende vragen:** Zodra de Voorsteller het Voorstel heeft geformuleerd mogen de andere deelnemers verhelderende vragen stellen om het Voorstel of de Spanning erachter beter te begrijpen. De Voorsteller mag iedere vraag beantwoorden maar is hiertoe niet verplicht. De Facilitator staat geen enkele reactie of mening over het Voorstel toe en voorkomt enige discussie van dien aard. Iedere deelnemer mag ten alle tijden aan de Secretaris vragen om het vastgelegde Voorstel voor te lezen of om het bestaande bestuur te verhelderen. Dat geld voor deze stap en iedere andere stap waarin het de Leden is toegestaan om te praten. De Secretaris moet dit verzoek altijd honoreren. 
 
-**(c) Reactieronde**: Zodra er geen verhelderende vragen meer zijn mag ieder Lid, met uitzondering van de Voorsteller, één voor één reacties geven op het Voorstel. De Facilitator moet reacties buiten de beurt om, of iedere andere poging om anderen in een dialoog te betrekken of uitwisselingen van dien aard en elke reactie op andere reacties in plaats van op het Voorstel, niet tolereren en direct stoppen. 
+**(c) Reactieronde:** Zodra er geen verhelderende vragen meer zijn mag ieder Lid, met uitzondering van de Voorsteller, één voor één reacties geven op het Voorstel. De Facilitator moet reacties buiten de beurt om, of iedere andere poging om anderen in een dialoog te betrekken of uitwisselingen van dien aard en elke reactie op andere reacties in plaats van op het Voorstel, niet tolereren en direct stoppen. 
 
-**(d) Verduidelijken en Wijzigen**: Na de reactieronde mag de Voorsteller het voorstel verduidelijken als antwoord op de reacties en wijzigingen doen aan het Voorstel. Echter, het doel van iedere wijziging moet zijn om de Spanning van de Voorsteller beter aan te spreken, niet de Spanningen van anderen. Tijdens deze stap worden alle reactie van alle Leden, behalve die van de Voorsteller of de Secretaris, niet getolereerd en moeten door de Facilitator gestopt worden. Iedere bijdrage van de Secretaris moet uitsluitend gericht zijn op het vastleggen van het gewijzigde Voorstel. 
+**(d) Verduidelijken en Wijzigen:** Na de reactieronde mag de Voorsteller het voorstel verduidelijken als antwoord op de reacties en wijzigingen doen aan het Voorstel. Echter, het doel van iedere wijziging moet zijn om de Spanning van de Voorsteller beter aan te spreken, niet de Spanningen van anderen. Tijdens deze stap worden alle reactie van alle Leden, behalve die van de Voorsteller of de Secretaris, niet getolereerd en moeten door de Facilitator gestopt worden. Iedere bijdrage van de Secretaris moet uitsluitend gericht zijn op het vastleggen van het gewijzigde Voorstel. 
 
-**(e) Bezwarenronde**: Vervolgens mag ieder Lid één voor één een mogelijk Bezwaar op het aannemen van het Voorstel inbrengen. De Facilitator moet discussies of reacties van elke soort niet tolereren en stoppen. De Facilitator mag Bezwaren testen zoals beschreven in Artikel 3.2.5 en moet ieder geldig Bezwaar vastleggen. Als er geen geldige Bezwaren zijn legt de Secretaris het Voorstel vast als aangenomen Bestuur voor de Cirkel. 
+**(e) Bezwarenronde:** Vervolgens mag ieder Lid één voor één een mogelijk Bezwaar op het aannemen van het Voorstel inbrengen. De Facilitator moet discussies of reacties van elke soort niet tolereren en stoppen. De Facilitator mag Bezwaren testen zoals beschreven in Artikel 3.2.5 en moet ieder geldig Bezwaar vastleggen. Als er geen geldige Bezwaren zijn legt de Secretaris het Voorstel vast als aangenomen Bestuur voor de Cirkel. 
 
-**(f) Integratie**: Als er geldige Bezwaren zijn begeleidt de Facilitator een dialoog om het Voorstel zo te wijzigen dat ieder Bezwaar één voor één wordt opgelost. De Facilitator verklaart het Bezwaar als opgelost zodra de Bezwaarmaker bevestigt dat het gewijzigde Voorstel het Bezwaar niet zou veroorzaken en de Voorsteller bevestigt dat het gewijzigde voorstel nog steeds de Spanning van de Voorsteller aanspreekt. Tijdens de dialoog moet de Facilitator de regels van integratie toepassen zoals gedefinieerd in Artikel 3.2.6. Zodra alle vastgelegde Bezwaren zijn opgelost gaat de Facilitator terug naar de Bezwarenronde om te kijken of er nieuwe Bezwaren zijn op het gewijzigde Voorstel. 
+**(f) Integratie:** Als er geldige Bezwaren zijn begeleidt de Facilitator een dialoog om het Voorstel zo te wijzigen dat ieder Bezwaar één voor één wordt opgelost. De Facilitator verklaart het Bezwaar als opgelost zodra de Bezwaarmaker bevestigt dat het gewijzigde Voorstel het Bezwaar niet zou veroorzaken en de Voorsteller bevestigt dat het gewijzigde voorstel nog steeds de Spanning van de Voorsteller aanspreekt. Tijdens de dialoog moet de Facilitator de regels van integratie toepassen zoals gedefinieerd in Artikel 3.2.6. Zodra alle vastgelegde Bezwaren zijn opgelost gaat de Facilitator terug naar de Bezwarenronde om te kijken of er nieuwe Bezwaren zijn op het gewijzigde Voorstel. 
 
 #### 3.3.6 Integratief Verkiezingsproces
 
 De Facilitator moet het Integratief Verkiezingsproces als volgt uitvoeren:
 
-**(a) Rol omschrijven**: Als eerste moet de Facilitator de beoogde Rol en haar termijn identificeren voor de verkiezing. De Facilitator mag ook de functies van de beoogde Rol omschrijven en andere relevantie informatie voor die Rol presenteren. 
+**(a) Rol omschrijven:** Als eerste moet de Facilitator de beoogde Rol en haar termijn identificeren voor de verkiezing. De Facilitator mag ook de functies van de beoogde Rol omschrijven en andere relevantie informatie voor die Rol presenteren. 
 
-**(b) Stembiljet invullen**: Ieder Lid vult vervolgens een Stembiljet in om van alle beschikbare Leden diegene te nomineren waarvan het Lid denkt dat die het meest geschikt is voor de Rol. Iedere Lid moet het stembriefje ook kenmerken met zijn of haar eigen naam en niemand mag zich onthouden van stemmen of meerdere mensen nomineren. Voor en tijdens deze stap moet de Facilitator direct alle reacties of discussies over mogelijke kandidaten of nominaties stoppen.
+**(b) Stembiljet invullen:** Ieder Lid vult vervolgens een Stembiljet in om van alle beschikbare Leden diegene te nomineren waarvan het Lid denkt dat die het meest geschikt is voor de Rol. Iedere Lid moet het stembriefje ook kenmerken met zijn of haar eigen naam en niemand mag zich onthouden van stemmen of meerdere mensen nomineren. Voor en tijdens deze stap moet de Facilitator direct alle reacties of discussies over mogelijke kandidaten of nominaties stoppen.
 
-**(c) Nominatieronde**: Als alle Stembiljetten zijn ingediend deelt de Facilitator één voor één de inhoud van ieder stembriefje met alle Leden. Als de Facilitator een nominatie deelt moet het Lid dat heeft genomineerd uitleggen waarom hij of zij vindt dat die kandidaat goed zou passen in deze Rol. Alleen opmerkingen over de genomineerde kandidaat zijn toegestaan, elke andere reactie of opmerking moet gestopt worden door de Facilitator.
+**(c) Nominatieronde:** Als alle Stembiljetten zijn ingediend deelt de Facilitator één voor één de inhoud van ieder stembriefje met alle Leden. Als de Facilitator een nominatie deelt moet het Lid dat heeft genomineerd uitleggen waarom hij of zij vindt dat die kandidaat goed zou passen in deze Rol. Alleen opmerkingen over de genomineerde kandidaat zijn toegestaan, elke andere reactie of opmerking moet gestopt worden door de Facilitator.
 
-**(d) Nominatie veranderronde**: Zodra alle nominaties zijn gedeeld geeft de Facilitator alle Leden de mogelijkheid om zijn of haar nominatie te veranderen. Een deelnemer die een verandering doet mag alleen zijn of haar reden voor de verandering uitleggen, elke andere reactie of opmerking moet gestopt worden door de Facilitator.
+**(d) Nominatie veranderronde:** Zodra alle nominaties zijn gedeeld geeft de Facilitator alle Leden de mogelijkheid om zijn of haar nominatie te veranderen. Een deelnemer die een verandering doet mag alleen zijn of haar reden voor de verandering uitleggen, elke andere reactie of opmerking moet gestopt worden door de Facilitator.
 
-**(e) Een Voorstel maken**: Vervolgens moet de Facilitator de nominaties tellen en een Voorstel doen om de kandidaat met de meeste stemmen voor de gestelde termijn te verkiezen. Als er een gelijkspel is voor wie de meeste nominaties heeft dan mag de Facilitator een van de volgende dingen doen: 
+**(e) Een Voorstel maken:** Vervolgens moet de Facilitator de nominaties tellen en een Voorstel doen om de kandidaat met de meeste stemmen voor de gestelde termijn te verkiezen. Als er een gelijkspel is voor wie de meeste nominaties heeft dan mag de Facilitator een van de volgende dingen doen: 
 
 **(i)** een van de kandidaten blindelings en willekeurig selecteren en die persoon voorstellen, of 
 
@@ -513,11 +513,11 @@ Als je een Rol vervult in een Cirkel heb je de volgende plichten ten opzichte va
 
 Je hebt de plicht om transparantie te geven wanneer dat gevraagd wordt door je mede Cirkelleden, op de volgende gebieden:
 
-**(a) Projecten en Eerstvolgende Acties**: Je moet alle Projecten en Eerstvolgende Acties delen die je vastlegt voor al jouw Rollen in de Cirkel. 
+**(a) Projecten en Eerstvolgende Acties:** Je moet alle Projecten en Eerstvolgende Acties delen die je vastlegt voor al jouw Rollen in de Cirkel. 
 
-**(b) Relatieve prioriteit**: Je moet jouw oordeel over de relatieve prioriteit delen, van alle Projecten of Eerstvolgende Acties die je hebt vastgelegd voor jouw Rollen in de Cirkel, ten opzichte van alle andere potentiële activiteiten die om jouw aandacht en middelen vragen. 
+**(b) Relatieve prioriteit:** Je moet jouw oordeel over de relatieve prioriteit delen, van alle Projecten of Eerstvolgende Acties die je hebt vastgelegd voor jouw Rollen in de Cirkel, ten opzichte van alle andere potentiële activiteiten die om jouw aandacht en middelen vragen. 
 
-**(c) Schattingen**: Je moet een schatting geven van de datum waarop je verwacht een Project of een Eerstvolgende Actie af te ronden. Een ruwe schatting met het oog op je huidige context en prioriteiten is voldoende, dus zonder gedetailleerde analyse of planning. 
+**(c) Schattingen:** Je moet een schatting geven van de datum waarop je verwacht een Project of een Eerstvolgende Actie af te ronden. Een ruwe schatting met het oog op je huidige context en prioriteiten is voldoende, dus zonder gedetailleerde analyse of planning. 
 Deze schatting is op geen enkele manier een bindende verplichting en, tenzij het bestuur iets anders zegt, is er geen verplichting om die schatting vast te leggen, te archiveren, of een verandering terug te koppelen naar de partner die om de schatting gevraagd heeft.
 
 **(d) Checklist punten & Metriek:** Je moet delen of je de reguliere, terugkerende, acties die je routinematig uitvoert ten dienste van jouw Rollen in de Cirkel hebt volbracht. Je moet ook Metrieken vastleggen en rapporteren die zijn toegewezen aan jouw Rollen door de Lead Link van de Cirkel of door een andere Rol of ander Proces die de autoriteit heeft gekregen om Metrieken van de Cirkel te definiëren. 
@@ -526,23 +526,32 @@ Deze schatting is op geen enkele manier een bindende verplichting en, tenzij het
 
 Je hebt de plicht om berichten en verzoeken van je mede Cirkel-Leden snel te verwerken, op de volgende manier:
 
-**(a) Verzoeken voor Verwerking**: Andere Cirkel-Leden mogen je vragen om iedere Verantwoordelijkheid of Project van een een Rol die je vervult in de Cirkel te verwerken. Als je daar geen Eerstvolgende Acties voor hebt vastgelegd moet je een Eerstvolgende Actie bepalen en vastleggen wanneer die redelijke is om te doen. Als die er niet zijn moet je in plaats daarvan aangeven waar je op wacht. Dat moet ofwel een Eerstvolgende Actie of Project zijn die is vastgelegd door een andere Rol. of een specifieke situatie of conditie die moet plaatsvinden voordat je een verdere Eerstvolgende Acties neemt. 
+**(a) Verzoeken voor Verwerking:** Andere Cirkel-Leden mogen je vragen om iedere Verantwoordelijkheid of Project van een een Rol die je vervult in de Cirkel te verwerken. Als je daar geen Eerstvolgende Acties voor hebt vastgelegd moet je een Eerstvolgende Actie bepalen en vastleggen wanneer die redelijke is om te doen. Als die er niet zijn moet je in plaats daarvan aangeven waar je op wacht. Dat moet ofwel een Eerstvolgende Actie of Project zijn die is vastgelegd door een andere Rol. of een specifieke situatie of conditie die moet plaatsvinden voordat je een verdere Eerstvolgende Acties neemt. 
 
 **(b) Verzoeken voor Projecten en Eerstvolgende Acties:** Andere Cirkel-Leden mogen je vragen om een specifieke Eerstvolgende Actie of een specifiek Project voor een van je Rollen in de Cirkel op je te nemen. Als je het een redelijke Eerstvolgende Actie of een redelijk Project vindt moet je deze accepteren en vastleggen. Als dat niet het geval is moet je; ofwel uitleggen wat je redenen zijn, of een andere Eerstvolgende Actie of een ander Project, waarvan je denkt dat het het doel van de aanvrager tegemoet komt, vastleggen en communiceren.
 
-<--- hier was je gebleven --->
-
-**(c) Verzoeken om een Domein te beïnvloeden:** Andere Cirkelleden mogen vragen om een Domein te beïnvloeden die wordt beheerd door een van jouw Rollen in de Cirkel. Als je geen Bezwaren ziet voor dit verzoek dan moet je het toestaan. Als je wel Bezwaren ziet, dan moet je de Bezwaren uitleggen aan de aanvrager. 
+**(c) Verzoeken om een Domein te beïnvloeden:** Andere Cirkelleden mogen vragen om een Domein te beïnvloeden die wordt beheerd door een van jouw Rollen in de Cirkel. Als je geen Bezwaren ziet voor dit verzoek dan moet je het toestaan. Als je wel Bezwaren ziet moet je de Bezwaren verklaren aan de aanvrager. 
 
 #### 4.1.3. Plicht van prioritering
 
-Je hebt de plicht om te prioriteren waar je je aandacht en middelen op richt, in lijn met de volgende beperkingen:
+Je hebt de plicht om te prioriteren waar je jouw aandacht en middelen op richt, in lijn met de volgende beperkingen:
 
-**(a) Verwerking boven Uitvoering: **Je moet over het algemeen genomen binnenkomende berichten van mede Cirkelleden prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag de verwerking tijdelijk uitstellen om om een aantal verwerkings berichten tegelijkertijd te verwerken, in 1 tijdsblok of op een tijd die beter uitkomt, zolang je verwerking nog steeds redelijk snel is. Verwerking betekent betrokken zijn in de verplichtingen die Gedefinieerde staan in dit Artikel, inclusief het bezien van het bericht, definiëren en vastleggen van Eerstvolgende Acties of Projecten indien geschikt en, op verzoek, reageren hoe het bericht is verwerkt. Verwerking betekent niet het uitvoeren van vastgelegde Eerstvolgende Acties en Projecten, dat is niet gedekt in deze regel van prioritering.
+**(a) Verwerking boven Uitvoering:** Je moet over het algemeen genomen binnenkomende berichten van mede Cirkelleden prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag de verwerking tijdelijk uitstellen om om een aantal verwerkings berichten tegelijkertijd te verwerken, in één tijdsblok of op een tijd die beter uitkomt, zolang je verwerking nog steeds redelijk snel is. Verwerking betekent betrokken zijn in de verplichtingen die Gedefinieerde staan in dit Artikel, inclusief het bezien van het bericht, definiëren en vastleggen van Eerstvolgende Acties of Projecten indien geschikt en, op verzoek, reageren hoe het bericht is verwerkt. Verwerking betekent niet het uitvoeren van vastgelegde Eerstvolgende Acties en Projecten, dat is niet gedekt in deze regel van prioritering.
 
-**(b) Verzochte Overleggen boven Uitvoering: **Op verzoek van een mede Cirkellid moet je de aanwezigheid bij een overleg van de Cirkel, voorgeschreven in deze Grondwet, prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag het verzoek nog steeds afwijzen als je al dingen had gepland op het moment dat het Overleg plaatsvindt, of als het verzoek betrekking heeft op een doorlopende serie of patroon van overleggen in plaats van een specifiek overleg. 
+**(b) Verzochte Overleggen boven Uitvoering:** Op verzoek van een mede Cirkellid moet je de aanwezigheid bij een overleg van de Cirkel, voorgeschreven in deze Grondwet, prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag het verzoek afwijzen als je al dingen had gepland op het moment dat het Overleg plaatsvindt, of als het verzoek betrekking heeft op een doorlopende serie of patroon van overleggen in plaats van een specifiek overleg. 
 
-**(c) Behoeften van de Cirkel boven Individuele Doelen: ** Bij het beoordelen van hoe je je tijd, aandacht en andere middelen van je werk in de Cirkel implementeert, moet je integreren en afstemmen met alle officiële prioriteringen of strategieën van de Cirkel, zoals die zijn gespecificeerd door de Lead Link van de Cirkel. 
+**(c) Behoeften van de Cirkel boven Individuele Doelen:** Bij de beoordelin van de besteding van jouw tijd, aandacht en andere middelen van je werk in de Cirkel moet je integreren en afstemmen met alle officiële prioriteringen en/of strategieën van de Cirkel zoals die zijn vastgesteld door de Lead Link van de Cirkel. 
+
+<--- hier was je gebleven --->
+
+
+
+
+
+
+
+
+
 
 #### 4.1.4 Links mogen plichten overdragen
 
