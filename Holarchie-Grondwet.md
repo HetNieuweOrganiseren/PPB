@@ -427,8 +427,6 @@ De Facilitator moet het Integratief Verkiezingsproces als volgt uitvoeren:
 
 **(d) Nominatie veranderronde**: Zodra alle nominaties zijn gedeeld geeft de Facilitator alle Leden de mogelijkheid om zijn of haar nominatie te veranderen. Een deelnemer die een verandering doet mag alleen zijn of haar reden voor de verandering uitleggen, elke andere reactie of opmerking moet gestopt worden door de Facilitator.
 
-<--- hier was je gebleven --->
-
 **(e) Een Voorstel maken**: Vervolgens moet de Facilitator de nominaties tellen en een Voorstel doen om de kandidaat met de meeste stemmen voor de gestelde termijn te verkiezen. Als er een gelijkspel is voor wie de meeste nominaties heeft dan mag de Facilitator een van de volgende dingen doen: 
 
 **(i)** een van de kandidaten blindelings en willekeurig selecteren en die persoon voorstellen, of 
@@ -439,21 +437,23 @@ De Facilitator moet het Integratief Verkiezingsproces als volgt uitvoeren:
 
 **(iv)** teruggaan naar de vorige stap en iedere deelnemer die iemand anders heeft genomineerd dan de gelijkspelende kandidaten vragen om die nominatie te veranderen in een van de gelijkspelende kandidaten en dan teruggaan naar deze stap en opnieuw de regels toepassen. 
 
-**(f) Voorstel doen: **Zodra de Facilitator een Voorstel maakt om een kandidaat te verkiezen moet de Facilitator naar het Integratief Besluitvormingsproces gaan om dat Voorstel te verwerken. Echter, de Facilitator moet direct starten met de Bezwarenronde en als de voorgestelde kandidaat aanwezig is dan moet de Facilitator deze kandidaat als laatste vragen om Bezwaren. Als er Bezwaren worden ingebracht mag de Facilitator kiezen om deze te verwerken als normaal of om het Voorstel direct na de Bezwarenronde of op ieder punt tijdens de stap van Integratie te verwerpen. Als de Facilitator ervoor kiest om het Voorstel te verwerpen, dan moet de Facilitator teruggaan naar de vorige stap in dit proces, alle nominaties voor de bestaande kandidaat verwerpen en de regels volgen van de voorgaande stap om een andere kandidaat te selecteren om in plaats daarvan voor te stellen. 
+**(f) Voorstel doen:** Zodra de Facilitator een Voorstel doet om een kandidaat te verkiezen moet de Facilitator naar de Bezwaren ronde (stap **(e)** van 3.3.5 het Integratief Besluitvormingsproces) gaan om dat Voorstel te verwerken. Als de voorgestelde kandidaat aanwezig is dan moet de Facilitator deze kandidaat als laatste vragen om Bezwaren. Als er Bezwaren worden ingebracht mag de Facilitator kiezen om deze te verwerken als een normaal Bezwaar of om het Voorstel direct na de Bezwarenronde of op ieder punt tijdens de stap van Integratie te verwerpen. Als de Facilitator ervoor kiest om het Voorstel te verwerpen dan moet de Facilitator teruggaan naar stap **(e)** (in het Integratief Verkiezingsproces 3.3.6) en alle nominaties voor de bestaande kandidaat verwerpen en in plaats daarvan een voorstel doen voor een andere kandidaat. 
 
-#### 3.3.7 Operationele beslissingen in Roloverleggen
+#### 3.3.7 Operationele beslissingen in Rol-overleggen
 
-Roloverleggen zijn er primair voor bedoeld het Governance Proces van de Cirkel te ondersteunen. Zolang het niet afleidt van deze beoogde focus mag iedere deelnemer desondanks Projecten of Eerstvolgende Acties accepteren tijdens een Roloverleg of andere operationele beslissingen maken die buiten de scope van het Governance Proces van de Cirkel vallen. Echter, de Secretaris mag geen enkele operationele uitkomsten of beslissingen vastleggen in de formele Roloverleg verslagen van de Cirkel. 
+Roloverleggen zijn primair bedoeld om het Bestuurs Proces van de Cirkel te ondersteunen. Maar zolang het niet afleidt mag ieder Lid tijdens een Rol-overleg Projecten of Eerstvolgende Acties accepteren, of andere operationele beslissingen maken, die buiten de scope van het Bestuurs Proces van de Cirkel vallen. Echter, de Secretaris mag geen enkele operationele uitkomsten of beslissingen vastleggen in het formele Bestuurs Document van de Cirkel. 
 
-Verder, operationele uitkomsten en beslissingen die gemaakt zijn tijdens een Roloverleg dragen niet meer of minder gewicht of hebben niet meer of minder autoriteit dan diegene die gemaakt worden buiten een Roloverleg. 
+Verder dragen operationele uitkomsten en beslissingen die gemaakt zijn tijdens een Roloverleg niet meer of minder gewicht of autoriteit dan diegene die gemaakt worden buiten een Roloverleg. 
 
-### 3.4. Interpreteren van de Grondwet en Governance
+### 3.4. Interpreteren van de Grondwet en Bestuur
 
-Als een partner van de Organisatie mag je je redelijke oordeel gebruiken om deze Grondwet en de vastlegging van Governance van de Organisatie te interpreteren, inclusief hoe deze worden toegepast worden in een specifieke situatie en dan handelen op basis van je interpretatie. Je mag ook rekenen op een expliciete interpretatie gegeven door de Secretaris van de Cirkel die wordt beïnvloed door de Governance. Echter, in iedere situatie gelden de volgende aanvullende voorwaarden:
+Als een partner van de Organisatie mag je jouw redelijke oordeel gebruiken om deze Grondwet en het vastegelegde Bestuur van de Organisatie te interpreteren, inclusief hoe deze worden toegepast in een specifieke situatie, en handelen op basis van die interpretatie. Je mag er ook op rekenen dat de Secretaris een expliciete interpretatie van het Bestuur van elke Cirkel geeft die wordt beïnvloed door dat Bestuur. Echter, in iedere situatie gelden de volgende aanvullende voorwaarden:
 
 #### 3.4.1. Interpretatie van de Secretaris overtroeft
 
-Als jouw interpretatie in strijd is met een interpretatie uitspraak door een Secretaris dan overtroeft de interpretatie van de Secretaris die van jou en je bent verantwoordelijk om in lijn met deze interpretatie te handelen totdat onderliggend Governance verandert. 
+Als jouw interpretatie in strijd is met de interpretatie van een Secretaris dan overstemt de interpretatie van de Secretaris die van jou en ben je verantwoordelijk om in lijn met deze interpretatie te handelen totdat het Bestuur is verandert. 
+
+<--- hier was je gebleven --->
 
 #### 3.4.2 Interpretatie van de Super-Cirkel overtroeft 
 
