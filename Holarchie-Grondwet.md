@@ -542,28 +542,20 @@ Je hebt de plicht om te prioriteren waar je jouw aandacht en middelen op richt, 
 
 **(c) Behoeften van de Cirkel boven Individuele Doelen:** Bij de beoordelin van de besteding van jouw tijd, aandacht en andere middelen van je werk in de Cirkel moet je integreren en afstemmen met alle officiële prioriteringen en/of strategieën van de Cirkel zoals die zijn vastgesteld door de Lead Link van de Cirkel. 
 
-<--- hier was je gebleven --->
-
-
-
-
-
-
-
-
-
-
 #### 4.1.4 Links mogen plichten overdragen
 
-Als een Lead Link, Rep Link of Cross Link van een Cirkel, mag je iemand anders uitnodigen om de Cirkelleden van de Cirkel te betrekken in de plichten die in dit Artikel staan. Je mag deze uitnodiging alleen verlengen om te helpen bij het verwerken van een specifieke Spanning die invloed heeft op de entiteit waar je de link van bent en alleen als jij de Spanning ook waarneemt en betrokken blijft bij de verwerking. De persoon die je uitnodigt wordt tijdelijk een volledig lid van de Cirkel, alsof hij of zij ook jouw Link Rol vervult, maar alleen tijdens de verwerking van die specifieke Spanning. Je kunt deze uitnodiging op ieder moment intrekken. 
+Als een Lead Link, Rep Link of Koppel Link van een Cirkel mag je iemand anders uitnodigen om de verantwoordelijkheden, genoemd in dit artikel (4), op zich te nemen. Je mag dit alleen doen voor hulp bij het verwerken van een specifieke Spanning. Deze moet invloed hebben op de entiteit waar jij de link van bent en gelt alleen als; jij de Spanning ook waarneemt en, betrokken blijft bij de verwerking daarvan. De persoon die je uitnodigt wordt tijdelijk een volledig lid van de Cirkel en mede verantwoordelijk voor jouw rol tijdens de verwerking van die specifieke Spanning. De ander vervult samen met jou jouw rol totdat je de uitnodiging intrekt.
 
 #### 4.1.5 Impliciete verwachtingen hebben geen betekenis
 
-Al jouw verantwoordelijkheden en beperkingen als een Partner van de Organisatie zijn gedefinieerd in deze Grondwet en in de Governance dat hier resultaat van is. Voorgaande of impliciete verwachtingen of beperkingen hebben geen betekenis of autoriteit, tenzij Governance van de Cirkel ze expliciet bekrachtigt of als ze komen van een basis verplichting of contractuele overeenkomst die je persoonlijk hebt ten opzichte van of met de Organisatie. 
+Al jouw verantwoordelijkheden en plichten als Partner van de Organisatie zijn gedefinieerd in deze Grondwet. En komen in uiting in het bestuursdocument. Eerder gedane (impliciete) verwachtingen verantwoordelijkheden of plichten hebben geen betekenis of autoriteit. Tenzij het Bestuur van de Cirkel ze als natuurlijk aannemen, of als ze komen van een basis verplichting of contractuele overeenkomst die je persoonlijk hebt ten opzichte van of met de Organisatie. 
 
 ### 4.2. Werkoverleggen
 
-De secretaris van de Cirkel is verantwoordelijk voor het plannen van regelmatige **'Werkoverleggen' **om de werkuitvoering van de Cirkel te begeleiden. De Facilitator is verantwoordelijk voor het voorzitten van Werkoverleggen in lijn met de volgende regels en alle relevante Domeinafspraken van de Cirkel:
+De secretaris van de Cirkel is verantwoordelijk voor het plannen van regelmatige **'Werkoverleggen'** om de werk-uitvoering van de Cirkel te begeleiden. De Facilitator is verantwoordelijk voor het voorzitten van Werkoverleggen in lijn met de volgende regels en alle relevante Domeinafspraken van de Cirkel:
+
+<---- tot hier ---->
+
 
 #### 4.2.1 Focus en intentie
 
