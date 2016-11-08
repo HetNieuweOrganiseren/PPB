@@ -22,7 +22,7 @@ De Partners van de Organisatie verrichten werk voor de Organisatie, door te hand
 
 **(a)** Een **"Doel"**. De rol heeft haar eigen Doel die ze na zal nastreven of uitdrukken richting het Hoofd-Doel van de Organisatie. 
 
-**(b)** Een of meerdere **"Domeinen"**. Dit zijn dingen die de Rol exclusief mag beheren en reguleren als zijn eigendom, namens de Organisatie.
+**(b)** Een of meerdere **"Domeinen"**. Dit zijn dingen die de Rol exclusief mag beheren en reguleren als zijn eigendom namens de Organisatie.
 
 **(c)** Een of meer **"Verantwoordelijkheden"**. Dit zijn doorlopende activiteiten van de Organisatie die de Rol uitvoert. 
 
@@ -53,17 +53,21 @@ Als je tijd beschikbaar hebt om te handelen in je Rol, ben je verantwoordelijk o
 
 ### 1.3. Autoriteit om te handelen
 
-Als Partner toegewezen aan een Rol, heb je de autoriteit om welke Eerstvolgende Acties dan ook uit te voeren, waarvan jij redelijkerwijs gelooft dat ze zinvol zijn voor het uitvoeren van het doel en Verantwoordelijkheden van jouw Rol(len). 
+Als je als Partner een rol vervult heb je de autoriteit om elke Eerstvolgende Acties uit te voeren waarvan jij gelooft dat ze zinvol is voor het behalen van het doel en de Verantwoordelijkheden van jouw Rol. 
 
-Echter, je kan geen controle uitoefenen of materiële invloed veroorzaken binnen een Domein waar een andere Rol of entiteit eigenaar van is, tenzij je hun toestemming hebt. De autoriteit verkregen in deze paragraaf wordt verder gelimiteerd in Artikel 2.1.3. 
+Elke rol is autonoom en het is je dus niet toegestaan om controle uit te oefenen op een Rol of entiteit die je niet vervult, tenzij; je expliciet toestemming hebt van de Partner die deze rol vervult of, als er een noodzaak is voor een Individuele actie zoals bepaald in artikel 4.3 
+
+De autoriteit verkregen in deze paragraaf wordt mede bepaald door Artikel 2.1. 
 
 ### 1.4 Autoriteit over Domeinen
 
-Als Partner toegewezen aan een Rol, heb je de autoriteit om ieder Domein van jouw Rol te controleren en reguleren. Je kunt dit doen op individuele basis, zodra anderen om toestemming vragen om een van je Domeinen te beïnvloeden, door het verzoek in overweging te nemen en wel of geen toestemming te geven. 
+Als Partner die een Rol vervult heb je de autoriteit om ieder Domein van jouw Rol te controleren en reguleren. Als een ander toestemming vraagt om het domein te beïnvloedden ben je verplicht het verzoek te beoordelen en expliciet wel of geen toestemming te geven. 
 
-Je kunt ook ‘Domeinafspraken’ definiëren voor jouw Domeinen. Dit zijn ofwel toezeggingen van autoriteit die het anderen mogelijk maken om controle uit te oefenen of materiële invloed te veroorzaken binnen een domein, ofwel beperkingen op hoe anderen dat kunnen doen als ze op een andere manier autoriteit hebben. Voordat een Domeinafspraak geldig is moet je het eerst publiceren op een gezamenlijke online plek, geschikt voor alle Partners die mogelijk beïnvloed worden. 
+#### 1.4.1 Beleid
 
-De in deze Sectie verkregen autoriteit, kan verder gelimiteerd worden door beperkingen die gedefinieerd zijn in Artikel 2.1.3.
+Je kunt ook ‘Beleid’ definiëren voor jouw Domeinen. Dit is ofwel; een *toezegging* van autoriteit die een rol in staat stelt om controle of regulering uit te oefenen binnen een domein, ofwel een *beperkingen* van autoriteit over de volledige controle en regulering binnen een domein. Voordat een Beleid geldig word moet het eerst gepubliceerd worden en een afgesproken peridoe inzichterlijk zijn voor alle Rollen waarop het Beleid invloed op heeft.
+
+De autoriteit verkregen in deze paragraaf wordt mede bepaald door Artikel 2.1. 
 
 ## Artikel 2: Cirkel Structur
 
@@ -71,25 +75,29 @@ Een Cirkel bevat een integreert vele rollen. Dit artikel beschrijft hoe een Cirk
 
 ### 2.1 Cirkel fundamenten
 
-Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere rollen, zodat meerdere partners samen kunnen werken aan de uitdrukking van het algemene doel en verantwoordelijkheden van die Cirkel. Een **"Cirkel"** kan haar eigen Rollen definiëren, zijn Domeinen controleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn **"Gedefinieerde"** **"Rollen"**, en iedere Partner die een van de Gedefinieerde rollen vervult is een **"Cirkel Lid"** van die Cirkel. 
+Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere rollen, zodat meerdere partners samen kunnen werken aan de uitdrukking van het algemene doel en verantwoordelijkheden van die Cirkel. Een **"Cirkel"** kan haar eigen Rollen definiëren, haar Domeinen controleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn **"Gedefinieerde"** **"Rollen"** en liggen vast in het **"Bestuurs Document"**, en elke Partner die een van de Gedefinieerde rollen vervult is een **"Lid"** van die Cirkel. 
 
-#### 2.1.1 Rollen en Domeinafspraken definiëren 
+#### 2.1.1 Rollen en Beleid definiëren 
 
-Elke Cirkel gebruikt het **"Bestuurs Proces"**, welke wordt beschreven in Artikel 3 van deze Grondwet, om Rollen te definiëren of te wijzigen binnen de Cirkel en de Domeinafspraken die het Domein van de Cirkel besturen. Niemand mag Rollen of Domeinafspraken van een Cirkel definiëren of wijzigen buiten dit Bestuurs-Proces, tenzij dit expliciet wordt toegestaan door een andere regel van deze Grondwet. 
+Elke Cirkel gebruikt het **"Bestuurs Proces"**, welke wordt beschreven in Artikel 3 van deze Grondwet, om Rollen binnen de Cirkel te definiëren of te wijzigen en om het **"Beleid"** te bepalen. Niemand mag Rollen of Beleid van een Cirkel definiëren of wijzigen buiten dit Bestuurs Proces, tenzij dit expliciet wordt toegestaan door een andere regel van deze Grondwet. 
 
-Verder mag iedere Cirkel controle uitoefenen op haar eigen functies en activiteiten, alsof het een Domein van de Cirkel is, ten behoeve van het bepalen van Domeinafspraken die de Rollen van de Cirkel beperken. 
+Verder beheer iedere **Cirkel** haar eigen verantwoordelijkheden en acties alsof deze een Domein van de Cirkel zijn.
 
 #### 2.1.2 Rollen mogen invloed uitoefenen op Domeinen
 
-Als je een Rol vervult in een Cirkel dan mag je ieder Domein gebruiken en beïnvloeden die wordt beheerd door de Cirkel zelf, of waarvan de Cirkel de autoriteit heeft gekregen om die te beïnvloeden. Echter, je moet je houden aan eventuele beperkingen die van toepassing zijn op de Cirkel zelf of beperkingen die gedefinieerd zijn in een Domeinafspraak van de Cirkel, en je kunt het Domein mogelijk niet volledig beheersen of reguleren onder de voorwaarden van Artikel 1.4. 
+Als je een Rol vervult in een Cirkel dan mag je de vastgestelde Domeinen van die Cirkel controleren en beïnvloeden. Echter, je moet je houden aan eventueel Beleid dat van toepassing is op die Domeinen zoals beschreven in 1.4. 
 
-Verder mag je het Domein of belangrijke onderdelen ervan niet overdragen of er afstand van doen, ook mag je de rechten van de Cirkel niet aanzienlijk beperken ten opzichte van het Domein. Echter, deze beperkingen zijn niet van toepassingen als een Rol of een proces met autoriteit je de toestemming geeft om het te doen. 
+Verder mag je het Domein of aanverwante verantwoordelijkheden niet overdragen of er afstand van doen, ook mag je de rechten van de Cirkel niet aanzienlijk beperken ten opzichte van het Domein. Echter, deze beperkingen zijn niet van toepassingen als een Rol of proces met die autoriteit jouw Rol de toestemming geeft om dit te doen. 
 
-#### 2.1.3 Delegeren van beheer
+#### 2.1.3 Delegeren van een Domein
 
-Elke rol binnen een Cirkel kan in het algemeen invloed hebben op het Domein van die Cirkel zonder uitdrukkelijke toestemming, tenzij het Domein gedelegeerd is aan een specifieke rol binnen de Cirkel.
+Waneer een een Cirkel een domein delegeerd aan een Rol krijgt deze de invloed om controle en regulatie uit te oefenen binnen dit domein in plaats van die cirkel. 
 
-Echter, de Cirkel heeft het recht om te het Domein te verwijderen of te wijzigen, of om Domein-afspraken die de autoriteit op het Domein verder beperken of verruimen te definiëren en aan te passen. 
+Echter, de Cirkel behoud haar recht om het gedelegeerde Domein aan te passen of te verwijderen, en/of om Beleid te definieren voor dat Domein.
+
+Standaard mag een rol die een gedelegeerd Domein controleerd deze, of significante activa binnen dit domein, niet opheffen of overdragen naar een entiteit buiten die cirkel. Of de cirkel de controle over het domein ontzeggen. Een cirkel kan deze regel veranderen door het definieren van een beleid op het domein van de Cirkel.
+
+Een domein is altijd gelimiteerd door de autoriteit die het in eerste instantie had.
 
 ### 2.2 Cirkel Lead-Link
 
@@ -113,7 +121,7 @@ Bovendien kan de Lead-Link een meer algemene ‘Strategie’ of meerdere strateg
 
 Een Cirkel mag geen Verantwoordelijkheden of andere functies toevoegen aan de LeadLink Rol. Ook mag het doel van deze Rol niet aangepast worden en kan de Rol niet verwijderd worden. 
 
-Echter, een Cirkel mag Verantwoordelijkheden, Domeinen, bevoegdheden of functies van de Lead-Link Rol wel delegeren door ze bij een andere Rol in de Cirkel te plaatsen, of door een alternatieve manier te bepalen om ze uit te voeren. Als dit gebeurt. verdwijnt automatisch de relevantie of de autoriteit van de Lead-Link Rol, zolang deze delegatie in stand blijft. 
+Echter, een Cirkel mag Verantwoordelijkheden, Domeinen, bevoegdheden of functies van de Lead-Link Rol wel delegeren door ze bij een andere Rol in de Cirkel te plaatsen, of door een alternatieve manier te bepalen om ze uit te voeren. Als dit gebeurt. verdwijnt automatisch de relevantie of de autoriteit van de Lead-Link Rol zolang deze delegatie in stand blijft. 
 
 ### 2.3 Cirkel participatie & bestuur
 
@@ -135,7 +143,7 @@ Tenzij er een speciale afspraak of uitsluiting wordt gemaakt onder de voorwaarde
 
 #### 2.3.2 Uitsluiting van multi ingevulde Rollen
 
-Als een rol wordt ingevuld door meerdere partners, kan een Cirkel een domein instellen waarmee slechts een van die Partners aangesteld word als vertegenwoordiger van die Rol. Als dat zo is gedraagt deze Partner zich als een Rep-Link om de spanningen van de andere Partners te vertegenwoordigen. Binnen deze Domein afspraak is er minimaal 1 Partner die deze Rol vervult als Klid van de Cirkel en moet kunnen uitleggen hoe deze vertegenwoordiger wordt bepaald. 
+Als een rol wordt ingevuld door meerdere partners, kan een Cirkel een domein instellen waarmee slechts een van die Partners aangesteld word als vertegenwoordiger van die Rol. Als dat zo is gedraagt deze Partner zich als een Rep-Link om de spanningen van de andere Partners te vertegenwoordigen. Binnen deze Domein afspraak is er minimaal 1 Partner die deze Rol vervult als Lid van de Cirkel en deze moet kunnen verantwoorden hoe deze vertegenwoordiging is bepaald. 
 
 #### 2.3.3 Uitsluiting bij minimale besteding van aandacht
 
@@ -157,13 +165,9 @@ Als een Rol in een Cirkel niet door een Partner wordt vervuld word deze toegewez
 
 #### 2.4.2 Rollen toewijzen aan meerdere personen
 
-Een rol kan aan meerdere personen worden toegekend, zolang het is duidelijk wie verantwoordelijkheden en bevoegdheden voor de specifieke situaties waarmee de rol houdt. Een manier om dit duidelijk is om een "Focus" toewijzen aan elke persoon binnen de rol.
+Een rol kan aan meerdere Partners worden toegekend, zolang het duidelijk is wie welke verantwoordelijkheden en bevoegdheden van die specifieke Rol vervult. Een manier om dit helder te houden is om een ‘Focus’ te specificeren bij iedere toewijzing. 
 
-Een Lead-Link mag meerdere personen toewijzen aan een Rol zolang het helder blijft wie welke Verantwoordelijkheden en bevoegdheden van de Rol uitvoert. 
-
-Een manier om deze helderheid te behouden is om een ‘Focus’ te specificeren bij iedere toewijzing. Dit is een gebied of context voor die persoon om op te focussen tijdens het uitvoeren van de Rol. 
-
-Als een Rol toewijzing een Focus bevat dan geldt dat het doel, de Verantwoordelijkheden en Domeinen van die Rol worden uitgevoerd door die specifieke Partner binnen die Focus. 
+Als een Rol toewijzing een Focus bevat dan geldt dat: het doel, de Verantwoordelijkheden en Domeinen van die Rol uitgevoerd worden door die specifieke Partner binnen die Focus. 
 
 #### 2.4.3 Afstand doen van Rollen
 
@@ -175,11 +179,11 @@ Elke Cirkel heeft een **"Facilitator Rol"**, een **"Secretaris Rol"** en een **"
 
 #### 2.5.1 Verkiezingen en verkiesbaarheid
 
-De Facilitator van elke Cirkel begeleidt terugkerende verkiezingen volgens de regels van artikel 3.3.5 om een Partner die lid is van een Cirkel te verkiezen voor de verkiesbare Rollen. Alle leden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Lead Link van de Cirkel die niet mag worden gekozen als Facilitator of Rep Link. 
+De Facilitator van elke Cirkel begeleidt terugkerende verkiezingen volgens de regels van artikel 3.3.5 om een Partner die lid is van een Cirkel te verkiezen voor de verkiesbare Rollen. Alle leden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Partner die de Lead Link van de Cirkel vervult, deze mag niet worden gekozen als Facilitator of Rep Link. 
 
 #### 2.5.2 Verkiezingstermijn en herzien van verkiezingen 
 
-Tijdens het verkiezingsproces stelt de Facilitator een termijn vast voor iedere verkiezing. Voor het verstrijken van de termijn is de Secretaris verantwoordelijk voor het plannen van een nieuwe verkiezing voor die Verkozen Rol. 
+Tijdens het verkiezingsproces stelt de Facilitator een termijn vast voor iedere verkozen Rol. Bij het verstrijken van die termijn is de Secretaris verantwoordelijk voor het plannen van een nieuwe verkiezing voor die Rol. 
 
 Echter, nog voordat een termijn is verstreken kan elk lid van de Cirkel een nieuwe verkiezing voorstellen, gebruikmakend van het proces dat is bepaald in Artikel 3. 
 
@@ -191,11 +195,11 @@ Een Cirkel kan niets veranderen aan verkozen Rollen van andere cirkels, met inbe
 
 #### 2.5.4 Vervanging van verkozen Rollen
 
-Een vervangende Partner kan tijdelijk een Verkozen Rol vervullen wanneer deze niet is vervuld, of als de persoon die de Rol normaal vervult niet beschikbaar is voor een Cirkel overleg of wanneer hij zich niet in staat of bereid voelt om de taken van de Rol uit te voeren. 
+Een vervangende Partner kan tijdelijk een Verkozen Rol vervullen wanneer deze niet is vervuld, of als de persoon die de Rol normaal vervult niet beschikbaar is voor een Cirkel overleg of wanneer deze zich niet in staat of bereid voelt om de taken van de Rol uit te voeren. 
 
 Als er een vervanger nodig is, dan wordt de vervanger bepaald in deze volgorde:
 
-**(a)** iemand die expliciet is bepaald door de oorspronkelijke Rol vervuller; of
+**(a)** iemand die expliciet is bepaald door de partner die de Rol voorheen vervulde; of
 
 **(b)** de Facilitator van de Cirkel; of
 
@@ -207,11 +211,11 @@ Als er een vervanger nodig is, dan wordt de vervanger bepaald in deze volgorde:
 
 ### 2.6 Sub-Cirkels
 
-Een Cirkel kan zijn Gedefinieerde Rollen opsplitsen in volledige Cirkels via het bestuurs-Proces. Als dat gebeurt dan wordt de nieuwe Cirkel de "Sub-Cirkel" en de cirkel de "Super-Cirkel" van deze nieuwe Sub-Cirkel. 
+Een Cirkel kan zijn Gedefinieerde Rollen opsplitsen in volledige Cirkels via het bestuurs-Proces. Als dat gebeurt dan wordt de nieuwe Cirkel de **"Sub-Cirkel"** en de oorspronkelijke Cirkel de **"Super-Cirkel"** van deze nieuwe Sub-Cirkel. 
 
 #### 2.6.1 Wijzigen van Sub-Cirkels
 
-Een Cirkel kan het Doel, Domein en verantwoordelijkheden van haar Sub-Cirkel(s) veranderen. Een Cirkel kan ook haar eigen Rollen of Domeinafspraken verplaatsen naar een Sub-Cirkel, of die van de Sub-Cirkel naar zijn eigen Cirkel verplaatsen. Elke wijziging mag alleen gedaan worden via het Bestuurs-Proces van de Cirkel. Een Cirkel mag niet de Rollen of Domeinafspraken binnen haar Sub-Cirkel(s) wijzigen.
+Een Cirkel kan het Doel, Domein en verantwoordelijkheden van haar Sub-Cirkel(s) veranderen. Een Cirkel kan ook haar eigen Rollen of Domeinafspraken verplaatsen naar een Sub-Cirkel, of die van de Sub-Cirkel naar zijn eigen Cirkel verplaatsen. Elke wijziging mag alleen gedaan worden via het Bestuurs-Proces van de Cirkel. Een Cirkel mag niet de Rollen of een Beleid binnen haar Sub-Cirkel(s) wijzigen.
 
 #### 2.6.2 Verwijderen van Sub-Cirkels
 
@@ -223,7 +227,8 @@ Een Cirkel kan een Sub-cirkel verwijderen door middel van bestuur door;
 #### 2.6.3 Lead Link van Sub-Cirkel
 
 De Lead-Link van een Cirkel kan een Partner aanwijzen om de Lead-Link Rol voor een Sub-Cirkel te vervullen, gebruikmakend van dezelfde regels die gelden als de Lead-Link personen toewijst aan andere Gedefinieerde Rollen van de Cirkel.
-Of de Partner die de oorspronkelijk rol vervulde word de Lead-Link van de nieuwe Cirkel
+Of de Partner die de oorspronkelijk rol vervulde word de Lead-Link van die Sub-Cirkel.
+Of er vinden verkiezingen plaats voor de Rol van Lead-Link voor die Sub-Cirkel
 
 #### 2.6.4 Rep Link naar Sub-Cirkel
 
@@ -231,9 +236,9 @@ Elke Cirkel verkiest normaliter een Rep-Link voor haar Super-Cirkel. Deze verkie
 
 ### 2.7 Koppel-Link
 
-Een Cirkel kan een "Koppel-link Beleid" definiëren door het bestuur. Waarmee een andere entiteit (de "gekoppelde Entiteit") word uitgenodigd als vertegenwoordiger in die Cirkel of een van de Sub-cirkels (de "Doel Cirkel").
+Een Cirkel kan een "Koppel-link Beleid" definiëren door middel van het Bestuurs Proces. Hiermee word een andere entiteit (de "gekoppelde Entiteit") uitgenodigd als vertegenwoordiger in die Cirkel of een van de Sub-cirkels (de "Doel Cirkel").
 
-Een Cirkel kan een **"Koppel-Link Domeinafspraak"** maken om een entiteit of groep uit te nodigen om deel te nemen aan het Bestuurs-Proces en de uitvoer van een andere Cirkel. De entiteit of groep die wordt uitgenodigd om deel te nemen is de **"Gekoppelde Entiteit"**. Deze kan van buiten de organisatie zijn, of het kan een andere Rol of Cirkel in de organisatie zijn. De Cirkel die deze link krijgt is de **"Doel-Cirkel"** en moet de Cirkel (of een van haar Sub-Cirkels) zijn die de Koppel-Link Domeinafspraak maakt.
+Een Cirkel kan een **"Koppel-Link Beleid"** maken om een entiteit of groep uit te nodigen om deel te nemen aan het Bestuurs-Proces en de uitvoer van een andere Cirkel. De entiteit of groep die wordt uitgenodigd om deel te nemen is de **"Gekoppelde Entiteit"**. Deze kan van buiten de organisatie zijn, of het kan een andere Rol of Cirkel in de organisatie zijn. De Cirkel die deze link krijgt is de **"Doel-Cirkel"** en het moet deze Cirkel (of een van haar Sub-Cirkels) zijn die de Koppel-Link Domeinafspraak maakt.
 
 Zodra een Koppel-Link Domeinafspraak is aangenomen, kan de Gelinkte Entiteit een vertegenwoordiger toewijzen om deel te nemen in de Doel-Cirkel onder de voorwaarden van dit Artikel, tenzij er andere voorwaarden zijn gedefinieerd in de Koppel-Link Domeinafspraak. 
 
@@ -241,21 +246,21 @@ Zodra een Koppel-Link Domeinafspraak is aangenomen, kan de Gelinkte Entiteit een
 
 Als de Gelinkte Entiteit een Rol is, dan mag die Rol zoals hieronder beschreven deelnemen in de Doel-Cirkel. Dit is de ‘Koppel-Link Rol’ en de persoon die deze vervult wordt de ‘Koppel-Link’. 
 
-Als de Gekoppelde Entiteit een Cirkel of een groep is, dan wordt in plaats daarvan automatisch een nieuwe Koppel-Link Rol met een eigen Doel gecreëerd, welke tot zowel de Gelinkte Identiteit als de Doel-Cirkel behoort, ongeveer zoals een Rep-Link. In dit geval heeft de Koppel-Link Rol hetzelfde doel en Verantwoordelijkheden als een Rep Link. Maar waar bij de Rep Link wordt verwezen naar de Cirkel, wordt hier de Gelinkte Identiteit bedoeld en waar wordt verwezen naar de Super-Cirkel wordt hier Doel-Cirkel bedoeld. 
+Als de Gekoppelde Entiteit een Cirkel of een groep is, dan wordt in plaats daarvan automatisch een nieuwe Koppel-Link Rol met een eigen Doel gecreëerd, welke tot zowel de Gelinkte Identiteit als de Doel-Cirkel behoort, ongeveer zoals een Rep-Link. In dit geval heeft de Koppel-Link Rol hetzelfde doel en Verantwoordelijkheden als een Rep Link. Maar waar bij de Rep Link wordt verwezen naar de Cirkel, wordt hier de Gelinkte Identiteit bedoeld. En waar wordt verwezen naar de Super-Cirkel wordt hier Doel-Cirkel bedoeld. 
 
-Als de Gekoppelde Entiteit geen helder doel en geen enkele heldere Verantwoordelijkheden heeft, dan moet de Koppel-Link Domeinafspraak verder verhelderen wat de Koppel-Link Rol zal vertegenwoordigen in de Doel-Cirkel. 
+Als de Gekoppelde Entiteit geen helder doel en geen enkele heldere Verantwoordelijkheden heeft, dan moet het Koppel-Link Beleid worden verhelderd door te definieren wat de Koppel-Link Rol vertegenwoordigd in de Doel-Cirkel. 
 
 #### 2.7.2 Koppel-Link toewijzing
 
-Als de Gekoppelde Entiteit een Cirkel of een groep is, dan mag deze een Partner aanwijzen om de Koppel-Link te vervullen, gebruikmakend van het proces de Entiteit of groep al gebruikt voor het toewijzen van Partners om Rollen of gelijksoortige werkfuncties te vervullen. 
+Als de Gekoppelde Entiteit een Cirkel of een groep is, dan mag deze een Partner aanwijzen om de Koppel-Link te vervullen, gebruikmakend van het proces dat de Entiteit of groep al gebruikt voor het toewijzen van Partners om Rollen of gelijksoortige werkfuncties te vervullen. 
 
 Als een Gekoppelde Entiteit een groep vertegenwoordigt die geen duidelijk proces of heldere autoriteit heeft om de Koppel-Link Rol toe te wijzen, dan kan in plaats daarvan de Doel-Cirkel iemand toewijzen aan de Koppel-Link Rol, tenzij anders gespecificeerd in de Koppel-Link Rol Domeinafspraak. 
 
-In alle gevallen mag slechts 1 persoon toegewezen worden aan de Koppel-Link Rol, tenzij toegestaan door de Koppel-Link Domeinafspraak. Als een Koppel-Link Rol niet is toegewezen aan een persoon, wordt deze beschouwd als niet bestaand.
+In alle gevallen mag slechts 1 persoon toegewezen worden aan de Koppel-Link Rol, tenzij toegestaan door het Koppel-Link Beleid. Als een Koppel-Link Rol niet is toegewezen aan een persoon, wordt deze beschouwd als niet bestaand.
 
 #### 2.7.3 Koppel-Link autoriteit
 
-Een Koppel-Link wordt lid van de Doel-Cirkel en kan de autoriteit als lid gebruiken om Spanningen te verwerken die gerelateerd zijn aan de Doelcirkel en de Gelinkte Entiteit beperken. 
+Een Koppel-Link wordt lid van de Doel-Cirkel en kan de autoriteit als lid gebruiken om Spanningen op te lossen die de werking tussen de Doelcirkel en de Gelinkte Entiteit beperken. 
 
 Echter, naast het wegnemen van beperkingen, mag een Koppel-Link de Doelcirkel niet gebruiken om meer capaciteit te bouwen voor de Gekoppelde Entiteit, tenzij deze capaciteit ook de Doel-Cirkel helpt bij het volbrengen van haar eigen Doel en Verantwoordelijkheden. 
 
@@ -273,31 +278,31 @@ Een Cirkels Bestuurs-proces wordt gebruikt om rollen en beleid te definiëren. D
 
 ### 3.1 Reikwijdte van bestuur
 
-De enige geldige daden van het "Bestuur" van een Cirkel zijn het aanmaken & aanpassen van; rollen, Beleid, Sub-cirkels, of het houden van verkiezingen. Niets anders kan worden beslist of opgeschreven in het **"Bestuurs Document"** van een Cirkel.
+De enige geldige daden van het **"Bestuur"** van een Cirkel zijn: het aanmaken & aanpassen van; rollen, Beleid, Sub-cirkels, of het houden van verkiezingen. Niets anders kan worden beslist of opgeschreven in het **"Bestuurs Document"** van een Cirkel.
 
 Het Bestuurs-proces van een Cirkel heeft de macht om;
 **(a)** rollen van de Cirkel en Sub-Cirkels te definiëren, veranderen of verwijderen,
-**(b)** domeinafspraken van de Cirkel te definiëren, veranderen of verwijderen,
+**(b)** Beleid voor de Cirkel te definiëren, veranderen of verwijderen,
 **(c)** verkiezingen te houden voor de Verkozen Rollen. 
 
-Op ieder willekeurig moment definiëren de dan actuele resultaten van het Governance Proces het bepalende **"Bestuur"**. Alleen de uitkomsten die in dit bestuurs-document staan is geldig bestuur voor een Cirkel. Alleen de secretaris mag het Bestuurs-document aanpassen.
+Op ieder willekeurig moment definiëren de dan actuele resultaten van het Bestuurs Proces het voorgeschreven **"Bestuur"**. Deze resultaten worden vastgelegd in het Bestuurs Document, en alleen het bestuur zoals vormgegeven in dit Bestuurs Document is geldig voor een Cirkel. Alleen de secretaris mag het Bestuurs-document aanpassen.
 
-### 3.2 Governance veranderen
+### 3.2 Bestuur veranderen
 
 Elk lid van een Cirkel kan een voorstel doen om het Bestuur van die Cirkel te veranderen door een **"Voorstel"** te doen als **"Indiener"**.
 
-Voordat een Voorstel wordt aangenomen moeten alle leden van de Cirkel de mogelijkheid hebben om Spanningen te benoemen. Als een Spanning voldoet aan de criteria die zijn vastgelegd in dit Artikel spreken we van een **"Bezwaar"** en de persoon die de Spanning inbrengt wordt de **"Bezwaarmaker"**.
+Voordat een Voorstel wordt aangenomen moeten alle leden van de Cirkel de mogelijkheid hebben om Spanningen te benoemen. Als een Spanning voldoet aan de criteria die zijn vastgelegd in dit Artikel (3) spreken we van een **"Bezwaar"** en de Partner die de Spanning inbrengt wordt de **"Bezwaarmaker"**.
 
-Voorstellen worden beschouwd als aangenomen en wijzigen het Bestuur van de Cirkel als er geen Bezwaren zijn. Als er Bezwaren worden ingebracht moeten de Bezwaarmaker en de Indiener de Bezwaren oplossen waarna alle leden van de Cirkel een volgende mogelijkheid krijgen om andere Bezwaren te benoemen voordat het Voorstel wordt aangenomen.
+Voorstellen worden beschouwd als aangenomen en wijzigen het Bestuur van de Cirkel als er geen Bezwaren zijn. Als er Bezwaren worden ingebracht moeten de Bezwaarmaker en de Indiener de Bezwaren oplossen waarna alle leden van de Cirkel een volgende mogelijkheid krijgen om andere Bezwaren te benoemen voordat het aangepaste Voorstel wordt aangenomen.
 
 #### 3.2.1 Voorstellen doen
 
 Elk lid van de Cirkel mag een Voorstel doen in het **"Rol-Overleg"**, volgens de regels van Artikel 3.3. 
-Als alternatief kan een Voorsteller ook een Voorstel indienen aan alle leden van de Cirkel buiten een Roloverleg, hierbij  gebruik makend van het geschreven communicatiekanaal dat door de Secretaris voor dit doel is goedgekeurd. 
+Als alternatief kan een Voorsteller ook een Voorstel indienen aan alle leden van de Cirkel buiten een Roloverleg, hierbij  gebruik makend van een communicatie-kanaal dat door de Secretaris voor dit doel is goedgekeurd. 
 
 Als dit gebeurt kan de Facilitator hetzelfde proces en dezelfde regels toepassen die worden gebruikt tijdens een Roloverleg, of toestaan dat ieder lid van de Cirkel direct verklaart of er wel of geen Bezwaren zijn om te integreren. Op ieder moment, totdat het ingediende Voorstel buiten het Rol-Overleg is aangenomen, kan de Facilitator of elk willekeurig lid van de Cirkel het proces buiten het Roloverleg stoppen door de Voorsteller te verzoeken het Voorstel naar een Rol-Overleg te brengen.
 
-Een Cirkel kan Domeinafspraken aannemen om te beperken hoe en wanneer Voorstellen gemaakt of verwerkt kunnen worden buiten het Roloverleg. Maar geen enkele Domeinafspraak mag het recht beperken van de Kernleden om een Voorstel buiten het Roloverleg naar een Rol-Overleg te brengen. 
+Een Cirkel kan Domeinafspraken aannemen om te beperken hoe en wanneer Voorstellen gemaakt of verwerkt kunnen worden buiten het Rol-Overleg. Maar geen enkele Domeinafspraak mag het recht beperken van de Leden om een Voorstel buiten het Rol-Overleg naar een Rol-Overleg te brengen. 
 
 #### 3.2.2 Criteria voor geldige Voorstellen
 
@@ -313,14 +318,14 @@ Een Voorstel is altijd geldig, ongeacht de voorgaande criteria, als het uitsluit
 
 De Facilitator test de geldigheid van een Voorstel door de Indiener vragen te stellen. Voor een Voorstel om de test te doorstaan moet de Indiener in staat zijn om de Spanning te omschrijven en een voorbeeld geven van een feitelijke situatie waarin het Voorstel de Spanning zou hebben verminderd. De Facilitator moet het Voorstel verwerpen als de Facilitator vindt dat de Voorsteller niet heeft voldaan aan deze voorwaarde. 
 
-Echter, bij het beoordelen van de geldigheid van een Voorstel mag de Facilitator alleen oordelen of de Indiener het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met logische beredenering en dus of ze redelijk zijn. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid van de antwoorden, noch op de vraag of het Voorstel de Spanning voldoende zou aanpakken.
+Echter, bij het beoordelen van de geldigheid van een Voorstel mag de Facilitator alleen oordelen of de Indiener het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met een logische en redelijke beredenering. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid van de antwoorden, noch op de vraag of het Voorstel de Spanning voldoende zou aanpakken.
 
 #### 3.2.4 Criteria voor geldige Bezwaren
 
-Sommige Spanningen gelden niet als Bezwaren en kunnen genegeerd worden tijden de behandeling van een Voorstel. Een Spanning telt alleen als Bezwaar als het aan de criteria **(a)** t/m **(d)** voldoet, of de speciale criteria, gedefinieerd in **(e)**. 
+Sommige Spanningen gelden niet als Bezwaren en kunnen genegeerd worden tijden de behandeling van een Voorstel. Een Spanning telt alleen als Bezwaar als het aan de criteria **(a)** t/m **(d)** voldoet, of aan de speciale criteria gedefinieerd in **(e)**. 
 
 **(a)** Als de Spanning niet zou worden opgelost zou het de capaciteit van de Cirkel om haar Doel uit te drukken of haar Verantwoordelijkheden uit te voeren verminderen. De Spanning word niet veroorzaakt door een beter idee of een mogelijke verdere verbetering, maar doordat het Voorstel de Cirkel daadwerkelijk een stap terug zet in haar huidige capaciteit. 
-Ten behoeve van deze criteria geldt het afnemen van helderheid als het verminderen van capaciteit, maar enkel het falen om de helderheid te verbeteren niet. 
+*Ten behoeve van deze criteria geldt het verminderen van de helderheid van het Bestuur als het verminderen van capaciteit, maar enkel het falen om de helderheid te verbeteren niet.*
 
 **(b)** De Spanning bestond niet in de Cirkel, ook niet als het voorstel niet gedaan zou zijn. Oftewel: de Spanning wordt specifiek gecreëerd door het aannemen van dit Voorstel en zou niet bestaan als het Voorstel ingetrokken zou worden. 
 
@@ -338,9 +343,9 @@ Bijvoorbeeld, Eerstvolgende Acties, Projecten en specifieke operationele besliss
 De Facilitator mag de geldigheid van een ingebracht Bezwaart testen door de Bezwaarmaker vragen te stellen. 
 Een bezwaar doorstaat de test als de Bezwaarmaker in staat is om een redelijk argument te geven voor alle criteria genoemd in 3.2.4. Het Bezwaar word verworpen als de Facilitator vindt dat de Bezwaarmaker niet heeft voldaan aan deze voorwaarde. 
 
-Bij het beoordelen van de geldigheid van een Bezwaar mag de Facilitator alleen oordelen of de Bezwaarmaker de vereiste argumenten heeft gegeven en of deze werden gegeven met logische beredenering en of ze dus redelijk zijn. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid of de belangrijkheid van de argumenten.
+Bij het beoordelen van de geldigheid van een Bezwaar mag de Facilitator alleen oordelen of de Bezwaarmaker het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met een logische en redelijke beredenering. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid of de belangrijkheid van de argumenten.
 
-Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Grondwet, zie Artikel 3.2.4 **(e)**, dan mag de Facilitator de Secretaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Grondwet. Als dit  het geval blijkt te zijn moet de Facilitator het Bezwaar verwerpen. 
+Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Grondwet, zie Artikel 3.2.4 (e), dan mag de Facilitator de Secretaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Grondwet. Als dit  het geval blijkt te zijn moet de Facilitator het Bezwaar verwerpen. 
 
 #### 3.2.6 Regels van integratie
 
@@ -352,8 +357,8 @@ Als er een Bezwaar tegen een Voorstel wordt ingebracht gelden de volgende aanvul
 
 **(c)** Ieder Lid van de Cirkel mag de Voorsteller verhelderende vragen stellen over de Spanning die ten grondslag ligt aan het Voorstel en/of over ieder voorbeeld dat de Voorsteller heeft gegeven om die Spanning toe te lichten. Als de Facilitator concludeert dat de Voorsteller geen oprechte inspanning doet om die vragen te beantwoorden moet de Facilitator het Voorstel beschouwen als ongeldig en deze verwerpen. 
 
-**(d)** De Bezwaarmaker mag een wijziging voorstellen en moet redelijke argumenten geven waarom het de Spanning zou oplossen of voorkomen in iedere specifieke situatie die de Voorsteller heeft gegeven om de Spanning toe te lichten.
-Vervolgens moet de Voorsteller een redelijk argument geven waarom het gewijzigde Voorstel de Spanning in minimaal 1 specifieke situatie die al was gegeven niet zou oplossen of voorkomen.
+**(d)** De Bezwaarmaker mag een wijziging voorstellen en moet redelijke argumenten geven waarom het de Spanning zou oplossen of voorkomen voor iedere specifieke situatie die de Voorsteller heeft gegeven om de Spanning toe te lichten.
+Vervolgens moet de Voorsteller een redelijk argument geven waarom het gewijzigde Voorstel de Spanning in minimaal èèn specifieke situatie die al was gegeven niet zou oplossen of voorkomen.
 Als alternatief mag de Voorsteller een extra voorbeeld geven dat het gewijzigde Voorstel niet zou oplossen, maar welke nog steeds voldoet aan de criteria voor het behandelen van een Voorstel zoals vereist in Artikel 3.2.2. Als de Facilitator concludeert dat de Voorsteller niet heeft voldaan aan deze voorwaarden moet de Facilitator het Voorstel beschouwen als ongeldig en deze verwerpen. 
 
 ### 3.3 Rol-overleggen
@@ -366,15 +371,15 @@ De Facilitator is verantwoordelijk voor het voorzitten van alle Rol-overleggen i
 
 #### 3.3.1 Aanwezigheid
 
-Alle Leden van een Cirkel hebben het recht om volledig mee te doen in alle Roloverleggen van die Cirkel. De waarnemende Facilitator en Secretaris hebben ook het recht om volledig mee te doen en worden Leden van de Cirkel tijdens een Roloverleg, zelfs als ze normaal geen Kernleden van die Cirkel zijn. 
+Alle Leden van een Cirkel hebben het recht om volledig mee te doen in alle Roloverleggen van die Cirkel. Een waarnemende Facilitator en/of Secretaris hebben ook het recht om volledig mee te doen en worden Leden van de Cirkel tijdens een Roloverleg, zelfs als ze normaal geen leden van die Cirkel zijn. 
 
-Bovendien mogen de Lead-Link en iedere Rep-Link en Koppel-Link van een Cirkel één extra Partner uitnodigen, maar uitsluitend om de -Link te helpen bij het verwerken van een specifieke Spanning. De uitgenodigde Partner wordt een Lid van die Cirkel voor de duur van dat Rol-overleg. Naast de personen genoemd in dit Artikel, is het niemand anders toegestaan om deel te nemen aan een Roloverleg van een Cirkel, tenzij deze expliciet uitgenodigd is via een Domeinafspraak van de Cirkel. 
+Bovendien mogen de Lead-Link en iedere Rep-Link en Koppel-Link van een Cirkel één extra Partner uitnodigen, maar uitsluitend om de -Link te helpen bij het verwerken van een specifieke Spanning. De uitgenodigde Partner wordt een Lid van die Cirkel voor de duur van dat Rol-overleg. Naast de personen genoemd in dit Artikel, is het niemand anders toegestaan om deel te nemen aan een Roloverleg van een Cirkel, tenzij deze expliciet uitgenodigd is via een Beleid van de Cirkel. 
 
 #### 3.3.1 Aankondiging en minimum aantal deelnemers
 
-Een Cirkel mag alleen haar Bestuurs-proces uitvoeren in een Rol-overleg als de Secretaris alle Leden van de Cirkel, een redelijke tijd voorafgaand aan het Rol-overleg, een aankondiging heeft gegeven dat het Rol-overleg zal plaatsvinden. De aankondiging bevat de Datum tijd en locatie van het Rol-overleg. 
+Een Cirkel mag alleen haar Bestuurs-proces uitvoeren in een Rol-overleg als de Secretaris alle Leden van de Cirkel, een redelijke tijd voorafgaand aan het Rol-overleg, een aankondiging heeft gegeven dat het Rol-overleg zal plaatsvinden. De aankondiging bevat minimaal de Datum tijd en locatie van het Rol-overleg. 
 
-Er is geen minimaal aantal deelnemers vereist voor een Cirkel om een Rol-overleg uit te voeren, tenzij een minimum is vastgesteld in een Domeinafspraak van die Cirkel.
+Er is geen minimaal aantal deelnemers vereist voor een Cirkel om een Rol-overleg uit te voeren, tenzij een minimum is vastgesteld in een Beleid voor die Cirkel.
 
 Iedereen die er niet in slaagt om aanwezig te zijn bij een Roloverleg geld als iemand die de mogelijkheid heeft gehad om kennis te nemen van alle Voorstellen die in het Roloverleg zijn gemaakt en daar op Bezwaar had kunnen maken.
 
@@ -396,7 +401,7 @@ Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag nie
 
 De Facilitator bouwt een agenda tijdens (dus niet voorafgaand aan) het Rol-overleg door het vastleggen van de actuele Spanningen van de aanwezige Leden. Elk Lid mag zoveel agendapunten toevoegen als gewenst. Deelnemers mogen ook tijdens het overleg, tussen de verwerking van alle bestaande agendapunten, extra agendapunten toevoegen. 
 
-**(a) Agendapunten Format:** Ieder agendapunt in een Roloverleg vertegenwoordigt een Spanning om op te lossen, en word verwerkt door de deelnemer die het agendapunt heeft toegevoegd. Bij het toevoegen van een agendapunt mag de deelnemer alleen een kort kenmerk voor de Spanning geven. Dus niet de Spanning verder uitleggen of bespreken totdat het verwerken van dat agendapunt daadwerkelijk begint. 
+**(a) Agendapunten Format:** Ieder agendapunt in een Roloverleg vertegenwoordigt een Spanning om op te lossen en word verwerkt door de deelnemer die het agendapunt heeft toegevoegd. Bij het toevoegen van een agendapunt mag de deelnemer alleen een kort kenmerk voor de Spanning geven. Dus niet de Spanning verder uitleggen of bespreken totdat het verwerken van dat agendapunt daadwerkelijk begint. 
 
 **(b) Volgorde van de Agenda:** De Facilitator mag bepalen in welke volgorde de agendapunten worden behandeld en maakt daarbij gebruik van een proces of criteria die de Facilitator geschikt acht. Echter, een agendapunt die vraagt om een verkiezing van een van de Verkozen Rollen van de Cirkel krijgt voorrang boven alle andere agendapunten wanneer hierom word verzocht door een aanwezig Lid. 
 Verder, als het overleg gepland is naar aanleiding van een verzoek van een van de Leden, dan moet de Facilitator alle agendapunten die worden ingebracht door dit Lid voorrang geven boven alle agendapunten, tenzij dat Lid iets anders voorstelt. 
@@ -550,32 +555,33 @@ Als een Lead Link, Rep Link of Koppel Link van een Cirkel mag je iemand anders u
 
 Al jouw verantwoordelijkheden en plichten als Partner van de Organisatie zijn gedefinieerd in deze Grondwet. En komen in uiting in het bestuursdocument. Eerder gedane (impliciete) verwachtingen verantwoordelijkheden of plichten hebben geen betekenis of autoriteit. Tenzij het Bestuur van de Cirkel ze als natuurlijk aannemen, of als ze komen van een basis verplichting of contractuele overeenkomst die je persoonlijk hebt ten opzichte van of met de Organisatie. 
 
-### 4.2. Werkoverleggen
+### 4.2. Actie Overleg
 
-De secretaris van de Cirkel is verantwoordelijk voor het plannen van regelmatige **'Werkoverleggen'** om de werk-uitvoering van de Cirkel te begeleiden. De Facilitator is verantwoordelijk voor het voorzitten van Werkoverleggen in lijn met de volgende regels en alle relevante Domeinafspraken van de Cirkel:
-
-<---- tot hier ---->
-
+De secretaris van de Cirkel is verantwoordelijk voor het plannen van regelmatige **'Actie Overleggen'** om de werk-uitvoering van de Cirkel te begeleiden. De Facilitator is verantwoordelijk voor het voorzitten van Actie Overleggen in lijn met de volgende regels en alle relevante Domeinafspraken van de Cirkel:
 
 #### 4.2.1 Focus en intentie
 
-Werkoverleggen zijn bedoeld om:
+Actie Overleggen zijn bedoeld om;
 
-**(a)** de status van voltooiing van terugkerende acties op checklijsten van de Rollen van de Cirkel te delen;
+**(a)** de status van terugkerende acties op 'check-lijsten' van de Rollen van de Cirkel te delen;
 
-**(b)** regelmatige metrics die zijn toegeschreven aan de Rollen van de Cirkel om te rapporteren te delen;
+**(b)** te rapporteren over regelmatige metrieken die zijn toegeschreven aan de Rollen van de Cirkel;
 
-**(c)** updates over de voortgang van Projecten en ander wek van de Rollen van de Cirkel te delen; en 
+**(c)** updates over de voortgang van Projecten en ander werk van de Rollen van de Cirkel te delen; en 
 
-**(d)** Spanningen die de Rollen van de Cirkel beperken om te zetten in Eerstvolgende Acties, Projecten of andere output die helpt om die Spanningen te verminderen. 
+**(d)** Spanningen die de Rollen van de Cirkel beperken om te zetten in Eerstvolgende Acties, Projecten of andere output die helpt om die Spanningen te verminderen of op te lossen. 
 
 #### 4.2.2 Aanwezigheid
 
-Alle Kernleden van de Cirkel en ieder ander die normaal is uitgenodigd om deel te nemen aan de Roloverleggen van de Cirkel zijn ook uitgenodigd om deel te nemen in de Werkoverleggen, tenzij een Domeinafspraak iets anders zegt. Er is geen voorafgaand bericht of minimum aantal deelnemers vereist voor een Werkoverleg, tenzij een Domeinafspraak iets anders zegt. 
+Alle Leden van de Cirkel en elke Partner of Rol die is uitgenodigd om deel te nemen aan het Rol Overleg van een Cirkel zijn ook uitgenodigd om deel te nemen in de Actie Overleggen, tenzij een Domeinafspraak iets anders stelt. Er is geen voorafgaand bericht of minimum aantal deelnemers vereist voor een Werkoverleg, tenzij een Domeinafspraak iets anders stelt. 
+
+
+<--- tot hier ---->
+
 
 #### 4.2.3 Begeleiding & Proces
 
-De Facilitator moet normaliter het volgende proces gebruiken voor Werkoverleggen:
+De Facilitator moet normaliter het volgende proces gebruiken voor een Actie Overleg:
 
 **(a) Check-in Ronde**: De Facilitator staat het iedere deelnemer om de beurt toe om zijn of haar huidige staat van gedachten, of een ander type openingsreactie voor het Werkoverleg, te delen. Reacties zijn niet toegestaan.
 
