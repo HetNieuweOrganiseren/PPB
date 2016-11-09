@@ -9,7 +9,7 @@ advies in te winnen bij een rechtsgeldige instantie.
 
 ## Voorwoord
 
-Deze **"Grondwet"** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbenden"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Holacracy Grondwet. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbenden besturende of leidende bevoegdheid over heeft. De Gezaghebbenden en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Partners"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Grondwet en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
+Deze **"Grondwet"** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbenden"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Holarchie Grondwet. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbenden besturende of leidende bevoegdheid over heeft. De Gezaghebbenden en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Partners"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Grondwet en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
 
 ## Artikel 1: Bezitten van rollen
 
@@ -125,7 +125,7 @@ Echter, een Cirkel mag Verantwoordelijkheden, Domeinen, bevoegdheden of functies
 
 ### 2.3 Cirkel participatie & bestuur
 
-De rollen die deel mogen nemen aan het Governance Proces van de Cirkel, zijn de **"Leden"** van de Cirkel. 
+De rollen die deel mogen nemen aan het Bestuur Proces van de Cirkel, zijn de **"Leden"** van de Cirkel. 
 
 De leden van ene Cirkel houden zich aan de volgende regels:
 
