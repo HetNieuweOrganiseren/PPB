@@ -573,7 +573,7 @@ Actie Overleggen zijn bedoeld om;
 
 #### 4.2.2 Aanwezigheid
 
-Alle Leden van de Cirkel en elke Partner of Rol die is uitgenodigd om deel te nemen aan het Rol Overleg van een Cirkel zijn ook uitgenodigd om deel te nemen in de Actie Overleggen, tenzij een Domeinafspraak iets anders stelt. Er is geen voorafgaand bericht of minimum aantal deelnemers vereist voor een Werkoverleg, tenzij een Domeinafspraak iets anders stelt. 
+Alle Leden van de Cirkel en elke Partner of Rol die is uitgenodigd om deel te nemen aan het Rol Overleg van een Cirkel zijn ook uitgenodigd om deel te nemen in de Actie Overleggen, tenzij een Domeinafspraak iets anders stelt. Er is geen voorafgaand bericht of minimum aantal deelnemers vereist voor een Actie Overleg, tenzij een Domeinafspraak iets anders stelt. 
 
 
 <--- tot hier ---->
@@ -583,23 +583,26 @@ Alle Leden van de Cirkel en elke Partner of Rol die is uitgenodigd om deel te ne
 
 De Facilitator moet normaliter het volgende proces gebruiken voor een Actie Overleg:
 
-**(a) Check-in Ronde**: De Facilitator staat het iedere deelnemer om de beurt toe om zijn of haar huidige staat van gedachten, of een ander type openingsreactie voor het Werkoverleg, te delen. Reacties zijn niet toegestaan.
+**(a) Check-in Ronde:** De Facilitator geeft iedere deelnemer om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Actie Overleg te delen. Reacties zijn niet toegestaan.
 
-**(b) Checklist Review:** De Facilitator vraagt iedere deelnemer om de voltooiing van iedere terugkerende acties op de checklist van die deelnemer te verifiëren. 
+**(b) Checklist Review:** De Facilitator vraagt iedere deelnemer om de voltooiing van iedere terugkerende acties op de checklist van die deelnemer te verifiëren.
 
-**(c) Metrics Review: **De Facilitator vraagt iedere deelnemer om data te delen voor alle metrics die zijn toegewezen aan die deelnemer door de Lead Link of welke Rol of welk proces dan ook die de metrics van de Cirkel definieert. 
+**(c) Metrieken Bekijken:** De Facilitator vraagt iedere deelnemer voor veranderingen in alle Metrieken waarvoor hij/zij verantwoordelijk is.
 
-**(d) Project Updates**: De Facilitator vraagt iedere deelnemer om de vordering toe te lichten van de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen in de Cirkel van de deelnemer. Deelnemers mogen alleen de vooruitgang delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project, dan moet deze worden opgenomen totdat het is is voltooid of is laten vallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Sub-Cirkel moet de Facilitator het zowel de Lead Link als de Rep Link toestaan de mogelijkheid te geven om updates te delen. 
+**(d) Project Updates:** De Facilitator vraagt iedere deelnemer om de vordering van projecten toe te lichten. Dit is de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen die de deelnemer vervult in de Cirkel. Deelnemers mogen alleen de vordering delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project dan moet deze worden opgenomen totdat het is voltooid of is komen te vervallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Sub-Cirkel moet de Facilitator de Lead- en Rep Link de ruimte geven om updates te delen. 
 
-**(e) Verzamel ****en behandel spanningen****: **De Facilitator is verantwoordelijk voor het opbouwen van een agenda van Spanningen om te behandelen in het Werkoverleg door alle deelnemers om agendapunten te vragen, gebruikmakend van dezelfde regels als in een Roloverleg, gedefinieerd in Artikel 3.3.4. Echter, in Werkoverleggen behandelt de Facilitator agendapunten door het de eigenaar van het item simpelweg toe te laten staan om anderen in hun Rollen en plichten te betrekken als gewenst, totdat er een manier voor het oplossen van de Spanning is bepaald. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze discussie dan is de Secretaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. De Facilitator moet proberen om tijd toe te staan voor het verwerken van iedere agendapunt in het overleg, en om dat te doen mag de Facilitator de verwerking van ieder agendapunt dat meer tijd inneemt dan het aandeel van de resterende overlegtijd afbreken.
+**(e) Verzamel en verwerk spanningen:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Partners met relevante rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Secretaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
+De Facilitator heeft het doel om ieder agenda punt te behandeld en heeft het recht om een dialoog af te breken als deze dat doel in de weg staat. 
 
-**(f) Check out: ** De Facilitator staat het iedere deelnemer om de beurt toe om een afsluitende reflectie of andere gedachten die zijn veroorzaakt door het overleg te delen. Reacties zijn niet toegestaan. 
+**(f) Check out:** De Facilitator geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Actie Overleg, te delen. Reacties zijn niet toegestaan.
 
-Een Cirkel mag een Domeinafspraak aannemen om iets toe te voegen of te veranderen aan dit vereiste proces.
+##### 4.2.3.1 Proces verandering
+
+Een Cirkel mag een Beleid aannemen om iets te veranderen of toe te voegen aan dit proces.
 
 #### 4.2.2 Vervanging voor afwezige leden
 
-Als een Gedefinieerde Rol van de Cirkel geheel of gedeeltelijk is onvertegenwoordigd in een Werkoverleg door iemands afwezigheid, dan mag de Lead Link van de Cirkel handelen vanuit die Rol om het gat op te vullen. Als de Lead Link ook afwezig is, dan mag iedere deelnemer Eerstvolgende Acties of Projecten accepteren namens die Rol, echter die mogen door de persoon die de Rol normaal vervult worden behandeld als slechts verzoeken die worden gedaan onder de voorwaarden van Artikel 4.1.2 (b). 
+Als een Gedefinieerde Rol van de Cirkel geheel of gedeeltelijk onvertegenwoordigd is in een Actie Overleg, omdat een Partner afwezig is, dan mag de Lead Link van de Cirkel handelen namens die Rol. Als de Lead Link ook afwezig is, dan mag iedere deelnemer Eerstvolgende Acties of Projecten accepteren namens die Rol. Echter die mogen, door de Partner die de Rol normaal vervult, worden behandeld als verzoeken die worden gedaan onder de voorwaarden van Artikel 4.1.2 (b). 
 
 ### 4.3 Individuele Actie
 
@@ -609,23 +612,23 @@ Als Partner van de Organisatie ben je in sommige gevallen bevoegd om te handelen
 
 Je mag alleen Individuele Actie nemen als al het volgende waar is:
 
-**(a) **Je handelt te goeder trouw om de Purpose te dienen of om de Verantwoordelijkheden van een Rol in de Organisatie uit te drukken of van de Organisatie in haar geheel. 
+**(a)** Je handelt te goeder trouw om het Doel te dienen of om de Verantwoordelijkheden van een Rol of de gehele organisatie uit te drukken. 
 
-**(b)** Je gelooft redelijkerwijs dat jouw actie meer Spanning oplost of voorkomt voor de Organisatie dan dat het mogelijk zou creëren. 
+**(b)** Je gelooft redelijkerwijs dat jouw actie meer Spanning oplost of voorkomt voor de Organisatie dan dat die mogelijk zou creëren. 
 
-**(c) **Jouw actie veroorzaakt niet, committeert zich niet aan, staat niet toe of vervreemdt ook op een andere manier geen middelen of andere activa van de Organisatie, naast datgene waarvoor je al de toestemming hebt om uit te geven. 
+**(c)** Jouw actie veroorzaakt niet, committeert zich niet aan, staat niet toe of vervreemdt ook op een andere manier geen middelen of andere activa van de Organisatie, buiten datgene waarvoor je al de toestemming hebt om uit te geven.
 
-**(d)** Als je actie in strijd is met Domeinen of Domeinafspraken en je gelooft redelijkerwijs dat je de actie niet lang genoeg kunt uitstellen om enige verzoeken te doen die normaal vereist zijn of om Governance voor te stellen dat jouw actie toestaat, zonder daarmee veel van de potentiële waarde te verliezen. 
+**(d)** Als je actie in strijd is met Domeinen of Beleid maar je gelooft niet dat er genoeg tijd is om permissie te vragen via de voorgeschreven regels, of om een Bestuurlijke verandering door te voeren die jouw actie toestaat, en je weet zeker dat er niet veel van de potentiële waarde van dat Domein of beleid verloren gaat. 
 
 #### 4.3.2 Communicatie & herstel
 
-Bij het nemen van een Individuele Actie, heb je de plicht om jouw actie en de intentie erachter uit te leggen aan iedere Partner die een Rol vervult die mogelijk aanzienlijk beïnvloed is. Op verzoek van deze Partners, heb je ook de plicht om redelijke aanvullende maatregelen te nemen om te helpen bij het oplossen van Spanningen die gecreëerd zijn door jouw Individuele Actie. 
+Bij het nemen van een Individuele Actie heb je de plicht om die Actie, en de intentie erachter, uit te leggen aan iedere Partner die een Rol vervult die mogelijk aanzienlijk beïnvloed is. Bij verzoek van een Partner heb je ook de plicht om redelijke aanvullende maatregelen te nemen om te helpen bij het oplossen van Spanningen die gecreëerd zijn door jouw Individuele Actie.
 
-Als jouw Individuele Actie effectief handelde binnen een andere Rol, of een Domein of Domeinafspraak heeft geschaad, dan moet je op het verzoek van de persoon die normaal de Rol, het Domein of de Domeinafspraak beheert of op verzoek van de Lead Link die de geraakte entiteit beheert, stoppen met het nemen van een gelijksoortige Individuele Actie. 
+Als jouw Individuele Actie effectief handelde vanuit een andere Rol, of een Domein of Beleid heeft geschaad, dan moet je bij verzoek van de Partner die normaal de Rol, het Domein of de Domeinafspraak beheert, of op verzoek van de Lead Link die de geraakte entiteit beheert, stoppen met het nemen van een gelijksoortige Individuele Actie.
 
-#### 4.3.3 Governance verhelderen
+#### 4.3.3 Beleid verhelderen
 
-Als jouw Individuele Actie een onderdeel is van een terugkerende activiteit of een doorlopende functie is die nodig is voor de Cirkel, en die activiteit of functie is nog niet expliciet belegd in de Governance van de Cirkel, dan ben je verantwoordelijk om vervolgstappen te nemen om die spanning te verwijderen. Die vervolgstappen kunnen inhouden dat je Governance voorstelt om in de behoefte te voorzien of je kunt stappen nemen om de noodzaak voor deze activiteit of functie te verwijderen. 
+Als jouw Individuele Actie een onderdeel is van een terugkerende Actie of een Rol die nodig is voor de Cirkel, en die activiteit of Rol is nog niet expliciet vastgelegd in het Bestuur van de Cirkel, dan ben je verantwoordelijk om vervolgstappen te nemen om die spanning op te lossen. Die vervolgstappen kunnen inhouden dat je Bestuur voorstelt om in de behoefte te voorzien of je kunt stappen nemen om de noodzaak voor deze actie of Rol te verwijderen. 
 
 #### 4.3.4 Prioriteren van de vereiste gevolgen
 
@@ -633,35 +636,36 @@ Nadat je een Individuele Actie hebt genomen heb je de plicht om de vereiste gevo
 
 ## Artikel 5: Implementatie Kwesties
 
-### 5.1 Gezaghebbenden geven autoriteit op 
+### 5.1 Gezaghebbenden krijgen nieuwe bevoegdheden 
 
-Door het aannemen van deze Grondwet geven de Gezaghebbenden hun bevoegdheden op om de Organisatie te besturen en te leiden en om haar Partners te vertellen wat ze moeten doen. Dit mogen ze niet langer meer doen, behalve via autoriteit die aan hen is verleend via de regels en processen van deze Grondwet. Echter, als een uitzondering op deze regel, mogen de Gezaghebbenden doorgaan met het uitoefenen van de bevoegdheden waarvan ze ze niet de macht hebben om die te delegeren, zoals vereiste Domeinafspraken buiten de controle van de Organisatie of in de statuten van de Organisatie. 
+Door het aannemen van deze Grondwet geven de Gezaghebbenden hun bevoegdheden op om de Organisatie te besturen en te leiden door haar Partners te vertellen **wat** ze moeten doen en **hoe** ze dit moeten doen. De bevoegdheden die ze hebben worden bepaald aan de hand van de autoriteit die hen word gegeven via de regels en processen van deze Grondwet. 
+Echter, als een uitzondering op deze regel, mogen de Gezaghebbenden doorgaan met het uitoefenen van die bevoegdheden waarvan ze niet de macht hebben om die te delegeren, zoals vereist Beleid buiten de controle van de Organisatie of zoals vastgelegd in de statuten van de Organisatie. Deze bevoegdheden blijven bestaan totdat die situatie veranderd. 
 
 ### 5.2 Anker Cirkel
 
-Bij het aannemen van deze Grondwet, moeten de Gezaghebbenden een eerste Cirkel vaststellen om de algehele Purpose van de Organisatie uit te drukken. Deze '**Anker Cirkel**' wordt de breedste Cirkel in de Organisatie en beheert automatisch alle Domeinen die de Organisatie zelf beheert. 
+Bij het aannemen van deze Grondwet, moeten de Gezaghebbenden een eerste Cirkel vaststellen om het algehele Doel van de Organisatie uit te drukken. Deze '**Anker Cirkel**' wordt de breedste Cirkel in de Organisatie en beheert automatisch alle Domeinen die de Organisatie zelf beheert. 
 
 #### 5.2.1 Links naar de Anker Cirkel
 
-De Gezaghebbenden mogen een eerste Lead Link van de Anker Cirkel benoemen. Als alternatief kunnen de Gezaghebbenden de Anker Cirkel zonder Lead Link laten en een of meerdere initiële Cross Links naar de Anker Cirkel creëren in plaats van een Lead Link. 
+De Gezaghebbenden mogen een eerste Lead Link van de Anker Cirkel benoemen. Als alternatief kunnen de Gezaghebbenden de Anker Cirkel zonder Lead Link laten en een of meerdere initiële Koppel Links naar de Anker Cirkel creëren in plaats van een Lead Link. 
 
 #### 5.2.2 Handelen zonder een Lead Link
 
-Als de Anker Cirkel geen Lead Link heeft dan worden alle besluiten die normaal de Lead Link autoriteit vereisen geldige uitkomsten van het Governance Proces van de Cirkel. Iedere Rol in de Cirkel kan dus Lead Link autoriteit uitvoeren door een besluit als verandering van Governance voor de cirkel voor te stellen, gebruikmakend van de regels in Artikel III. 
+Als de Anker Cirkel geen Lead Link heeft dan worden alle besluiten die normaal de autoriteit van de Lead Link vereisen geldige uitkomsten van het Bestuurs Proces van de Cirkel. Iedere Rol in de Cirkel kan dus Lead Link autoriteit uitvoeren door een besluit als verandering van Governance voor de cirkel voor te stellen, gebruikmakend van de regels in Artikel III. 
 
 Verder, in een Anker Cirkel zonder Lead Link, wordt de normale autoriteit van Rollen om autocratisch Domeinen van een Cirkel te beïnvloeden (zie Artikel 2.1.2) ingetrokken. In plaats daarvan, mogen de Rollen van de Cirkel alleen invloed uitoefenen op Domeinen als een Domeinafspraak die beïnvloeding expliciet toestaat, of, als alternatief, door de actie voor te stellen via het Governance Proces, precies zoals hierboven Gedefinieerde over de Lead Link autoriteit. 
 
-#### 5.2.3 Purpose van de Organisatie
+#### 5.2.3 Doel van de Organisatie
 
-De Anker Cirkel is automatisch verantwoordelijk voor het ontdekken en uitdrukken van de Purpose van de Organisatie in haar geheel. De Purpose van de Organisatie is het diepste creatieve potentieel die zij duurzaam kan uitdrukken in de wereld, rekening houdend met alle beperkingen die hiermee te maken hebben en alles wat ervoor beschikbaar is. Dat geldt ook voor haar historie, huidige capaciteiten, beschikbare middelen, Partners, karakter, cultuur, bedrijfsstructuur, merk, markt bewustzijn en alle andere relevante middelen of factoren. 
+De Anker Cirkel is automatisch verantwoordelijk voor het ontdekken en uitdrukken van het Doel van de Organisatie in haar geheel. Het Doel van de Organisatie is het diepste creatieve potentieel die zij duurzaam kan uitdrukken in de wereld, rekening houdend met alle beperkingen die hiermee te maken hebben en alles wat ervoor beschikbaar is. Dat geldt ook voor haar historie, huidige capaciteiten, beschikbare middelen, Partners, karakter, cultuur, bedrijfsstructuur, merk, markt bewustzijn en alle andere relevante middelen of factoren. 
 
-De Lead Link van de Anker Cirkel krijgt deze Verantwoordelijk standaard automatisch en mag de Purpose vastleggen en updaten om deze Verantwoordelijkheid uit te voeren. 
+De Lead Link van de Anker Cirkel krijgt deze Verantwoordelijk standaard automatisch en mag het Doel vastleggen en updaten om deze Verantwoordelijkheid uit te voeren. 
 
-Als de Anker Cirkel geen Lead Link heeft, dan valt deze Verantwoordelijkheid in plaats daarvan automatisch onder iedere Cross Link naar de Anker Cirkel en elke van deze mag de Purpose updaten door de update voor te stellen via het Governance Proces van de Cirkel. 
+Als de Anker Cirkel geen Lead Link heeft word deze Verantwoordelijkheid automatisch van iedere Koppel Link naar de Anker Cirkel en elke van deze mag het Doel updaten door de update voor te stellen via het Bestuurs Proces van de Cirkel. 
 
 #### 5.2.4 De Anker Cirkel updaten
 
-De Lead Link van de Anker Cirkel heeft de autoriteit om de Cirkel een naam te geven, zijn Domeinen te verhelderen en zijn Verantwoordelijkheden toe te voegen of te wijzigen. 
+De Lead Link van de Anker Cirkel heeft de autoriteit om de Cirkel een naam te geven, haar Domeinen te verhelderen en Verantwoordelijkheden toe te voegen of te wijzigen. 
 
 De Lead Link van de Anker Cirkel kan ook zijn of haar eigen vervanger benoemen indien gewenst, tenzij anders gespecificeerd door de Gezaghebbenden. 
 
@@ -671,37 +675,37 @@ De Anker Cirkel heeft geen Super Cirkel en verkiest geen Rep Link.
 
 ### 5.3 Initiële structuur
 
-De Lead Link van de Anker Cirkel mag een eerste structuur en andere Governance voor de Organisatie bepalen, buiten het gangbare Governance Proces die vereist is door deze Grondwet. Als die eerste structuur andere Cirkels omvat dan mogen de Lead Links van die Cirkels hetzelfde doen met hun Cirkels. Deze autoriteit mag alleen worden gebruikt om een een eerste structuur te bepalen voor een Cirkel om mee te beginnen, voordat de Cirkel is gestart met het uitvoeren van haar Governance Proces. 
+De Lead Link van de Anker Cirkel mag een eerste structuur en Bestuur voor de Organisatie bepalen, buiten het gangbare Bestuurs Proces die vereist is door deze Grondwet. Als die eerste structuur andere Cirkels omvat dan mogen de Lead Links van die Cirkels hetzelfde doen met hun Cirkels. Deze autoriteit mag alleen worden gebruikt om een een eerste structuur te bepalen voor een Cirkel om mee te beginnen en voordat de Cirkel is gestart met het uitvoeren van haar Governance Proces. 
 
 ### 5.4 Bestaande Domeinafspraken en systemen
 
-Alle bestaande Domeinafspraken en systemen waar de Organisatie mee werkt voor het aannemen van deze Grondwet blijven volledig van kracht na de aanname, zelfs als deze beperkingen of bevoegdheden omvatten die niet in Governance vastlegging staan. Dit kunnen bijvoorbeeld compensatiesystemen, aanname- en ontslagprocessen of werk gerelateerde Domeinafspraken zijn. 
+Alle bestaande Domeinafspraken en systemen waar de Organisatie mee werkt voor het aannemen van deze Grondwet blijven volledig van kracht na de aanname, zelfs als deze beperkingen of bevoegdheden omvatten die niet in het Bestuurs Document zijn vastgelegd. Dit kunnen bijvoorbeeld compensatiesystemen, aanname- en ontslagprocessen of werk gerelateerde Domeinafspraken zijn. 
 
-Echter, deze nagelaten Domeinafspraken en systemen zullen al hun betekenis en autoriteit verliezen zodra er Governance is gedefinieerd die ze vervangen of tegenspreken. Bovendien kunnen ze niet worden gewijzigd of toegevoegd in de oude vorm. Iedere poging om dat te doen moet eerst worden vastgelegd of op een andere manier bekrachtigd worden via het Governance Proces zoals gedefinieerd in deze Grondwet. 
+Echter, deze nagelaten Domeinafspraken en systemen zullen al hun betekenis en autoriteit verliezen zodra er Bestuur is gedefinieerd die ze vervangen of tegenspreken. Bovendien kunnen ze niet worden gewijzigd of toegevoegd in de oude vorm. Iedere poging om dat te doen moet eerst worden vastgelegd of op een andere manier bekrachtigd worden via het Bestuurs Proces zoals gedefinieerd in deze Grondwet. 
 
 ### 5.5 Grondwet wijzigingen of intrekking
 
-De Gezaghebbenden of hun opvolgers mogen deze Grondwet volledig wijzigen of intrekken, gebruikmakend van welke autoriteit en welk proces dan ook die ze hebben gebruikt om het aan te nemen. Wijzigingen moeten schriftelijk worden gemaakt en gepubliceerd worden op een plek waar alle Partners van de Organisatie bij kunnen. 
+De Gezaghebbenden of hun opvolgers mogen deze Grondwet volledig wijzigen of intrekken, gebruikmakend van welke autoriteit en welk proces dan ook die ze hebben gebruikt om het aan te nemen. Wijzigingen moeten schriftelijk worden gemaakt en gepubliceerd worden op een plek die voor alle Partners van de Organisatie toegankelijk is. 
 
 ## Bijlage A: Definitie Van Kernrollen
 
 ### Lead Link
 
-**Kerndoel**: De Lead Link heeft de Purpose van de gehele Cirkel
+**Doel:** De Lead Link vertegenwoordigd het doel van de gehele Cirkel
 
-**Domeinen**: Roltoewijzingen binnen de Cirkel
+**Domeinen:** Roltoewijzingen binnen de Cirkel
 
 **Verantwoordelijkheden:**
 
-* Vertalen van het werk van de cirkel in gesegmenteerde rollen (en indien nodig andere Governance)
+* Vertalen van het werk van de cirkel in gesegmenteerde rollen (en indien nodig ander Bestuur)
 
 * Toewijzen van Partners aan de Rollen van de Cirkel; de passendheid bewaken; feedback aanbieden om de passendheid te verbeteren; en het opnieuw toewijzen van Rollen aan andere Partners als het zinvol is voor het verbeteren van de passendheid. 
 
-* Toekennen van de middelen van de Cirkel aan zijn verschillende Projecten en/ of Rollen.
+* Toekennen van de middelen van de Cirkel aan haar verschillende Projecten en/of Rollen.
 
 * Vaststellen van relatieve prioriteiten en strategieën voor de Cirkel.
 
-* Bepalen van metrics voor de Cirkel.
+* Bepalen van Metrieken voor de Cirkel.
 
 * Beperkingen in de Cirkel ten opzichte van de Super-Cirkel verwijderen 
 
@@ -709,25 +713,25 @@ De Gezaghebbenden of hun opvolgers mogen deze Grondwet volledig wijzigen of intr
 
 ### Rep Link
 
-**Kerndoel**: In de Super-Cirkel, heeft de Rep Link de Purpose van de Sub-Cirkel; in de sub-Cirkel is de Purpose van de Rep Link: Spanningen die relevant zijn om te behandelen in de Super-Cirkel gekanaliseerd naar buiten en opgelost. 
+**Doel**: In de Super Cirkel vertegenwoordigd de Rep Link het Doel van de Sub-Cirkel; in de sub Cirkel is het Doel van de Rep Link om de Spanningen van de Sub Cirkel, die relevant zijn voor de Super Cirkel, te kanaliseren en op te lossen.
 
 **Verantwoordelijkheden**:
 
-* Verwijderen van beperkingen in de bredere Organisatie die de Sub-Cirkel beperken.
+* Verwijderen van beperkingen in de bredere Organisatie die de Sub Cirkel beperken.
 
-* Nastreven om Spanningen die worden overgebracht door de leden van de Sub-Cirkel te begrijpen en te onderscheiden welke geschikt zijn om te behandelen in de Super-Cirkel.
+* Nastreven om Spanningen die worden overgebracht door de leden van de Sub Cirkel te begrijpen en te onderscheiden welke geschikt zijn om te behandelen in de Super Cirkel.
 
-* Verstrekken van zicht aan de Super-Cirkel over de gezondheid van de Sub-Cirkel, inclusief het rapporteren van metrics of checklist items die zijn toegewezen aan de hele Sub-Cirkel. 
+* Verstrekken van zicht aan de Super Cirkel over de gezondheid van de Sub Cirkel, inclusief het rapporteren van Metrieken of checklist items die zijn toegewezen aan de hele Sub Cirkel. 
 
 ### Facilitator 
 
-**Kerndoel: **Beoefening van rol- en werkoverleg conform de spelregels van de Constitutie. 
+**Kerndoel:** Begeleiden van het Rol- en Actie Overleg conform de spelregels van deze grondwet. 
 
 **Verantwoordelijkheden**: 
 
 * Begeleiden van de overleggen van de Cirkel die vereist zijn volgens de Grondwet.
 
-* Controleren de overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de Grondwet. 
+* Controleren van de Overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de Grondwet. 
 
 ### Secretaris
 
@@ -737,11 +741,11 @@ De Gezaghebbenden of hun opvolgers mogen deze Grondwet volledig wijzigen of intr
 
 **Verantwoordelijkheden**: 
 
-* Inplannen van de vereiste overleggen van de Cirkel, en alle Kernleden van de Cirkel op de hoogte brengen van de geplande tijden en locaties. 
+* Inplannen van de vereiste overleggen van de Cirkel, en alle Leden van de Cirkel op de hoogte brengen van de geplande tijden en locaties. 
 
-* Vastleggen en publiceren van de uitkomsten van de vereiste overleggen van de Cirkel en het bijhouden van een samengesteld overzicht van de huidige Governance van de Cirkel, checklist items en metrics. 
+* Vastleggen en publiceren van de uitkomsten van de vereiste overleggen van de Cirkel in het Bestuurs Document en het bijhouden van een samengesteld overzicht van het huidige Bestuur van de Cirkel, checklist items en Metrieken. 
 
-* Interpreteren van Governance vastleggingen de Grondwet op verzoek. 
+* Interpreteren van het Bestuurs Document en de Grondwet op verzoek. 
 
 ---
 
