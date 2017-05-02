@@ -1,7 +1,7 @@
-#**Piraten Partij Broncode**
+# **Piraten Partij Broncode**
 
 ## Disclaimer
-De Piraten Partij Broncode is een Fork van de **[Holarchie 'Fork'](https://github.com/HetNieuweOrganiseren/HolarchieGrondwet)** Die op haar beurt weer een 'Fork' is van de **['Holacracy Constitution'](https://github.com/holacracyone/Holacracy-Constitution)**. 
+De Piraten Partij Broncode is een Fork van de **[Holarchie 'Fork'](https://github.com/HetNieuweOrganiseren/HolarchieBroncode)** Die op haar beurt weer een 'Fork' is van de **['Holacracy Constitution'](https://github.com/holacracyone/Holacracy-Constitution)**. 
 De informatie in dit document zijn de holarchische regels en processen voor organiseren.
 HolacracyOne noch Het Nieuwe Organiseren zijn legitieme rechtsinstellingen. Dit document wordt u aangeboden zonder enigerlei vertegenwoordiging of garantie.
 Alvorens het gebruik van dit document in een rechts-vorm wordt u sterk aangeraden om
@@ -9,7 +9,7 @@ advies in te winnen bij een rechtsgeldige instantie.
 
 ## Voorwoord
 
-Deze **"Grondwet"** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbenden"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Holarchie Grondwet. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbenden besturende of leidende bevoegdheid over heeft. De Gezaghebbenden en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Partners"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Grondwet en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
+Deze **"Broncode"** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbenden"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Piraten Partij Broncode. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbenden besturende of leidende bevoegdheid over heeft. De Gezaghebbenden en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Partners"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Broncode en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
 
 ## Artikel 1: Bezitten van rollen
 
@@ -18,9 +18,9 @@ Een rol is de bouwsteen van een Holarchische Organisatie structuur. Dit artikel 
 ### 1.1 Definitie van een Rol
 
 Een "Rol" is een organisatorische eenheid die een "doel" uit drukt, "Domeinen" controleert en "Verantwoordelijkheden" uit voert.
-De Partners van de Organisatie verrichten werk voor de Organisatie, door te handelen vanuit een expliciet gedefinieerde Rol. Een "Rol" is een bouwsteen van de organisatie met een beschrijvende naam en één of meer van het volgende:
+De Partners van de Organisatie verrichten werk voor de Piraten Partij, door te handelen vanuit een expliciet gedefinieerde Rol. Een "Rol" is een bouwsteen van de organisatie met een beschrijvende naam en één of meer van het volgende:
 
-**(a)** Een **"Doel"**. De rol heeft haar eigen Doel die ze na zal nastreven of uitdrukken richting het Hoofd-Doel van de Organisatie. 
+**(a)** Een **"Doel"**. De rol heeft haar eigen Doel die ze na zal nastreven of uitdrukken richting het Hoofd-Doel van de Partij. 
 
 **(b)** Een of meerdere **"Domeinen"**. Dit zijn dingen die de Rol exclusief mag beheren en reguleren als zijn eigendom namens de Organisatie.
 
@@ -36,7 +36,7 @@ Een partner is verantwoordelijk voor het waarnemen van "spanningen" voor die rol
 
 #### 1.2.2 Verwerken van verantwoordelijkheden
 
-Een partner is verantwoordelijk voor het opdelen van de verantwoordelijkheden van hun rol in projecten en Vervolg-acties om dichter bij het doel te komen. Een project is een resultaat bereiken, en de Vervolg-actie is een concrete, fysieke actie die onmiddellijk kan worden uitgevoerd als de tijd het toestaan.
+Een partner is verantwoordelijk voor het opdelen van de verantwoordelijkheden van hun rol in projecten en Vervolg-acties om dichter bij het doel te komen. Een project is een resultaat bereiken, en de Vervolg-actie is een concrete, fysieke actie die onmiddellijk kan worden uitgevoerd zodra de tijd het toestaan.
 
 #### 1.2.3 Projecten verwerken
 
@@ -79,7 +79,7 @@ Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere rollen, zod
 
 #### 2.1.1 Rollen en Beleid definiëren 
 
-Elke Cirkel gebruikt het **"Bestuurs Proces"**, welke wordt beschreven in Artikel 3 van deze Grondwet, om Rollen binnen de Cirkel te definiëren of te wijzigen en om het **"Beleid"** te bepalen. Niemand mag Rollen of Beleid van een Cirkel definiëren of wijzigen buiten dit Bestuurs Proces, tenzij dit expliciet wordt toegestaan door een andere regel van deze Grondwet. 
+Elke Cirkel gebruikt het **"Bestuurs Proces"**, welke wordt beschreven in Artikel 3 van deze Broncode, om Rollen binnen de Cirkel te definiëren of te wijzigen en om het **"Beleid"** te bepalen. Niemand mag Rollen of Beleid van een Cirkel definiëren of wijzigen buiten dit Bestuurs Proces, tenzij dit expliciet wordt toegestaan door een andere regel van deze Broncode. 
 
 Verder beheer iedere **Cirkel** haar eigen verantwoordelijkheden en acties alsof deze een Domein van de Cirkel zijn.
 
@@ -153,7 +153,7 @@ Als een Partner op deze manier wordt uitgesloten, heeft de Lead-Link de plicht o
 
 #### 2.3.4 Speciale benoeming van Cirkel leden
 
-De Lead-Link van de Cirkel kan extra personen aanwijzen als lid van de Cirkel, naast de voorgeschreven personen die genoemd staan in deze Grondwet, en kan deze benoeming op ieder moment opheffen. 
+De Lead-Link van de Cirkel kan extra personen aanwijzen als lid van de Cirkel, naast de voorgeschreven personen die genoemd staan in deze Broncode, en kan deze benoeming op ieder moment opheffen. 
 
 ### 2.4 Rol toewijzing
 
@@ -335,8 +335,8 @@ Sommige Spanningen gelden niet als Bezwaren en kunnen genegeerd worden tijden de
 
 Echter, ongeacht bovenstaande criteria telt een Spanning altijd als een Bezwaar als:
 
-**(e)** Het behandelen of aannemen van het Voorstel de regels breekt zoals vastgelegd in deze Grondwet. Of het de Cirkel of zijn leden aanzet om te handelen buiten de autoriteit zoals vastgelegd deze Grondwet. 
-Bijvoorbeeld, Eerstvolgende Acties, Projecten en specifieke operationele beslissingen zijn geen geldige uitkomsten van het Bestuurs-proces onder de voorwaarden van Artikel 3.1, dus elk Lid kan een Bezwaar inbrengen dat een Voorstel met deze uitkomsten de regels van de Grondwet breken. 
+**(e)** Het behandelen of aannemen van het Voorstel de regels breekt zoals vastgelegd in deze Broncode. Of het de Cirkel of zijn leden aanzet om te handelen buiten de autoriteit zoals vastgelegd deze Broncode. 
+Bijvoorbeeld, Eerstvolgende Acties, Projecten en specifieke operationele beslissingen zijn geen geldige uitkomsten van het Bestuurs-proces onder de voorwaarden van Artikel 3.1, dus elk Lid kan een Bezwaar inbrengen dat een Voorstel met deze uitkomsten de regels van de Broncode breken. 
 
 #### 3.2.5 Bezwaren testen
 
@@ -345,7 +345,7 @@ Een bezwaar doorstaat de test als de Bezwaarmaker in staat is om een redelijk ar
 
 Bij het beoordelen van de geldigheid van een Bezwaar mag de Facilitator alleen oordelen of de Bezwaarmaker het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met een logische en redelijke beredenering. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid of de belangrijkheid van de argumenten.
 
-Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Grondwet, zie Artikel 3.2.4 (e), dan mag de Facilitator de Secretaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Grondwet. Als dit  het geval blijkt te zijn moet de Facilitator het Bezwaar verwerpen. 
+Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Broncode, zie Artikel 3.2.4 (e), dan mag de Facilitator de Secretaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Broncode. Als dit  het geval blijkt te zijn moet de Facilitator het Bezwaar verwerpen. 
 
 #### 3.2.6 Regels van integratie
 
@@ -397,7 +397,7 @@ De Facilitator moet de volgende stappen gebruiken voor Roloverleggen en helder a
 
 **(d) Check-out Ronde:** De Facilitator geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Roloverleg, te delen. Reacties zijn niet toegestaan. 
 
-Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag niet in strijd zijn met een van de stappen of andere regels die zijn gedefinieerd in dit Artikel van de Grondwet. 
+Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag niet in strijd zijn met een van de stappen of andere regels die zijn gedefinieerd in dit Artikel van de Broncode. 
 
 #### 3.3.4 Agenda opbouw
 
@@ -456,9 +456,9 @@ Roloverleggen zijn primair bedoeld om het Bestuurs Proces van de Cirkel te onder
 
 Verder dragen operationele uitkomsten en beslissingen die gemaakt zijn tijdens een Roloverleg niet meer of minder gewicht of autoriteit dan diegene die gemaakt worden buiten een Roloverleg. 
 
-### 3.4. Interpreteren van de Grondwet en Bestuur
+### 3.4. Interpreteren van de Broncode en Bestuur
 
-Als een partner van de Organisatie mag je jouw redelijke oordeel gebruiken om deze Grondwet en het vastegelegde Bestuur van de Organisatie te interpreteren, inclusief hoe deze worden toegepast in een specifieke situatie, en handelen op basis van die interpretatie. Je mag er ook op rekenen dat de Secretaris een expliciete interpretatie van het Bestuur van elke Cirkel geeft die wordt beïnvloed door dat Bestuur. Echter, in iedere situatie gelden de volgende aanvullende voorwaarden:
+Als een partner van de Organisatie mag je jouw redelijke oordeel gebruiken om deze Broncode en het vastegelegde Bestuur van de Organisatie te interpreteren, inclusief hoe deze worden toegepast in een specifieke situatie, en handelen op basis van die interpretatie. Je mag er ook op rekenen dat de Secretaris een expliciete interpretatie van het Bestuur van elke Cirkel geeft die wordt beïnvloed door dat Bestuur. Echter, in iedere situatie gelden de volgende aanvullende voorwaarden:
 
 #### 3.4.1. Interpretatie van de Secretaris overstemt
 
@@ -474,11 +474,11 @@ Na de beslissing over een interpretatie mag een Secretaris van een cirkel ervoor
 
 #### 3.4.4 Schrappen van ongeldig Bestuur
 
-Ieder lid van de Cirkel mag zijn Secretaris vragen om een uitspraak te doen over de geldigheid van de vastlegging van Bestuur van de Cirkel of van iedere Rol of Sub-Cirkel waar de Cirkel uiteindelijk onderdeel van is. Als de Secretaris bij een dergelijk verzoek concludeert dat de Governance in strijd is met de regels van deze Grondwet moet de Secretaris de conflicterende Governance schrappen uit het betreffende Bestuurs Document. Als dit gebeurd moet de Secretaris direct aan alle Leden van de Cirkel communiceren wat er gewijzigd is en waarom. 
+Ieder lid van de Cirkel mag zijn Secretaris vragen om een uitspraak te doen over de geldigheid van de vastlegging van Bestuur van de Cirkel of van iedere Rol of Sub-Cirkel waar de Cirkel uiteindelijk onderdeel van is. Als de Secretaris bij een dergelijk verzoek concludeert dat de Governance in strijd is met de regels van deze Broncode moet de Secretaris de conflicterende Governance schrappen uit het betreffende Bestuurs Document. Als dit gebeurd moet de Secretaris direct aan alle Leden van de Cirkel communiceren wat er gewijzigd is en waarom. 
 
 ### 3.5 Proces-storing 
 
-Een **"Proces-storing"** doet zich voor als er in een Cirkel een patroon word geconstateerd van gedrag dat in strijd is met de regels van deze Grondwet. 
+Een **"Proces-storing"** doet zich voor als er in een Cirkel een patroon word geconstateerd van gedrag dat in strijd is met de regels van deze Broncode. 
 
 #### 3.5.1 Storing door vastgelopen Rol Overleg
 
@@ -487,7 +487,7 @@ Als de Voorsteller speciaal voor het behandelen van dat Voorstel een Roloverleg 
 
 #### 3.5.2 Storing door ongrondwettelijk gedrag
 
-De Facilitator van een Cirkel mag een Proces-storing constateren in een van de Sub-Cirkels wanneer er een patroon van gedrag of uitkomsten word geconstateerd die in strijd is met de regels van deze Grondwet. Echter, wanneer de Facilitator ook de Lead-Link of Facilitator van de Sub-Cirkel is dan mogen de Secretaris van de Super-Cirkel of de Rep Link deze constatering ook doen. 
+De Facilitator van een Cirkel mag een Proces-storing constateren in een van de Sub-Cirkels wanneer er een patroon van gedrag of uitkomsten word geconstateerd die in strijd is met de regels van deze Broncode. Echter, wanneer de Facilitator ook de Lead-Link of Facilitator van de Sub-Cirkel is dan mogen de Secretaris van de Super-Cirkel of de Rep Link deze constatering ook doen. 
 
 #### 3.5.3 Proces herstel
 
@@ -545,7 +545,7 @@ Je hebt de plicht om te prioriteren waar je jouw aandacht en middelen op richt, 
 
 **(a) Verwerking boven Uitvoering:** Je moet over het algemeen genomen binnenkomende berichten van mede Cirkelleden prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag de verwerking tijdelijk uitstellen om om een aantal verwerkings berichten tegelijkertijd te verwerken, in één tijdsblok of op een tijd die beter uitkomt, zolang je verwerking nog steeds redelijk snel is. Verwerking betekent betrokken zijn in de verplichtingen die Gedefinieerde staan in dit Artikel, inclusief het bezien van het bericht, definiëren en vastleggen van Eerstvolgende Acties of Projecten indien geschikt en, op verzoek, reageren hoe het bericht is verwerkt. Verwerking betekent niet het uitvoeren van vastgelegde Eerstvolgende Acties en Projecten, dat is niet gedekt in deze regel van prioritering.
 
-**(b) Verzochte Overleggen boven Uitvoering:** Op verzoek van een mede Cirkellid moet je de aanwezigheid bij een overleg van de Cirkel, voorgeschreven in deze Grondwet, prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag het verzoek afwijzen als je al dingen had gepland op het moment dat het Overleg plaatsvindt, of als het verzoek betrekking heeft op een doorlopende serie of patroon van overleggen in plaats van een specifiek overleg. 
+**(b) Verzochte Overleggen boven Uitvoering:** Op verzoek van een mede Cirkellid moet je de aanwezigheid bij een overleg van de Cirkel, voorgeschreven in deze Broncode, prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag het verzoek afwijzen als je al dingen had gepland op het moment dat het Overleg plaatsvindt, of als het verzoek betrekking heeft op een doorlopende serie of patroon van overleggen in plaats van een specifiek overleg. 
 
 **(c) Behoeften van de Cirkel boven Individuele Doelen:** Bij de beoordelin van de besteding van jouw tijd, aandacht en andere middelen van je werk in de Cirkel moet je integreren en afstemmen met alle officiële prioriteringen en/of strategieën van de Cirkel zoals die zijn vastgesteld door de Lead-Link van de Cirkel. 
 
@@ -555,7 +555,7 @@ Als een Lead-Link, Rep Link of Koppel Link van een Cirkel mag je iemand anders u
 
 #### 4.1.5 Impliciete verwachtingen hebben geen betekenis
 
-Al jouw verantwoordelijkheden en plichten als Partner van de Organisatie zijn gedefinieerd in deze Grondwet. En komen in uiting in het bestuursdocument. Eerder gedane (impliciete) verwachtingen verantwoordelijkheden of plichten hebben geen betekenis of autoriteit. Tenzij het Bestuur van de Cirkel ze als natuurlijk aannemen, of als ze komen van een basis verplichting of contractuele overeenkomst die je persoonlijk hebt ten opzichte van of met de Organisatie. 
+Al jouw verantwoordelijkheden en plichten als Partner van de Organisatie zijn gedefinieerd in deze Broncode. En komen in uiting in het bestuursdocument. Eerder gedane (impliciete) verwachtingen verantwoordelijkheden of plichten hebben geen betekenis of autoriteit. Tenzij het Bestuur van de Cirkel ze als natuurlijk aannemen, of als ze komen van een basis verplichting of contractuele overeenkomst die je persoonlijk hebt ten opzichte van of met de Organisatie. 
 
 ### 4.2. Actie Overleg
 
@@ -604,7 +604,7 @@ Als een Gedefinieerde Rol van de Cirkel geheel of gedeeltelijk onvertegenwoordig
 
 ### 4.3 Individuele Actie
 
-Als Partner van de Organisatie ben je in sommige gevallen bevoegd om te handelen buiten de autoriteit van je Rollen, of om zelfs de regels van deze Grondwet te breken. Door te handelen vanuit deze uitgebreide autoriteit neem je **'Individuele Actie'** en ben je gebonden aan de volgende regels:
+Als Partner van de Organisatie ben je in sommige gevallen bevoegd om te handelen buiten de autoriteit van je Rollen, of om zelfs de regels van deze Broncode te breken. Door te handelen vanuit deze uitgebreide autoriteit neem je **'Individuele Actie'** en ben je gebonden aan de volgende regels:
 
 #### 4.3.1 Toegestane situaties
 
@@ -636,12 +636,12 @@ Nadat je een Individuele Actie hebt genomen heb je de plicht om de vereiste gevo
 
 ### 5.1 Gezaghebbenden krijgen nieuwe bevoegdheden 
 
-Door het aannemen van deze Grondwet geven de Gezaghebbenden hun bevoegdheden op om de Organisatie te besturen en te leiden door haar Partners te vertellen **wat** ze moeten doen en **hoe** ze dit moeten doen. De bevoegdheden die ze hebben worden bepaald aan de hand van de autoriteit die hen word gegeven via de regels en processen van deze Grondwet. 
+Door het aannemen van deze Broncode geven de Gezaghebbenden hun bevoegdheden op om de Organisatie te besturen en te leiden door haar Partners te vertellen **wat** ze moeten doen en **hoe** ze dit moeten doen. De bevoegdheden die ze hebben worden bepaald aan de hand van de autoriteit die hen word gegeven via de regels en processen van deze Broncode. 
 Echter, als een uitzondering op deze regel, mogen de Gezaghebbenden doorgaan met het uitoefenen van die bevoegdheden waarvan ze niet de macht hebben om die te delegeren, zoals vereist Beleid buiten de controle van de Organisatie of zoals vastgelegd in de statuten van de Organisatie. Deze bevoegdheden blijven bestaan totdat die situatie veranderd. 
 
 ### 5.2 Anker Cirkel
 
-Bij het aannemen van deze Grondwet, moeten de Gezaghebbenden een eerste Cirkel vaststellen om het algehele Doel van de Organisatie uit te drukken. Deze '**Anker Cirkel**' wordt de breedste Cirkel in de Organisatie en beheert automatisch alle Domeinen die de Organisatie zelf beheert. 
+Bij het aannemen van deze Broncode, moeten de Gezaghebbenden een eerste Cirkel vaststellen om het algehele Doel van de Organisatie uit te drukken. Deze '**Anker Cirkel**' wordt de breedste Cirkel in de Organisatie en beheert automatisch alle Domeinen die de Organisatie zelf beheert. 
 
 #### 5.2.1 Links naar de Anker Cirkel
 
@@ -673,17 +673,17 @@ De Anker Cirkel heeft geen Super Cirkel en verkiest geen Rep Link.
 
 ### 5.3 Initiële structuur
 
-De Lead-Link van de Anker Cirkel mag een eerste structuur en Bestuur voor de Organisatie bepalen, buiten het gangbare Bestuurs Proces die vereist is door deze Grondwet. Als die eerste structuur andere Cirkels omvat dan mogen de Lead-Links van die Cirkels hetzelfde doen met hun Cirkels. Deze autoriteit mag alleen worden gebruikt om een een eerste structuur te bepalen voor een Cirkel om mee te beginnen en voordat de Cirkel is gestart met het uitvoeren van haar Governance Proces. 
+De Lead-Link van de Anker Cirkel mag een eerste structuur en Bestuur voor de Organisatie bepalen, buiten het gangbare Bestuurs Proces die vereist is door deze Broncode. Als die eerste structuur andere Cirkels omvat dan mogen de Lead-Links van die Cirkels hetzelfde doen met hun Cirkels. Deze autoriteit mag alleen worden gebruikt om een een eerste structuur te bepalen voor een Cirkel om mee te beginnen en voordat de Cirkel is gestart met het uitvoeren van haar Governance Proces. 
 
 ### 5.4 Bestaande Domeinafspraken en systemen
 
-Alle bestaande Domeinafspraken en systemen waar de Organisatie mee werkt voor het aannemen van deze Grondwet blijven volledig van kracht na de aanname, zelfs als deze beperkingen of bevoegdheden omvatten die niet in het Bestuurs Document zijn vastgelegd. Dit kunnen bijvoorbeeld compensatiesystemen, aanname- en ontslagprocessen of werk gerelateerde Domeinafspraken zijn. 
+Alle bestaande Domeinafspraken en systemen waar de Organisatie mee werkt voor het aannemen van deze Broncode blijven volledig van kracht na de aanname, zelfs als deze beperkingen of bevoegdheden omvatten die niet in het Bestuurs Document zijn vastgelegd. Dit kunnen bijvoorbeeld compensatiesystemen, aanname- en ontslagprocessen of werk gerelateerde Domeinafspraken zijn. 
 
-Echter, deze nagelaten Domeinafspraken en systemen zullen al hun betekenis en autoriteit verliezen zodra er Bestuur is gedefinieerd die ze vervangen of tegenspreken. Bovendien kunnen ze niet worden gewijzigd of toegevoegd in de oude vorm. Iedere poging om dat te doen moet eerst worden vastgelegd of op een andere manier bekrachtigd worden via het Bestuurs Proces zoals gedefinieerd in deze Grondwet. 
+Echter, deze nagelaten Domeinafspraken en systemen zullen al hun betekenis en autoriteit verliezen zodra er Bestuur is gedefinieerd die ze vervangen of tegenspreken. Bovendien kunnen ze niet worden gewijzigd of toegevoegd in de oude vorm. Iedere poging om dat te doen moet eerst worden vastgelegd of op een andere manier bekrachtigd worden via het Bestuurs Proces zoals gedefinieerd in deze Broncode. 
 
-### 5.5 Grondwet wijzigingen of intrekking
+### 5.5 Broncode wijzigingen of intrekking
 
-De Gezaghebbenden of hun opvolgers mogen deze Grondwet volledig wijzigen of intrekken, gebruikmakend van welke autoriteit en welk proces dan ook die ze hebben gebruikt om het aan te nemen. Wijzigingen moeten schriftelijk worden gemaakt en gepubliceerd worden op een plek die voor alle Partners van de Organisatie toegankelijk is. 
+De Gezaghebbenden of hun opvolgers mogen deze Broncode volledig wijzigen of intrekken, gebruikmakend van welke autoriteit en welk proces dan ook die ze hebben gebruikt om het aan te nemen. Wijzigingen moeten schriftelijk worden gemaakt en gepubliceerd worden op een plek die voor alle Partners van de Organisatie toegankelijk is. 
 
 ## Bijlage A: Definitie Van Kernrollen
 
@@ -727,15 +727,15 @@ De Gezaghebbenden of hun opvolgers mogen deze Grondwet volledig wijzigen of intr
 
 **Verantwoordelijkheden**: 
 
-* Begeleiden van de overleggen van de Cirkel die vereist zijn volgens de Grondwet.
+* Begeleiden van de overleggen van de Cirkel die vereist zijn volgens de Broncode.
 
-* Controleren van de Overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de Grondwet. 
+* Controleren van de Overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de Broncode. 
 
 ### Secretaris
 
 **Kerndoel**: Handhaven en stabiliseren van de formele administratie van de Cirkel.
 
-**Domeinen: **Alle Grondwettelijk-vereiste vastlegging van de Cirkel
+**Domeinen: **Alle Broncodetelijk-vereiste vastlegging van de Cirkel
 
 **Verantwoordelijkheden**: 
 
@@ -743,7 +743,7 @@ De Gezaghebbenden of hun opvolgers mogen deze Grondwet volledig wijzigen of intr
 
 * Vastleggen en publiceren van de uitkomsten van de vereiste overleggen van de Cirkel in het Bestuurs Document en het bijhouden van een samengesteld overzicht van het huidige Bestuur van de Cirkel, checklist items en Metrieken. 
 
-* Interpreteren van het Bestuurs Document en de Grondwet op verzoek. 
+* Interpreteren van het Bestuurs Document en de Broncode op verzoek. 
 
 ---
 
