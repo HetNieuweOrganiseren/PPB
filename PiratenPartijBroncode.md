@@ -1,7 +1,7 @@
-#**Holarchie Grondwet**
+#**Piraten Partij Broncode**
 
 ## Disclaimer
-De Holarchie Grondwet is een Fork van de Holacracy Grondwet.
+De Piraten Partij Broncode is een Fork van de **[Holarchie 'Fork'](https://github.com/HetNieuweOrganiseren/HolarchieGrondwet)** Die op haar beurt weer een 'Fork' is van de **['Holacracy Constitution'](https://github.com/holacracyone/Holacracy-Constitution)**. 
 De informatie in dit document zijn de holarchische regels en processen voor organiseren.
 HolacracyOne noch Het Nieuwe Organiseren zijn legitieme rechtsinstellingen. Dit document wordt u aangeboden zonder enigerlei vertegenwoordiging of garantie.
 Alvorens het gebruik van dit document in een rechts-vorm wordt u sterk aangeraden om
