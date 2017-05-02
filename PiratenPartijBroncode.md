@@ -711,9 +711,9 @@ De Gezaghebbenden of hun opvolgers mogen deze Broncode volledig wijzigen of intr
 
 ### Rep Link
 
-**Doel**: In de Super Cirkel vertegenwoordigd de Rep Link het Doel van de Sub-Cirkel; in de sub Cirkel is het Doel van de Rep Link om de Spanningen van de Sub Cirkel, die relevant zijn voor de Super Cirkel, te kanaliseren en op te lossen.
+**Doel:** In de Super Cirkel vertegenwoordigd de Rep Link het Doel van de Sub-Cirkel; in de sub Cirkel is het Doel van de Rep Link om de Spanningen van de Sub Cirkel, die relevant zijn voor de Super Cirkel, te kanaliseren en op te lossen.
 
-**Verantwoordelijkheden**:
+**Verantwoordelijkheden:**
 
 * Verwijderen van beperkingen in de bredere Organisatie die de Sub Cirkel beperken.
 
@@ -725,7 +725,7 @@ De Gezaghebbenden of hun opvolgers mogen deze Broncode volledig wijzigen of intr
 
 **Kerndoel:** Begeleiden van het Rol- en Actie Overleg conform de spelregels van deze grondwet. 
 
-**Verantwoordelijkheden**: 
+**Verantwoordelijkheden:** 
 
 * Begeleiden van de overleggen van de Cirkel die vereist zijn volgens de Broncode.
 
@@ -733,11 +733,11 @@ De Gezaghebbenden of hun opvolgers mogen deze Broncode volledig wijzigen of intr
 
 ### Secretaris
 
-**Kerndoel**: Handhaven en stabiliseren van de formele administratie van de Cirkel.
+**Kerndoel:** Handhaven en stabiliseren van de formele administratie van de Cirkel.
 
-**Domeinen: **Alle Broncodetelijk-vereiste vastlegging van de Cirkel
+**Domeinen:** Alle Broncodetelijk-vereiste vastlegging van de Cirkel
 
-**Verantwoordelijkheden**: 
+**Verantwoordelijkheden:**
 
 * Inplannen van de vereiste overleggen van de Cirkel, en alle Leden van de Cirkel op de hoogte brengen van de geplande tijden en locaties. 
 
