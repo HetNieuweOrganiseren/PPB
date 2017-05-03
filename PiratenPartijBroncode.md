@@ -272,7 +272,7 @@ Een Gekoppelde Entiteit kan haar Koppel-Link Rol wijzigen via haar eigen Bestuur
 
 De Gekoppelde Entiteit die is uitgenodigd in een Doel-Cirkel kan een Rol zijn die onderdeel is van een andere Cirkel. In dat geval kan deze Cirkel de Gekoppelde Entiteit wijzigen in een andere Rol waarvan de Cirkel denkt dat deze meer geschikt is. Of de Cirkel kan de keuze van de Gelinkte Entiteit delegeren aan een van haar Sub-Cirkels. 
 
-## ARTIKEL III Artikel 3: Het Bestuur Proces
+## Artikel 3: Het Bestuur Proces
 
 Een Cirkels Bestuurs-proces wordt gebruikt om rollen en beleid te definiëren. Dit artikel definieert het Bestuurs-proces en de regels voor het voorstellen van een verandering of het bezwaar daarop.
 
