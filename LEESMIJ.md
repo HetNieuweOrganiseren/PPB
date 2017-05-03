@@ -34,3 +34,13 @@ Een Cirkels Bestuurs-proces wordt gebruikt om rollen en beleid te definiëren. D
 #### [Artikel 4: Operationeel Proces] (https://github.com/HetNieuweOrganiseren/PPB/blob/master/PiratenPartijBroncode.md#artikel-4-operationeel-proces)
 
 Artikel IV heeft betrekking op de regels van operationele processen - de manieren waarop Cirkel-leden "kennis en kunde" synchroniseren en hun werk verdelen over de Rollen in de vorm van Acties en Projecten door middel van het Actie-Overleg. De Cirkel-leden vertrouwen er op dat men elkaar ondersteund en helpt het operationele werk te volbrengen.
+
+#### [Article 5: Adoption Matters] (https://github.com/HetNieuweOrganiseren/HolarchieGrondwet/blob/master/Holarchie-Grondwet.md#artikel-5-implementatie-kwesties)
+
+Dit artikel behandeld de overgang van een traditionele organisatievorm naar een Holarchie. Het bied regels en richtlijnen voor het aannemen van Holarchie in een 'Raad' of een groep van vertegenwoordigers in plaats van een Lead-Link
+
+----
+
+*_The Holacracy Constitution is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> 
