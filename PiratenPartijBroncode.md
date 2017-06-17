@@ -727,7 +727,7 @@ De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intre
 
 ### Facilitator 
 
-**Kerndoel:** Begeleiden van het Rol- en Actie Overleg conform de spelregels van deze grondwet. 
+**Doel:** Begeleiden van het Rol- en Actie Overleg conform de spelregels van deze grondwet. 
 
 **Verantwoordelijkheden:** 
 
@@ -737,9 +737,9 @@ De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intre
 
 ### Secretaris
 
-**Kerndoel:** Handhaven en stabiliseren van de formele administratie van de Cirkel.
+**Doel:** Handhaven en stabiliseren van de formele administratie van de Cirkel.
 
-**Domeinen:** Alle Broncodetelijk vereiste vastlegging van de Cirkel
+**Domeinen:** Alle vereiste vastlegging van de Cirkel
 
 **Verantwoordelijkheden:**
 
