@@ -11,16 +11,16 @@ advies in te winnen bij een rechtsgeldige instantie.
 
 Deze **"Broncode"** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbende"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Holarchie Broncode. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbende besturende of leidende bevoegdheid over heeft. De Gezaghebbende en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Partners"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Broncode en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
 
-## Artikel 1: Vervullen van rollen
+## Artikel 1: Vervullen van Rollen
 
-Een rol is de bouwsteen van een Holarchische Organisatie structuur. Dit artikel beslaat de basis bevoegdheden, autoriteit en verplichtingen voor een partner die een rol bezit.
+Een Rol is de bouwsteen van een Holarchische Organisatie structuur. Dit artikel beslaat de basis bevoegdheden, autoriteit en verplichtingen voor een partner die een Rol bezit.
 
 ### 1.1 Definitie van een Rol
 
-Een "Rol" is een organisatorische eenheid die een "doel" uit drukt, "Domeinen" controleert en "Verantwoordelijkheden" uit voert.
+Een "Rol" is een organisatorische eenheid die een "doel" uit drukt, "Domeinen" contRoleert en "Verantwoordelijkheden" uit voert.
 De Partners van de Organisatie verrichten werk voor de Organisatie, door te handelen vanuit een expliciet gedefinieerde Rol. Een "Rol" is een bouwsteen van de organisatie met een beschrijvende naam en één of meer van het volgende:
 
-**(a)** Een **"Doel"**. De rol heeft haar eigen Doel die ze na zal nastreven of uitdrukken richting het Hoofd-Doel van de Organisatie. 
+**(a)** Een **"Doel"**. De Rol heeft haar eigen Doel die ze na zal nastreven of uitdrukken richting het Hoofd-Doel van de Organisatie. 
 
 **(b)** Een of meerdere **"Domeinen"**. Dit zijn dingen die de Rol exclusief mag beheren en reguleren als zijn eigendom namens de Organisatie.
 
@@ -28,15 +28,15 @@ De Partners van de Organisatie verrichten werk voor de Organisatie, door te hand
 
 ### 1.2 Verantwoordelijkheden van een Rol vervullen
 
-Wanneer een partner een rol vervult accepteert diegene de volgende verantwoordelijkheden:
+Wanneer een partner een Rol vervult accepteert diegene de volgende verantwoordelijkheden:
 
 #### 1.2.1 Spanningen verwerken
 
-Een partner is verantwoordelijk voor het waarnemen van "spanningen" voor die rol en de verwerking daarvan. Een Spanning is: _het verschil tussen hoe je **weet** dat het is en hoe je **wilt** dat het is._ De spanning word verwerkt in een Rol- of Actie Overleg
+Een partner is verantwoordelijk voor het waarnemen van "spanningen" voor die Rol en de verwerking daarvan. Een Spanning is: _het verschil tussen hoe je **weet** dat het is en hoe je **wilt** dat het is._ De spanning word verwerkt in een Rol- of Actie Overleg
 
 #### 1.2.2 Verwerken van verantwoordelijkheden
 
-Een partner is verantwoordelijk voor het opdelen van de verantwoordelijkheden van hun rol in projecten en Acties om dichter bij het doel te komen. Een project is een resultaat bereiken, en de Actie is een concrete, fysieke actie die onmiddellijk kan worden uitgevoerd als de tijd het toestaan.
+Een partner is verantwoordelijk voor het opdelen van de verantwoordelijkheden van hun Rol in projecten en Acties om dichter bij het doel te komen. Een project is een resultaat bereiken, en de Actie is een concrete, fysieke actie die onmiddellijk kan worden uitgevoerd als de tijd het toestaan.
 
 #### 1.2.3 Projecten verwerken
 
@@ -53,29 +53,29 @@ Als je tijd beschikbaar hebt om te handelen in je Rol, ben je verantwoordelijk o
 
 ### 1.3. Autoriteit om te handelen
 
-Als je als Partner een rol vervult heb je de autoriteit om elke Eerstvolgende Acties uit te voeren waarvan jij gelooft dat ze zinvol is voor het behalen van het doel en de Verantwoordelijkheden van jouw Rol. 
+Als je als Partner een Rol vervult heb je de autoriteit om elke Eerstvolgende Acties uit te voeren waarvan jij gelooft dat ze zinvol is voor het behalen van het doel en de Verantwoordelijkheden van jouw Rol. 
 
-Elke rol is autonoom en het is je dus niet toegestaan om controle uit te oefenen op een Rol of entiteit die je niet vervult, tenzij; je expliciet toestemming hebt van de Partner die deze rol vervult of, als er een noodzaak is voor een Individuele actie zoals bepaald in artikel 4.3 
+Elke Rol is autonoom en het is je dus niet toegestaan om contRole uit te oefenen op een Rol of entiteit die je niet vervult, tenzij; je expliciet toestemming hebt van de Partner die deze Rol vervult of, als er een noodzaak is voor een Individuele actie zoals bepaald in artikel 4.3 
 
 De autoriteit verkregen in deze paragraaf wordt mede bepaald door Artikel 2.1. 
 
 ### 1.4 Autoriteit over Domeinen
 
-Als Partner die een Rol vervult heb je de autoriteit om ieder Domein van jouw Rol te controleren en reguleren. Als een ander toestemming vraagt om het domein te beïnvloedden ben je verplicht het verzoek te beoordelen en expliciet wel of geen toestemming te geven. 
+Als Partner die een Rol vervult heb je de autoriteit om ieder Domein van jouw Rol te contRoleren en reguleren. Als een ander toestemming vraagt om het domein te beïnvloedden ben je verplicht het verzoek te beoordelen en expliciet wel of geen toestemming te geven. 
 
 #### 1.4.1 Beleid
 
-Je kunt ook ‘Beleid’ definiëren voor jouw Domeinen. Dit is ofwel; een *toezegging* van autoriteit die een rol in staat stelt om controle of regulering uit te oefenen binnen een domein, ofwel een *beperkingen* van autoriteit over de volledige controle en regulering binnen een domein. Voordat een Beleid geldig word moet het eerst gepubliceerd worden en een afgesproken periode inzichtelijk zijn voor alle Rollen waarop het Beleid invloed op heeft.
+Je kunt ook ‘Beleid’ definiëren voor jouw Domeinen. Dit is ofwel; een *toezegging* van autoriteit die een Rol in staat stelt om contRole of regulering uit te oefenen binnen een domein, ofwel een *beperkingen* van autoriteit over de volledige contRole en regulering binnen een domein. Voordat een Beleid geldig word moet het eerst gepubliceerd worden en een afgesproken periode inzichtelijk zijn voor alle Rollen waarop het Beleid invloed op heeft.
 
 De autoriteit verkregen in deze paragraaf wordt mede bepaald door Artikel 2.1. 
 
 ## Artikel 2: Cirkel Structuur
 
-Een Cirkel bevat een integreert vele rollen. Dit artikel beschrijft hoe een Cirkel is gestructureerd en hoe de rollen daarin toegewezen, verkozen of gevormd worden tot Sub-Cirkels
+Een Cirkel bevat een integreert vele Rollen. Dit artikel beschrijft hoe een Cirkel is gestructureerd en hoe de Rollen daarin toegewezen, verkozen of gevormd worden tot Sub-Cirkels
 
 ### 2.1 Cirkel fundamenten
 
-Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere rollen, zodat meerdere partners samen kunnen werken aan de uitdrukking van het algemene doel en verantwoordelijkheden van die Cirkel. Een **"Cirkel"** kan haar eigen Rollen definiëren, haar Domeinen controleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn **"Gedefinieerde"** **"Rollen"** en liggen vast in het **"Bestuurs-Document"**, en elke Partner die een van de Gedefinieerde rollen vervult is een **"Piraat"** van die Cirkel. Een Cirkel heeft altijd minimaal drie **Piraten**
+Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere Rollen, zodat meerdere partners samen kunnen werken aan de uitdrukking van het algemene doel en verantwoordelijkheden van die Cirkel. Een **"Cirkel"** kan haar eigen Rollen definiëren, haar Domeinen contRoleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn **"Gedefinieerde"** **"Rollen"** en liggen vast in het **"Bestuurs-Document"**, en elke Partner die een van de Gedefinieerde Rollen vervult is een **"Piraat"** van die Cirkel. Een Cirkel heeft altijd minimaal drie **Piraten**
 
 #### 2.1.1 Rollen en Beleid definiëren 
 
@@ -85,29 +85,29 @@ Verder beheer iedere **Cirkel** haar eigen verantwoordelijkheden en acties alsof
 
 #### 2.1.2 Rollen mogen invloed uitoefenen op Domeinen
 
-Als je een Rol vervult in een Cirkel dan mag je de vastgestelde Domeinen van die Cirkel controleren en beïnvloeden. Echter, je moet je houden aan eventueel Beleid dat van toepassing is op die Domeinen zoals beschreven in 1.4. 
+Als je een Rol vervult in een Cirkel dan mag je de vastgestelde Domeinen van die Cirkel contRoleren en beïnvloeden. Echter, je moet je houden aan eventueel Beleid dat van toepassing is op die Domeinen zoals beschreven in 1.4. 
 
 Verder mag je het Domein of aanverwante verantwoordelijkheden niet overdragen of er afstand van doen, ook mag je de rechten van de Cirkel niet aanzienlijk beperken ten opzichte van het Domein. Echter, deze beperkingen zijn niet van toepassingen als een Rol of proces met die autoriteit jouw Rol de toestemming geeft om dit te doen. 
 
 #### 2.1.3 Delegeren van een Domein
 
-Wanneer een een Cirkel een domein delegeert aan een Rol krijgt deze de invloed om controle en regulatie uit te oefenen binnen dit domein in plaats van die cirkel. 
+Wanneer een een Cirkel een domein delegeert aan een Rol krijgt deze de invloed om contRole en regulatie uit te oefenen binnen dit domein in plaats van die cirkel. 
 
 Echter, de Cirkel behoud haar recht om het gedelegeerte Domein aan te passen of te verwijderen, en/of om Beleid te definiëren voor dat Domein.
 
-Standaard mag een rol die een gedelegeert Domein controleert deze, of significante activa binnen dit domein, niet opheffen of overdragen naar een entiteit buiten die cirkel. Of de cirkel de controle over het domein ontzeggen. Een cirkel kan deze regel veranderen door het definiërenvan een beleid op het domein van de Cirkel.
+Standaard mag een Rol die een gedelegeert Domein contRoleert deze, of significante activa binnen dit domein, niet opheffen of overdragen naar een entiteit buiten die cirkel. Of de cirkel de contRole over het domein ontzeggen. Een cirkel kan deze regel veranderen door het definiërenvan een beleid op het domein van de Cirkel.
 
 Een domein is altijd gelimiteerd door de autoriteit die het in eerste instantie had.
 
 ### 2.2 Cirkel Stuurman
 
-Iedere Cirkel heeft een **"Stuurman Rol"**. De definitie van deze Rol vind je in [Bijlage A](#bijlage-a-definitie-van-kernrollen), de verantwoordelijkheden en bevoegdheden staan in dit Artikel. 
+Iedere Cirkel heeft een **"Stuurman Rol"**. De definitie van deze Rol vind je in [Bijlage A](#bijlage-a-definitie-van-kernRollen), de verantwoordelijkheden en bevoegdheden staan in dit Artikel. 
 
 De persoon die de Stuurman Rol vervult wordt **Stuurman** genoemd wanneer deze handelt in die hoedanigheid. 
 
 #### 2.2.1 Vult ongedefinieerde functies in
 
-De Stuurman is de eindverantwoordelijke van een Cirkel en vervult het doel en alle Verantwoordelijkheden van de Cirkel en beheert elk Domein van die Cirkel. Tenzij de Verantwoordelijkheden en domeinen zijn gedefinieerd in een rol binnen die Cirkel of op een andere manier zijn gedelegeert. 
+De Stuurman is de eindverantwoordelijke van een Cirkel en vervult het doel en alle Verantwoordelijkheden van de Cirkel en beheert elk Domein van die Cirkel. Tenzij de Verantwoordelijkheden en domeinen zijn gedefinieerd in een Rol binnen die Cirkel of op een andere manier zijn gedelegeert. 
 
 Verder mag de Stuurman geen Domeinafspraken definiëren die de Rollen van de Cirkel beperken, behalve wanneer dat gebeurt via het Rol Overleg van de Cirkel. 
 
@@ -125,7 +125,7 @@ Echter, een Cirkel mag Verantwoordelijkheden, Domeinen, bevoegdheden of functies
 
 ### 2.3 Cirkel participatie & bestuur
 
-De rollen die deel mogen nemen aan het Bestuur Proces van de Cirkel, zijn de **"Leden"** van de Cirkel. 
+De Rollen die deel mogen nemen aan het Bestuur Proces van de Cirkel, zijn de **"Leden"** van de Cirkel. 
 
 De leden van ene Cirkel houden zich aan de volgende regels:
 
@@ -143,7 +143,7 @@ Tenzij er een speciale afspraak of uitsluiting wordt gemaakt onder de voorwaarde
 
 #### 2.3.2 Vertegenwoordiging van Rollen met meerdere Partners
 
-Als een rol wordt ingevuld door meerdere partners, kan een Cirkel een domein instellen waarmee slechts een van die Partners aangesteld word als vertegenwoordiger van die Rol. Als dat zo is gedraagt deze Partner zich als een RepLink om de spanningen van de andere Partners te vertegenwoordigen. Binnen deze Domein afspraak is er minimaal 1 Partner die deze Rol vervult als Lid van de Cirkel en deze moet kunnen verantwoorden hoe deze vertegenwoordiging is bepaald. 
+Als een Rol wordt ingevuld door meerdere partners, kan een Cirkel een domein instellen waarmee slechts een van die Partners aangesteld word als vertegenwoordiger van die Rol. Als dat zo is gedraagt deze Partner zich als een RepLink om de spanningen van de andere Partners te vertegenwoordigen. Binnen deze Domein afspraak is er minimaal 1 Partner die deze Rol vervult als Lid van de Cirkel en deze moet kunnen verantwoorden hoe deze vertegenwoordiging is bepaald. 
 
 #### 2.3.3 Uitsluiting bij minimale besteding van aandacht
 
@@ -165,7 +165,7 @@ Als een Rol in een Cirkel niet door een Partner wordt vervuld word deze toegewez
 
 #### 2.4.2 Rollen toewijzen aan meerdere personen
 
-Een rol kan aan meerdere Partners worden toegekend, zolang het duidelijk is wie welke verantwoordelijkheden en bevoegdheden van die specifieke Rol vervult. Een manier om dit helder te houden is om een ‘Focus’ te specificeren bij iedere toewijzing. 
+Een Rol kan aan meerdere Partners worden toegekend, zolang het duidelijk is wie welke verantwoordelijkheden en bevoegdheden van die specifieke Rol vervult. Een manier om dit helder te houden is om een ‘Focus’ te specificeren bij iedere toewijzing. 
 
 Als een Rol toewijzing een Focus bevat dan geldt dat: het doel, de Verantwoordelijkheden en Domeinen van die Rol uitgevoerd worden door die specifieke Partner binnen die Focus. 
 
@@ -220,14 +220,14 @@ Een Cirkel kan het Doel, Domein en verantwoordelijkheden van haar Sub-Cirkel(s) 
 #### 2.6.2 Verwijderen van Sub-Cirkels
 
 Een Cirkel kan een Sub-Cirkel verwijderen door middel van bestuur door;
-**(a)** het geheel verwijderen van de Sub-Cirkel, met inbegrip van alle rollen, of
-**(b)** het terugbrengen van de Sub-Cirkel naar een enkele rol, dus door alle rollen te verwijderen, of
+**(a)** het geheel verwijderen van de Sub-Cirkel, met inbegrip van alle Rollen, of
+**(b)** het terugbrengen van de Sub-Cirkel naar een enkele Rol, dus door alle Rollen te verwijderen, of
 **(c)** het oplossen van de Sub-Cirkel grens, zodat alle functies worden geabsorbeerd door de Super-cirkel.
 
 #### 2.6.3 Stuurman van Sub-Cirkel
 
 De Stuurman van een Cirkel kan een Partner aanwijzen om de Stuurman Rol voor een Sub-Cirkel te vervullen, gebruikmakend van dezelfde regels die gelden als de Stuurman personen toewijst aan andere Gedefinieerde Rollen van de Cirkel.
-Of de Partner die de oorspronkelijk rol vervulde word de Stuurman van die Sub-Cirkel.
+Of de Partner die de oorspronkelijk Rol vervulde word de Stuurman van die Sub-Cirkel.
 Of er vinden verkiezingen plaats voor de Rol van Stuurman voor die Sub-Cirkel
 
 #### 2.6.4 Cirkel Vertegenwoordiger naar Sub-Cirkel
@@ -274,14 +274,14 @@ De Gekoppelde Entiteit die is uitgenodigd in een Doel-Cirkel kan een Rol zijn di
 
 ## Artikel 3: Het Bestuur Proces
 
-Een Cirkels Bestuurs-proces wordt gebruikt om rollen en beleid te definiëren. Dit artikel definieert het Bestuurs-proces en de regels voor het voorstellen van een verandering of het bezwaar daarop.
+Een Cirkels Bestuurs-proces wordt gebruikt om Rollen en beleid te definiëren. Dit artikel definieert het Bestuurs-proces en de regels voor het voorstellen van een verandering of het bezwaar daarop.
 
 ### 3.1 Reikwijdte van bestuur
 
-De enige geldige daden van het **"Bestuur"** van een Cirkel zijn: het aanmaken & aanpassen van; rollen, Beleid, Sub-Cirkels, of het houden van verkiezingen. Niets anders kan worden beslist of opgeschreven in het **"Bestuurs-Document"** van een Cirkel.
+De enige geldige daden van het **"Bestuur"** van een Cirkel zijn: het aanmaken & aanpassen van; Rollen, Beleid, Sub-Cirkels, of het houden van verkiezingen. Niets anders kan worden beslist of opgeschreven in het **"Bestuurs-Document"** van een Cirkel.
 
 Het Bestuurs-proces van een Cirkel heeft de macht om;
-**(a)** rollen van de Cirkel en Sub-Cirkels te definiëren, veranderen of verwijderen,
+**(a)** Rollen van de Cirkel en Sub-Cirkels te definiëren, veranderen of verwijderen,
 **(b)** Beleid voor de Cirkel te definiëren, veranderen of verwijderen,
 **(c)** verkiezingen te houden voor de Verkozen Rollen. 
 
@@ -331,7 +331,7 @@ Sommige Spanningen gelden niet als Bezwaren en kunnen genegeerd worden tijden de
 
 **(c)** De Spanning word veroorzaakt door reeds bekende feiten of gebeurtenissen, zonder daarbij rekening te houden met voorspellingen van wat er mogelijk in de toekomst zou kunnen gebeuren. Echter, een beroep doen op voorspellingen is toegestaan wanneer er in de toekomst waarschijnlijk geen gelegenheid is om de schade adequaat waar te nemen en te reageren voordat het Voorstel tot significante impact heeft geleid. 
 
-**(d)** De Spanning beperkt de capaciteit van de Bezwaarmaker om het Doel of een Verantwoordelijkheid uit te voeren van een van de rollen in de Cirkel. Of als het een andere Rol beperkt, maar de Bezwaarmaker mag de Rol alleen vertegenwoordigen als er expliciet toestemming is gegeven door de Partner die deze Rol normaal vervult.
+**(d)** De Spanning beperkt de capaciteit van de Bezwaarmaker om het Doel of een Verantwoordelijkheid uit te voeren van een van de Rollen in de Cirkel. Of als het een andere Rol beperkt, maar de Bezwaarmaker mag de Rol alleen vertegenwoordigen als er expliciet toestemming is gegeven door de Partner die deze Rol normaal vervult.
 
 Echter, ongeacht bovenstaande criteria telt een Spanning altijd als een Bezwaar als:
 
@@ -551,7 +551,7 @@ Je hebt de plicht om te prioriteren waar je jouw aandacht en middelen op richt, 
 
 #### 4.1.4 Links mogen plichten overdragen
 
-Als een Stuurman, Cirkel Vertegenwoordiger of Koppel Link van een Cirkel mag je iemand anders uitnodigen om de verantwoordelijkheden, genoemd in dit artikel (4), op zich te nemen. Je mag dit alleen doen voor hulp bij het verwerken van een specifieke Spanning. Deze moet invloed hebben op de entiteit waar jij de link van bent en geld alleen als; jij de Spanning ook waarneemt en, betrokken blijft bij de verwerking daarvan. De persoon die je uitnodigt wordt tijdelijk een volledig lid van de Cirkel en mede verantwoordelijk voor jouw rol tijdens de verwerking van die specifieke Spanning. De ander vervult samen met jou jouw rol totdat je de uitnodiging intrekt.
+Als een Stuurman, Cirkel Vertegenwoordiger of Koppel Link van een Cirkel mag je iemand anders uitnodigen om de verantwoordelijkheden, genoemd in dit artikel (4), op zich te nemen. Je mag dit alleen doen voor hulp bij het verwerken van een specifieke Spanning. Deze moet invloed hebben op de entiteit waar jij de link van bent en geld alleen als; jij de Spanning ook waarneemt en, betrokken blijft bij de verwerking daarvan. De persoon die je uitnodigt wordt tijdelijk een volledig lid van de Cirkel en mede verantwoordelijk voor jouw Rol tijdens de verwerking van die specifieke Spanning. De ander vervult samen met jou jouw Rol totdat je de uitnodiging intrekt.
 
 #### 4.1.5 Impliciete verwachtingen hebben geen betekenis
 
@@ -587,13 +587,13 @@ De Scheids moet normaliter het volgende proces gebruiken voor een Actie Overleg:
 
 'Checklists' worden gebruikt om duidelijk te maken of wederkerende acties gedaan worden. De Scheids Leest de 'cheklist' van terugkerende acties, deelnemers antwoorden met: "Check" / "Geen Check".
 
-Elk Cirkel Lid can een verzoek doen om een wederkerende actie aan de cheklist toe te voegen, zolang het verzoek valt binnen de verantwoordelijkheden van de betreffende rol. M.a.w. een nieuw 'checklist' item mag geen nieuwe verwachting vastleggen voor de rol. De verantwoordleijkheid voor een verwachting aan een Rol koppelen kan alleen via het Rol Overleg gebeuren.
+Elk Cirkel Lid can een verzoek doen om een wederkerende actie aan de cheklist toe te voegen, zolang het verzoek valt binnen de verantwoordelijkheden van de betreffende Rol. M.a.w. een nieuw 'checklist' item mag geen nieuwe verwachting vastleggen voor de Rol. De verantwoordleijkheid voor een verwachting aan een Rol koppelen kan alleen via het Rol Overleg gebeuren.
 
 **(c) Metrieken Bekijken:** De Scheids vraagt iedere deelnemer voor veranderingen in alle Metrieken waar hij/zij verantwoordelijk voor is.
 
 **(d) Project Updates:** De Scheids vraagt iedere deelnemer om de vordering van projecten toe te lichten. Dit is de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen die de deelnemer vervult in de Cirkel. Deelnemers mogen alleen de vordering delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project dan moet deze worden opgenomen totdat het is voltooid of is komen te vervallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Sub-Cirkel moet de Scheids de Lead- en Cirkel Vertegenwoordiger de ruimte geven om updates te delen. 
 
-**(e) Verzamel en verwerk spanningen:** De Scheids bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Partners met relevante rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Archivaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
+**(e) Verzamel en verwerk spanningen:** De Scheids bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Partners met relevante Rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Archivaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
 De Scheids heeft het doel om ieder agenda punt te behandeld en heeft het recht om een dialoog af te breken als deze dat doel in de weg staat. 
 
 **(f) Sluitings-Ronde:** De Scheids geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Actie Overleg, te delen. Reacties zijn niet toegestaan.
@@ -641,7 +641,7 @@ Nadat je een Individuele Actie hebt genomen heb je de plicht om de vereiste gevo
 ### 5.1 Gezaghebbende krijgen nieuwe bevoegdheden 
 
 Door het aannemen van deze Broncode geven de Gezaghebbende hun bevoegdheden op om de Organisatie te besturen en te leiden door haar Partners te vertellen **wat** ze moeten doen en **hoe** ze dit moeten doen. De bevoegdheden die ze hebben worden bepaald aan de hand van de autoriteit die hen word gegeven via de regels en processen van deze Broncode. 
-Echter, als een uitzondering op deze regel, mogen de Gezaghebbende doorgaan met het uitoefenen van die bevoegdheden waarvan ze niet de macht hebben om die te delegeren, zoals vereist Beleid buiten de controle van de Organisatie of zoals vastgelegd in de statuten van de Organisatie. Deze bevoegdheden blijven bestaan totdat die situatie veranderd. 
+Echter, als een uitzondering op deze regel, mogen de Gezaghebbende doorgaan met het uitoefenen van die bevoegdheden waarvan ze niet de macht hebben om die te delegeren, zoals vereist Beleid buiten de contRole van de Organisatie of zoals vastgelegd in de statuten van de Organisatie. Deze bevoegdheden blijven bestaan totdat die situatie veranderd. 
 
 ### 5.2 Anker Cirkel
 
@@ -689,7 +689,7 @@ Echter, deze nagelaten Domeinafspraken en systemen zullen al hun betekenis en au
 
 De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intrekken, gebruikmakend van welke autoriteit en welk proces dan ook die ze hebben gebruikt om het aan te nemen. Wijzigingen moeten schriftelijk worden gemaakt en gepubliceerd worden op een plek die voor alle Partners van de Organisatie toegankelijk is. 
 
-## Bijlage A: Definitie Van Kernrollen
+## Bijlage A: Definitie Van KernRollen
 
 ### Stuurman
 
@@ -699,7 +699,7 @@ De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intre
 
 **Verantwoordelijkheden:**
 
-* Vertalen van het werk van de cirkel in gesegmenteerde rollen (en indien nodig ander Bestuur)
+* Vertalen van het werk van de cirkel in gesegmenteerde Rollen (en indien nodig ander Bestuur)
 
 * Toewijzen van Partners aan de Rollen van de Cirkel; de passendheid bewaken; feedback aanbieden om de passendheid te verbeteren; en het opnieuw toewijzen van Rollen aan andere Partners als het zinvol is voor het verbeteren van de passendheid. 
 
@@ -733,7 +733,7 @@ De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intre
 
 * Begeleiden van de overleggen van de Cirkel die vereist zijn volgens de Broncode.
 
-* Controleren van de Overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de Broncode. 
+* ContRoleren van de Overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de Broncode. 
 
 ### Archivaris
 
