@@ -9,16 +9,16 @@ advies in te winnen bij een rechtsgeldige instantie.
 
 ## Voorwoord
 
-Deze **"Broncode"** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbende"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Holarchie Broncode. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbende besturende of leidende bevoegdheid over heeft. De Gezaghebbende en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Partners"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Broncode en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
+Deze **"Broncode"** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbende"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Holarchie Broncode. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbende besturende of leidende bevoegdheid over heeft. De Gezaghebbende en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Piraten"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Broncode en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
 
 ## Artikel 1: Vervullen van Rollen
 
-Een Rol is de bouwsteen van een Holarchische Organisatie structuur. Dit artikel beslaat de basis bevoegdheden, autoriteit en verplichtingen voor een partner die een Rol bezit.
+Een Rol is de bouwsteen van een Holarchische Organisatie structuur. Dit artikel beslaat de basis bevoegdheden, autoriteit en verplichtingen voor een Piraat die een Rol bezit.
 
 ### 1.1 Definitie van een Rol
 
-Een "Rol" is een organisatorische eenheid die een "doel" uit drukt, "Domeinen" contRoleert en "Verantwoordelijkheden" uit voert.
-De Partners van de Organisatie verrichten werk voor de Organisatie, door te handelen vanuit een expliciet gedefinieerde Rol. Een "Rol" is een bouwsteen van de organisatie met een beschrijvende naam en één of meer van het volgende:
+Een "Rol" is een organisatorische eenheid die een "Doel" uit drukt, "Domeinen" controleert en "Verantwoordelijkheden" uit voert.
+De Piraten in de Organisatie verrichten werk voor de Organisatie, door te handelen vanuit een expliciet gedefinieerde Rol. Een "Rol" is een bouwsteen van de organisatie met een beschrijvende naam en één of meer van het volgende:
 
 **(a)** Een **"Doel"**. De Rol heeft haar eigen Doel die ze na zal nastreven of uitdrukken richting het Hoofd-Doel van de Organisatie. 
 
@@ -28,44 +28,44 @@ De Partners van de Organisatie verrichten werk voor de Organisatie, door te hand
 
 ### 1.2 Verantwoordelijkheden van een Rol vervullen
 
-Wanneer een partner een Rol vervult accepteert diegene de volgende verantwoordelijkheden:
+Wanneer een Piraat een Rol vervult accepteert diegene de volgende verantwoordelijkheden:
 
 #### 1.2.1 Spanningen verwerken
 
-Een partner is verantwoordelijk voor het waarnemen van "spanningen" voor die Rol en de verwerking daarvan. Een Spanning is: _het verschil tussen hoe je **weet** dat het is en hoe je **wilt** dat het is._ De spanning word verwerkt in een Rol- of Actie Overleg
+Een Piraat is verantwoordelijk voor het waarnemen van "spanningen" voor die Rol en de verwerking daarvan. Een Spanning is: _het verschil tussen hoe je **weet** dat het is en hoe je **wilt** dat het is._ De spanning word verwerkt in een Rol- of Actie Overleg
 
 #### 1.2.2 Verwerken van verantwoordelijkheden
 
-Een partner is verantwoordelijk voor het opdelen van de verantwoordelijkheden van hun Rol in projecten en Acties om dichter bij het doel te komen. Een project is een resultaat bereiken, en de Actie is een concrete, fysieke actie die onmiddellijk kan worden uitgevoerd als de tijd het toestaan.
+Een Piraat is verantwoordelijk voor het opdelen van de verantwoordelijkheden van hun Rol in projecten en Acties om dichter bij het Doel te komen. Een project is een resultaat bereiken, en de Actie is een concrete, fysieke actie die onmiddellijk kan worden uitgevoerd als de tijd het toestaan.
 
 #### 1.2.3 Projecten verwerken
 
-Een partner is verantwoordelijk voor het opdelen van al hun projecten in Acties.
+Een Piraat is verantwoordelijk voor het opdelen van al hun projecten in Acties.
 
 #### 1.2.4 Bijhouden van Projecten, Eerstvolgende Acties en Spanningen
 
-Een partner is verantwoordelijk voor het bijhouden van hun projecten en Acties in een tastbaar systeem buiten hun geest (database, lijst ...), en het 'up-to-date' houden van dit systeem, zodat deze wordt behouden als betrouwbare lijst van het actieve en potentiële werk van je Rollen. Je bent ook verantwoordelijk voor het vastleggen van Spanningen die je identificeert voor je Rol, in ieder geval totdat je ze verwerkt in gewenste Projecten of Eerstvolgende Acties, of ze op een andere manier oplost. 
+Een Piraat is verantwoordelijk voor het bijhouden van hun projecten en Acties in een tastbaar systeem buiten hun geest (database, lijst ...), en het 'up-to-date' houden van dit systeem, zodat deze wordt behouden als betrouwbare lijst van het actieve en potentiële werk van je Rollen. Je bent ook verantwoordelijk voor het vastleggen van Spanningen die je identificeert voor je Rol, in ieder geval totdat je ze verwerkt in gewenste Projecten of Eerstvolgende Acties, of ze op een andere manier oplost. 
 
 #### 1.2.5 Aandacht en middelen beheren
 
-Een partner is verantwoordelijk voor het bewust en voortdurend kiezen aan welke projecten en Acties men arbeid en/of middelen besteed ten aanzien van alle beschikbare opties.
+Een Piraat is verantwoordelijk voor het bewust en voortdurend kiezen aan welke projecten en Acties men arbeid en/of middelen besteed ten aanzien van alle beschikbare opties.
 Als je tijd beschikbaar hebt om te handelen in je Rol, ben je verantwoordelijk om te bedenken welke potentiële Eerstvolgende Actie je efficiënt en effectief kunt uitvoeren op dat moment, en diegene uit te voeren waarvan jij gelooft dat deze de meeste waarde toevoegt. 
 
 ### 1.3. Autoriteit om te handelen
 
-Als je als Partner een Rol vervult heb je de autoriteit om elke Eerstvolgende Acties uit te voeren waarvan jij gelooft dat ze zinvol is voor het behalen van het doel en de Verantwoordelijkheden van jouw Rol. 
+Als je als Piraat een Rol vervult heb je de autoriteit om elke Eerstvolgende Acties uit te voeren waarvan jij gelooft dat ze zinvol is voor het behalen van het Doel en de Verantwoordelijkheden van jouw Rol. 
 
-Elke Rol is autonoom en het is je dus niet toegestaan om contRole uit te oefenen op een Rol of entiteit die je niet vervult, tenzij; je expliciet toestemming hebt van de Partner die deze Rol vervult of, als er een noodzaak is voor een Individuele actie zoals bepaald in artikel 4.3 
+Elke Rol is autonoom en het is je dus niet toegestaan om controle uit te oefenen op een Rol of entiteit die je niet vervult, tenzij; je expliciet toestemming hebt van de Piraat die deze Rol vervult of, als er een noodzaak is voor een Individuele actie zoals bepaald in artikel 4.3 
 
 De autoriteit verkregen in deze paragraaf wordt mede bepaald door Artikel 2.1. 
 
 ### 1.4 Autoriteit over Domeinen
 
-Als Partner die een Rol vervult heb je de autoriteit om ieder Domein van jouw Rol te contRoleren en reguleren. Als een ander toestemming vraagt om het domein te beïnvloedden ben je verplicht het verzoek te beoordelen en expliciet wel of geen toestemming te geven. 
+Als Piraat die een Rol vervult heb je de autoriteit om ieder Domein van jouw Rol te controleren en reguleren. Als een ander toestemming vraagt om het domein te beïnvloedden ben je verplicht het verzoek te beoordelen en expliciet wel of geen toestemming te geven. 
 
 #### 1.4.1 Beleid
 
-Je kunt ook ‘Beleid’ definiëren voor jouw Domeinen. Dit is ofwel; een *toezegging* van autoriteit die een Rol in staat stelt om contRole of regulering uit te oefenen binnen een domein, ofwel een *beperkingen* van autoriteit over de volledige contRole en regulering binnen een domein. Voordat een Beleid geldig word moet het eerst gepubliceerd worden en een afgesproken periode inzichtelijk zijn voor alle Rollen waarop het Beleid invloed op heeft.
+Je kunt ook ‘Beleid’ definiëren voor jouw Domeinen. Dit is ofwel; een *toezegging* van autoriteit die een Rol in staat stelt om controle of regulering uit te oefenen binnen een domein, ofwel een *beperkingen* van autoriteit over de volledige controle en regulering binnen een domein. Voordat een Beleid geldig word moet het eerst gepubliceerd worden en een afgesproken periode inzichtelijk zijn voor alle Rollen waarop het Beleid invloed op heeft.
 
 De autoriteit verkregen in deze paragraaf wordt mede bepaald door Artikel 2.1. 
 
@@ -75,7 +75,7 @@ Een Cirkel bevat een integreert vele Rollen. Dit artikel beschrijft hoe een Cirk
 
 ### 2.1 Cirkel fundamenten
 
-Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere Rollen, zodat meerdere partners samen kunnen werken aan de uitdrukking van het algemene doel en verantwoordelijkheden van die Cirkel. Een **"Cirkel"** kan haar eigen Rollen definiëren, haar Domeinen contRoleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn **"Gedefinieerde"** **"Rollen"** en liggen vast in het **"Bestuurs-Document"**, en elke Partner die een van de Gedefinieerde Rollen vervult is een **"Piraat"** van die Cirkel. Een Cirkel heeft altijd minimaal drie **Piraten**
+Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere Rollen, zodat meerdere Piraats samen kunnen werken aan de uitdrukking van het algemene Doel en verantwoordelijkheden van die Cirkel. Een **"Cirkel"** kan haar eigen Rollen definiëren, haar Domeinen controleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn **"Gedefinieerde"** **"Rollen"** en liggen vast in het **"Bestuurs-Document"**, en elke Piraat die een van de Gedefinieerde Rollen vervult is een **"Piraat"** van die Cirkel. Een Cirkel heeft altijd minimaal drie **Piraten**
 
 #### 2.1.1 Rollen en Beleid definiëren 
 
@@ -85,17 +85,17 @@ Verder beheer iedere **Cirkel** haar eigen verantwoordelijkheden en acties alsof
 
 #### 2.1.2 Rollen mogen invloed uitoefenen op Domeinen
 
-Als je een Rol vervult in een Cirkel dan mag je de vastgestelde Domeinen van die Cirkel contRoleren en beïnvloeden. Echter, je moet je houden aan eventueel Beleid dat van toepassing is op die Domeinen zoals beschreven in 1.4. 
+Als je een Rol vervult in een Cirkel dan mag je de vastgestelde Domeinen van die Cirkel controleren en beïnvloeden. Echter, je moet je houden aan eventueel Beleid dat van toepassing is op die Domeinen zoals beschreven in 1.4. 
 
 Verder mag je het Domein of aanverwante verantwoordelijkheden niet overdragen of er afstand van doen, ook mag je de rechten van de Cirkel niet aanzienlijk beperken ten opzichte van het Domein. Echter, deze beperkingen zijn niet van toepassingen als een Rol of proces met die autoriteit jouw Rol de toestemming geeft om dit te doen. 
 
 #### 2.1.3 Delegeren van een Domein
 
-Wanneer een een Cirkel een domein delegeert aan een Rol krijgt deze de invloed om contRole en regulatie uit te oefenen binnen dit domein in plaats van die cirkel. 
+Wanneer een een Cirkel een domein delegeert aan een Rol krijgt deze de invloed om controle en regulatie uit te oefenen binnen dit domein in plaats van die cirkel. 
 
 Echter, de Cirkel behoud haar recht om het gedelegeerte Domein aan te passen of te verwijderen, en/of om Beleid te definiëren voor dat Domein.
 
-Standaard mag een Rol die een gedelegeert Domein contRoleert deze, of significante activa binnen dit domein, niet opheffen of overdragen naar een entiteit buiten die cirkel. Of de cirkel de contRole over het domein ontzeggen. Een cirkel kan deze regel veranderen door het definiërenvan een beleid op het domein van de Cirkel.
+Standaard mag een Rol die een gedelegeert Domein controleert deze, of significante activa binnen dit domein, niet opheffen of overdragen naar een entiteit buiten die cirkel. Of de cirkel de controle over het domein ontzeggen. Een cirkel kan deze regel veranderen door het definiërenvan een beleid op het domein van de Cirkel.
 
 Een domein is altijd gelimiteerd door de autoriteit die het in eerste instantie had.
 
@@ -107,7 +107,7 @@ De persoon die de Stuurman Rol vervult wordt **Stuurman** genoemd wanneer deze h
 
 #### 2.2.1 Vult ongedefinieerde functies in
 
-De Stuurman is de eindverantwoordelijke van een Cirkel en vervult het doel en alle Verantwoordelijkheden van de Cirkel en beheert elk Domein van die Cirkel. Tenzij de Verantwoordelijkheden en domeinen zijn gedefinieerd in een Rol binnen die Cirkel of op een andere manier zijn gedelegeert. 
+De Stuurman is de eindverantwoordelijke van een Cirkel en vervult het Doel en alle Verantwoordelijkheden van de Cirkel en beheert elk Domein van die Cirkel. Tenzij de Verantwoordelijkheden en domeinen zijn gedefinieerd in een Rol binnen die Cirkel of op een andere manier zijn gedelegeert. 
 
 Verder mag de Stuurman geen Domeinafspraken definiëren die de Rollen van de Cirkel beperken, behalve wanneer dat gebeurt via het Rol Overleg van de Cirkel. 
 
@@ -119,7 +119,7 @@ Bovendien kan de Stuurman een meer algemene ‘Strategie’ of meerdere strategi
 
 #### 2.2.1 Wijzigingen van de Stuurman Rol
 
-Een Cirkel mag geen Verantwoordelijkheden of andere functies toevoegen aan de Stuurman Rol. Ook mag het doel van deze Rol niet aangepast worden en kan de Rol niet verwijderd worden. 
+Een Cirkel mag geen Verantwoordelijkheden of andere functies toevoegen aan de Stuurman Rol. Ook mag het Doel van deze Rol niet aangepast worden en kan de Rol niet verwijderd worden. 
 
 Echter, een Cirkel mag Verantwoordelijkheden, Domeinen, bevoegdheden of functies van de Stuurman Rol wel delegeren door ze bij een andere Rol in de Cirkel te plaatsen, of door een alternatieve manier te bepalen om ze uit te voeren. Als dit gebeurt. verdwijnt automatisch de relevantie of de autoriteit van de Stuurman Rol zolang deze delegatie in stand blijft. 
 
@@ -133,7 +133,7 @@ De leden van ene Cirkel houden zich aan de volgende regels:
 
 Tenzij er een speciale afspraak of uitsluiting wordt gemaakt onder de voorwaarden van dit Artikel, zijn de de leden van de Cirkel:
 
-**(a)** iedere Partner die een Rol vervult binnen die Cirkel;
+**(a)** iedere Piraat die een Rol vervult binnen die Cirkel;
 
 **(b)** de Stuurman van de Cirkel, zoals vastgelegd in Artikel 2.2;
 
@@ -141,15 +141,15 @@ Tenzij er een speciale afspraak of uitsluiting wordt gemaakt onder de voorwaarde
 
 **(d)** iedere KoppelLink in die Cirkel, zoals vastgelegd in Artikel 2,7. 
 
-#### 2.3.2 Vertegenwoordiging van Rollen met meerdere Partners
+#### 2.3.2 Vertegenwoordiging van Rollen met meerdere Piraten
 
-Als een Rol wordt ingevuld door meerdere partners, kan een Cirkel een domein instellen waarmee slechts een van die Partners aangesteld word als vertegenwoordiger van die Rol. Als dat zo is gedraagt deze Partner zich als een RepLink om de spanningen van de andere Partners te vertegenwoordigen. Binnen deze Domein afspraak is er minimaal 1 Partner die deze Rol vervult als Lid van de Cirkel en deze moet kunnen verantwoorden hoe deze vertegenwoordiging is bepaald. 
+Als een Rol wordt ingevuld door meerdere Piraats, kan een Cirkel een domein instellen waarmee slechts een van die Piraten aangesteld word als vertegenwoordiger van die Rol. Als dat zo is gedraagt deze Piraat zich als een RepLink om de spanningen van de andere Piraten te vertegenwoordigen. Binnen deze Domein afspraak is er minimaal 1 Piraat die deze Rol vervult als Lid van de Cirkel en deze moet kunnen verantwoorden hoe deze vertegenwoordiging is bepaald. 
 
 #### 2.3.3 Uitsluiting bij minimale besteding van aandacht
 
-Soms besteedt een Partner slechts een zeer klein, bijna verwaarloosbaar gedeelte van zijn aandacht aan een Rol in de Cirkel. Als de Stuurman van de Cirkel denkt dat dit redelijkerwijs het geval is, dan kan de Stuurman deze Partner in deze Rol uitsluiten als lid van de Cirkel. 
+Soms besteedt een Piraat slechts een zeer klein, bijna verwaarloosbaar gedeelte van zijn aandacht aan een Rol in de Cirkel. Als de Stuurman van de Cirkel denkt dat dit redelijkerwijs het geval is, dan kan de Stuurman deze Piraat in deze Rol uitsluiten als lid van de Cirkel. 
 
-Als een Partner op deze manier wordt uitgesloten, heeft de Stuurman de plicht om Spanningen te overdenken en te verwerken die worden overgebracht door de uitgesloten Partner, precies zoals een RepLink zou doen als de Rol een Sub Cirkel zou zijn, tenzij er een ander manier voor de uitgesloten Partner is bepaald om Spanningen gerelateerd aan deze Rol te verwerken. 
+Als een Piraat op deze manier wordt uitgesloten, heeft de Stuurman de plicht om Spanningen te overdenken en te verwerken die worden overgebracht door de uitgesloten Piraat, precies zoals een RepLink zou doen als de Rol een Sub Cirkel zou zijn, tenzij er een ander manier voor de uitgesloten Piraat is bepaald om Spanningen gerelateerd aan deze Rol te verwerken. 
 
 #### 2.3.4 Speciale benoeming van Cirkel leden
 
@@ -157,21 +157,21 @@ De Stuurman van de Cirkel kan extra personen aanwijzen als lid van de Cirkel, na
 
 ### 2.4 Rol toewijzing
 
-De Stuurman van de Cirkel kan Partners toewijzen aan een Rol in de Cirkel, tenzij deze autoriteit is beperkt of gedelegeert. 
+De Stuurman van de Cirkel kan Piraten toewijzen aan een Rol in de Cirkel, tenzij deze autoriteit is beperkt of gedelegeert. 
 
 #### 2.4.1 Onvervulde Rollen
 
-Als een Rol in een Cirkel niet door een Partner wordt vervuld word deze toegewezen aan de Stuurman. 
+Als een Rol in een Cirkel niet door een Piraat wordt vervuld word deze toegewezen aan de Stuurman. 
 
 #### 2.4.2 Rollen toewijzen aan meerdere personen
 
-Een Rol kan aan meerdere Partners worden toegekend, zolang het duidelijk is wie welke verantwoordelijkheden en bevoegdheden van die specifieke Rol vervult. Een manier om dit helder te houden is om een ‘Focus’ te specificeren bij iedere toewijzing. 
+Een Rol kan aan meerdere Piraten worden toegekend, zolang het duidelijk is wie welke verantwoordelijkheden en bevoegdheden van die specifieke Rol vervult. Een manier om dit helder te houden is om een ‘Focus’ te specificeren bij iedere toewijzing. 
 
-Als een Rol toewijzing een Focus bevat dan geldt dat: het doel, de Verantwoordelijkheden en Domeinen van die Rol uitgevoerd worden door die specifieke Partner binnen die Focus. 
+Als een Rol toewijzing een Focus bevat dan geldt dat: het Doel, de Verantwoordelijkheden en Domeinen van die Rol uitgevoerd worden door die specifieke Piraat binnen die Focus. 
 
 #### 2.4.3 Afstand doen van Rollen
 
-Een Partner die een Rol vervult kan daar op ieder moment afstand van doen, tenzij er een andere afspraak geld, door dat te laten weten aan de persoon die de toewijzing van die Rol beheert - standaard is dat de Stuurman. 
+Een Piraat die een Rol vervult kan daar op ieder moment afstand van doen, tenzij er een andere afspraak geld, door dat te laten weten aan de persoon die de toewijzing van die Rol beheert - standaard is dat de Stuurman. 
 
 ### 2.5 Verkozen Rollen
 
@@ -179,7 +179,7 @@ Elke Cirkel heeft een **"Scheids Rol"**, een **"Archivaris Rol"** en een **"RepL
 
 #### 2.5.1 Verkiezingen en verkiesbaarheid
 
-De Scheids van elke Cirkel begeleidt terugkerende verkiezingen volgens de regels van artikel 3.3.5 om een Partner die lid is van een Cirkel te verkiezen voor de verkiesbare Rollen. Alle leden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Partner die de Stuurman van de Cirkel vervult, deze mag niet worden gekozen als Scheids of Cirkel Vertegenwoordiger. 
+De Scheids van elke Cirkel begeleidt terugkerende verkiezingen volgens de regels van artikel 3.3.5 om een Piraat die lid is van een Cirkel te verkiezen voor de verkiesbare Rollen. Alle leden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Piraat die de Stuurman van de Cirkel vervult, deze mag niet worden gekozen als Scheids of Cirkel Vertegenwoordiger. 
 
 #### 2.5.2 Verkiezingstermijn en herzien van verkiezingen 
 
@@ -189,17 +189,17 @@ Echter, nog voordat een termijn is verstreken kan elk lid van de Cirkel een nieu
 
 #### 2.5.3 Wijzigen van Verkozen Rollen
 
-Een Cirkel kan Verantwoordelijkheden of domeinen toevoegen aan haar Verkozen Rollen en kan die toevoegingen later weer aanpassen of verwijderen. Het is niet mogelijk om het standaard doel, de domeinen en/of verantwoordelijkheden zoals vastgesteld in bijlage A te veranderen of te verwijderen.
+Een Cirkel kan Verantwoordelijkheden of domeinen toevoegen aan haar Verkozen Rollen en kan die toevoegingen later weer aanpassen of verwijderen. Het is niet mogelijk om het standaard Doel, de domeinen en/of verantwoordelijkheden zoals vastgesteld in bijlage A te veranderen of te verwijderen.
 
 Een Cirkel kan niets veranderen aan verkozen Rollen van andere cirkels, met inbegrip van RepLinks uit Sub-Cirkels.
 
 #### 2.5.4 Vervanging van verkozen Rollen
 
-Een vervangende Partner kan tijdelijk een Verkozen Rol vervullen wanneer deze niet is vervuld, of als de persoon die de Rol normaal vervult niet beschikbaar is voor een Cirkel overleg of wanneer deze zich niet in staat of bereid voelt om de taken van de Rol uit te voeren. 
+Een vervangende Piraat kan tijdelijk een Verkozen Rol vervullen wanneer deze niet is vervuld, of als de persoon die de Rol normaal vervult niet beschikbaar is voor een Cirkel overleg of wanneer deze zich niet in staat of bereid voelt om de taken van de Rol uit te voeren. 
 
 Als er een vervanger nodig is, dan wordt de vervanger bepaald in deze volgorde:
 
-**(a)** iemand die expliciet is bepaald door de partner die de Rol voorheen vervulde; of
+**(a)** iemand die expliciet is bepaald door de Piraat die de Rol voorheen vervulde; of
 
 **(b)** de Scheids van de Cirkel; of
 
@@ -226,8 +226,8 @@ Een Cirkel kan een Sub-Cirkel verwijderen door middel van bestuur door;
 
 #### 2.6.3 Stuurman van Sub-Cirkel
 
-De Stuurman van een Cirkel kan een Partner aanwijzen om de Stuurman Rol voor een Sub-Cirkel te vervullen, gebruikmakend van dezelfde regels die gelden als de Stuurman personen toewijst aan andere Gedefinieerde Rollen van de Cirkel.
-Of de Partner die de oorspronkelijk Rol vervulde word de Stuurman van die Sub-Cirkel.
+De Stuurman van een Cirkel kan een Piraat aanwijzen om de Stuurman Rol voor een Sub-Cirkel te vervullen, gebruikmakend van dezelfde regels die gelden als de Stuurman personen toewijst aan andere Gedefinieerde Rollen van de Cirkel.
+Of de Piraat die de oorspronkelijk Rol vervulde word de Stuurman van die Sub-Cirkel.
 Of er vinden verkiezingen plaats voor de Rol van Stuurman voor die Sub-Cirkel
 
 #### 2.6.4 Cirkel Vertegenwoordiger naar Sub-Cirkel
@@ -246,13 +246,13 @@ Zodra een KoppelLink Domeinafspraak is aangenomen, kan de Gelinkte Entiteit een 
 
 Als de Gelinkte Entiteit een Rol is, dan mag die Rol zoals hieronder beschreven deelnemen in de Doel-Cirkel. Dit is de ‘KoppelLink Rol’ en de persoon die deze vervult wordt de ‘KoppelLink’. 
 
-Als de Gekoppelde Entiteit een Cirkel of een groep is, dan wordt in plaats daarvan automatisch een nieuwe KoppelLink Rol met een eigen Doel gecreëerd, welke tot zowel de Gelinkte Identiteit als de Doel-Cirkel behoort, ongeveer zoals een RepLink. In dit geval heeft de KoppelLink Rol hetzelfde doel en Verantwoordelijkheden als een Cirkel Vertegenwoordiger. Maar waar bij de Cirkel Vertegenwoordiger wordt verwezen naar de Cirkel, wordt hier de Gelinkte Identiteit bedoeld. En waar wordt verwezen naar de Super-Cirkel wordt hier Doel-Cirkel bedoeld. 
+Als de Gekoppelde Entiteit een Cirkel of een groep is, dan wordt in plaats daarvan automatisch een nieuwe KoppelLink Rol met een eigen Doel gecreëerd, welke tot zowel de Gelinkte Identiteit als de Doel-Cirkel behoort, ongeveer zoals een RepLink. In dit geval heeft de KoppelLink Rol hetzelfde Doel en Verantwoordelijkheden als een Cirkel Vertegenwoordiger. Maar waar bij de Cirkel Vertegenwoordiger wordt verwezen naar de Cirkel, wordt hier de Gelinkte Identiteit beDoeld. En waar wordt verwezen naar de Super-Cirkel wordt hier Doel-Cirkel beDoeld. 
 
-Als de Gekoppelde Entiteit geen helder doel en geen enkele heldere Verantwoordelijkheden heeft, dan moet het KoppelLink Beleid worden verhelderd door te definiërenwat de KoppelLink Rol vertegenwoordigd in de Doel-Cirkel. 
+Als de Gekoppelde Entiteit geen helder Doel en geen enkele heldere Verantwoordelijkheden heeft, dan moet het KoppelLink Beleid worden verhelderd door te definiërenwat de KoppelLink Rol vertegenwoordigd in de Doel-Cirkel. 
 
 #### 2.7.2 KoppelLink toewijzing
 
-Als de Gekoppelde Entiteit een Cirkel of een groep is, dan mag deze een Partner aanwijzen om de KoppelLink te vervullen, gebruikmakend van het proces dat de Entiteit of groep al gebruikt voor het toewijzen van Partners om Rollen of gelijksoortige werkfuncties te vervullen. 
+Als de Gekoppelde Entiteit een Cirkel of een groep is, dan mag deze een Piraat aanwijzen om de KoppelLink te vervullen, gebruikmakend van het proces dat de Entiteit of groep al gebruikt voor het toewijzen van Piraten om Rollen of gelijksoortige werkfuncties te vervullen. 
 
 Als een Gekoppelde Entiteit een groep vertegenwoordigt die geen duidelijk proces of heldere autoriteit heeft om de KoppelLink Rol toe te wijzen, dan kan in plaats daarvan de Doel-Cirkel iemand toewijzen aan de KoppelLink Rol, tenzij anders gespecificeerd in de KoppelLink Rol Domeinafspraak. 
 
@@ -291,14 +291,14 @@ Op ieder willekeurig moment definiëren de dan actuele resultaten van het Bestuu
 
 Elk lid van een Cirkel kan een voorstel doen om het Bestuur van die Cirkel te veranderen door een **"Voorstel"** te doen als **"Indiener"**.
 
-Voordat een Voorstel wordt aangenomen moeten alle leden van de Cirkel de mogelijkheid hebben om Spanningen te benoemen. Als een Spanning voldoet aan de criteria die zijn vastgelegd in dit Artikel (3) spreken we van een **"Bezwaar"** en de Partner die de Spanning inbrengt wordt de **"Bezwaarmaker"**.
+Voordat een Voorstel wordt aangenomen moeten alle leden van de Cirkel de mogelijkheid hebben om Spanningen te benoemen. Als een Spanning voldoet aan de criteria die zijn vastgelegd in dit Artikel (3) spreken we van een **"Bezwaar"** en de Piraat die de Spanning inbrengt wordt de **"Bezwaarmaker"**.
 
 Voorstellen worden beschouwd als aangenomen en wijzigen het Bestuur van de Cirkel als er geen Bezwaren zijn. Als er Bezwaren worden ingebracht moeten de Bezwaarmaker en de Indiener de Bezwaren oplossen waarna alle leden van de Cirkel een volgende mogelijkheid krijgen om andere Bezwaren te benoemen voordat het aangepaste Voorstel wordt aangenomen.
 
 #### 3.2.1 Voorstellen doen
 
 Elk lid van de Cirkel mag een Voorstel doen in het **"Rol Overleg"**, volgens de regels van Artikel 3.3. 
-Als alternatief kan een Voorsteller ook een Voorstel indienen aan alle leden van de Cirkel buiten een Rol Overleg, hierbij  gebruik makend van een communicatie-kanaal dat door de Archivaris voor dit doel is goedgekeurd. 
+Als alternatief kan een Voorsteller ook een Voorstel indienen aan alle leden van de Cirkel buiten een Rol Overleg, hierbij  gebruik makend van een communicatie-kanaal dat door de Archivaris voor dit Doel is goedgekeurd. 
 
 Als dit gebeurt kan de Scheids hetzelfde proces en dezelfde regels toepassen die worden gebruikt tijdens een Rol Overleg, of toestaan dat ieder lid van de Cirkel direct verklaart of er wel of geen Bezwaren zijn om te integreren. Op ieder moment, totdat het ingediende Voorstel buiten het Rol Overleg is aangenomen, kan de Scheids of elk willekeurig lid van de Cirkel het proces buiten het Rol Overleg stoppen door de Voorsteller te verzoeken het Voorstel naar een Rol Overleg te brengen.
 
@@ -308,11 +308,11 @@ Een Cirkel kan Domeinafspraken aannemen om te beperken hoe en wanneer Voorstelle
 
 Sommige Voorstellen worden niet toegestaan tijdens het Bestuur Proces van de Cirkel en de Scheids kan deze afwijzen voordat ze volledig verwerkt zijn.
 
-Om geldig te zijn voor verwerking moet een Voorstel een Spanning oplossen of verminderen die wordt waargenomen door de Voorsteller. Een Voorstel helpt de Indiener het Doel of een Verantwoordelijkheid van een van de Rollen die de Partner vervult in de Cirkel beter uit te drukken. 
+Om geldig te zijn voor verwerking moet een Voorstel een Spanning oplossen of verminderen die wordt waargenomen door de Voorsteller. Een Voorstel helpt de Indiener het Doel of een Verantwoordelijkheid van een van de Rollen die de Piraat vervult in de Cirkel beter uit te drukken. 
 
-Een partner mag alleen een voorstel doen voor een Rol die door een andere Partner vervuld word als die Partner daar expliciet toestemming voor heeft gegeven.
+Een Piraat mag alleen een voorstel doen voor een Rol die door een andere Piraat vervuld word als die Piraat daar expliciet toestemming voor heeft gegeven.
 
-Een Voorstel is altijd geldig, ongeacht de voorgaande criteria, als het uitsluitend is bedoeld om het Bestuur van de Cirkel met meer helderheid te laten reflecteren wat er al in de praktijk gebeurt, of om een nieuwe verkiezing te initiëren. 
+Een Voorstel is altijd geldig, ongeacht de voorgaande criteria, als het uitsluitend is beDoeld om het Bestuur van de Cirkel met meer helderheid te laten reflecteren wat er al in de praktijk gebeurt, of om een nieuwe verkiezing te initiëren. 
 
 #### 3.2.3 Voorstellen testen
 
@@ -331,7 +331,7 @@ Sommige Spanningen gelden niet als Bezwaren en kunnen genegeerd worden tijden de
 
 **(c)** De Spanning word veroorzaakt door reeds bekende feiten of gebeurtenissen, zonder daarbij rekening te houden met voorspellingen van wat er mogelijk in de toekomst zou kunnen gebeuren. Echter, een beroep doen op voorspellingen is toegestaan wanneer er in de toekomst waarschijnlijk geen gelegenheid is om de schade adequaat waar te nemen en te reageren voordat het Voorstel tot significante impact heeft geleid. 
 
-**(d)** De Spanning beperkt de capaciteit van de Bezwaarmaker om het Doel of een Verantwoordelijkheid uit te voeren van een van de Rollen in de Cirkel. Of als het een andere Rol beperkt, maar de Bezwaarmaker mag de Rol alleen vertegenwoordigen als er expliciet toestemming is gegeven door de Partner die deze Rol normaal vervult.
+**(d)** De Spanning beperkt de capaciteit van de Bezwaarmaker om het Doel of een Verantwoordelijkheid uit te voeren van een van de Rollen in de Cirkel. Of als het een andere Rol beperkt, maar de Bezwaarmaker mag de Rol alleen vertegenwoordigen als er expliciet toestemming is gegeven door de Piraat die deze Rol normaal vervult.
 
 Echter, ongeacht bovenstaande criteria telt een Spanning altijd als een Bezwaar als:
 
@@ -373,7 +373,7 @@ De Scheids is verantwoordelijk voor het voorzitten van alle Rol Overleggen in li
 
 Alle Leden van een Cirkel hebben het recht om volledig mee te doen in alle Rol Overleggen van die Cirkel. Een waarnemende Scheids en/of Archivaris hebben ook het recht om volledig mee te doen en worden Leden van de Cirkel tijdens een Rol Overleg, zelfs als ze normaal geen leden van die Cirkel zijn. 
 
-Bovendien mogen de Stuurman en iedere RepLink en KoppelLink van een Cirkel één extra Partner uitnodigen, maar uitsluitend om de -Link te helpen bij het verwerken van een specifieke Spanning. De uitgenodigde Partner wordt een Lid van die Cirkel voor de duur van dat Rol Overleg. Naast de personen genoemd in dit Artikel, is het niemand anders toegestaan om deel te nemen aan een Rol Overleg van een Cirkel, tenzij deze expliciet uitgenodigd is via een Beleid van de Cirkel. 
+Bovendien mogen de Stuurman en iedere RepLink en KoppelLink van een Cirkel één extra Piraat uitnodigen, maar uitsluitend om de -Link te helpen bij het verwerken van een specifieke Spanning. De uitgenodigde Piraat wordt een Lid van die Cirkel voor de duur van dat Rol Overleg. Naast de personen genoemd in dit Artikel, is het niemand anders toegestaan om deel te nemen aan een Rol Overleg van een Cirkel, tenzij deze expliciet uitgenodigd is via een Beleid van de Cirkel. 
 
 #### 3.3.1 Aankondiging en minimum aantal deelnemers
 
@@ -389,13 +389,13 @@ Iedereen die er niet in slaagt om aanwezig te zijn bij een Rol Overleg geld als 
 
 De Scheids moet de volgende stappen gebruiken voor Rol Overleggen en helder aangeven in welke stap het overleg zich bevind:
 
-**(a) Openings-Ronde:** De Scheids geeft iedere Partner om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Rol Overleg te delen. Reacties zijn niet toegestaan.
+**(a) Openings-Ronde:** De Scheids geeft iedere Piraat om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Rol Overleg te delen. Reacties zijn niet toegestaan.
 
 **(b) Administratieve Mededelingen:** De Scheids geeft de ruimte om relevante administratieve of logistieke onderwerpen te bespreken en op te lossen.
 
 **(c) Agenda Opbouw en Verwerking:** De Scheids bouwt een agenda aan de hand van de actuele spanningen van de leden en verwerkt deze vervolgens om de beurt.
 
-**(d) Sluitings-Ronde:** De Scheids geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Rol Overleg, te delen. Reacties zijn niet toegestaan. 
+**(d) Sluitings-Ronde:** De Scheids geeft iedere Piraat om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Rol Overleg, te delen. Reacties zijn niet toegestaan. 
 
 Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag niet in strijd zijn met een van de stappen of andere regels die zijn gedefinieerd in dit Artikel van de Broncode. 
 
@@ -420,7 +420,7 @@ De Scheids voert het Integratief Besluitvormingsproces als volgt uit:
 
 **(c) Reactieronde:** Zodra er geen verhelderende vragen meer zijn mag ieder Lid, met uitzondering van de Voorsteller, één voor één reacties geven op het Voorstel. De Scheids moet reacties buiten de beurt om, of iedere andere poging om anderen in een dialoog te betrekken of uitwisselingen van dien aard en elke reactie op andere reacties in plaats van op het Voorstel, niet tolereren en direct stoppen. 
 
-**(d) Verduidelijken en Wijzigen:** Na de reactieronde mag de Voorsteller het voorstel verduidelijken als antwoord op de reacties en wijzigingen doen aan het Voorstel. Echter, het doel van iedere wijziging moet zijn om de Spanning van de Voorsteller beter aan te spreken, niet de Spanningen van anderen. Tijdens deze stap worden alle reactie van alle Leden, behalve die van de Voorsteller of de Archivaris, niet getolereerd en moeten door de Scheids gestopt worden. Iedere bijdrage van de Archivaris moet uitsluitend gericht zijn op het vastleggen van het gewijzigde Voorstel. 
+**(d) Verduidelijken en Wijzigen:** Na de reactieronde mag de Voorsteller het voorstel verduidelijken als antwoord op de reacties en wijzigingen doen aan het Voorstel. Echter, het Doel van iedere wijziging moet zijn om de Spanning van de Voorsteller beter aan te spreken, niet de Spanningen van anderen. Tijdens deze stap worden alle reactie van alle Leden, behalve die van de Voorsteller of de Archivaris, niet getolereerd en moeten door de Scheids gestopt worden. Iedere bijdrage van de Archivaris moet uitsluitend gericht zijn op het vastleggen van het gewijzigde Voorstel. 
 
 **(e) Bezwarenronde:** Vervolgens mag ieder Lid één voor één een mogelijk Bezwaar op het aannemen van het Voorstel inbrengen. De Scheids moet discussies of reacties van elke soort niet tolereren en stoppen. De Scheids mag Bezwaren testen zoals beschreven in Artikel 3.2.5 en moet ieder geldig Bezwaar vastleggen. Als er geen geldige Bezwaren zijn legt de Archivaris het Voorstel vast als aangenomen Bestuur voor de Cirkel. 
 
@@ -452,13 +452,13 @@ De Scheids moet het Integratief Verkiezingsproces als volgt uitvoeren:
 
 #### 3.3.7 Operationele beslissingen in Rol Overleggen
 
-Rol Overleggen zijn primair bedoeld om het Bestuursproces van de Cirkel te ondersteunen. Maar zolang het niet afleidt mag ieder Lid tijdens een Rol Overleg Projecten of Eerstvolgende Acties accepteren, of andere operationele beslissingen maken, die buiten de scope van het Bestuursproces van de Cirkel vallen. Echter, de Archivaris mag geen enkele operationele uitkomsten of beslissingen vastleggen in het formele Bestuurs-Document van de Cirkel. 
+Rol Overleggen zijn primair beDoeld om het Bestuursproces van de Cirkel te ondersteunen. Maar zolang het niet afleidt mag ieder Lid tijdens een Rol Overleg Projecten of Eerstvolgende Acties accepteren, of andere operationele beslissingen maken, die buiten de scope van het Bestuursproces van de Cirkel vallen. Echter, de Archivaris mag geen enkele operationele uitkomsten of beslissingen vastleggen in het formele Bestuurs-Document van de Cirkel. 
 
 Verder dragen operationele uitkomsten en beslissingen die gemaakt zijn tijdens een Rol Overleg niet meer of minder gewicht of autoriteit dan diegene die gemaakt worden buiten een Rol Overleg. 
 
 ### 3.4. Interpreteren van de Broncode en Bestuur
 
-Als een partner van de Organisatie mag je jouw redelijke oordeel gebruiken om deze Broncode en het vastgelegde Bestuur van de Organisatie te interpreteren, inclusief hoe deze worden toegepast in een specifieke situatie, en handelen op basis van die interpretatie. Je mag er ook op rekenen dat de Archivaris een expliciete interpretatie van het Bestuur van elke Cirkel geeft die wordt beïnvloed door dat Bestuur. Echter, in iedere situatie gelden de volgende aanvullende voorwaarden:
+Als een Piraat van de Organisatie mag je jouw redelijke oordeel gebruiken om deze Broncode en het vastgelegde Bestuur van de Organisatie te interpreteren, inclusief hoe deze worden toegepast in een specifieke situatie, en handelen op basis van die interpretatie. Je mag er ook op rekenen dat de Archivaris een expliciete interpretatie van het Bestuur van elke Cirkel geeft die wordt beïnvloed door dat Bestuur. Echter, in iedere situatie gelden de volgende aanvullende voorwaarden:
 
 #### 3.4.1. Interpretatie van de Archivaris overstemt
 
@@ -495,7 +495,7 @@ Wanneer een daartoe bevoegde partij een Processtoring in een Cirkel constateert 
 
 **(a)** De Scheids van de Super-Cirkel krijgt een Project om het proces te herstellen in die Cirkel; en 
 
-**(b)** De Scheids van de Super-Cirkel krijg de autoriteit om op te treden als Scheids of Archivaris van die Cirkel, of om een andere Partner te benoemen om dat te doen; en
+**(b)** De Scheids van de Super-Cirkel krijg de autoriteit om op te treden als Scheids of Archivaris van die Cirkel, of om een andere Piraat te benoemen om dat te doen; en
 
 **(c)** De Scheids van die Cirkel krijgt de autoriteit om de nauwkeurigheid te beoordelen van alle argumenten die worden gepresenteerd om Spanningen en Bezwaren te valideren in het Bestuursproces van die Cirkel.
 
@@ -525,7 +525,7 @@ Je hebt de plicht om transparantie te geven wanneer dat gevraagd wordt door je m
 **(b) Relatieve prioriteit:** Je moet jouw oordeel over de relatieve prioriteit delen, van alle Projecten of Eerstvolgende Acties die je hebt vastgelegd voor jouw Rollen in de Cirkel, ten opzichte van alle andere potentiële activiteiten die om jouw aandacht en middelen vragen. 
 
 **(c) Schattingen:** Je moet een schatting geven van de datum waarop je verwacht een Project of een Eerstvolgende Actie af te ronden. Een ruwe schatting met het oog op je huidige context en prioriteiten is voldoende, dus zonder gedetailleerde analyse of planning. 
-Deze schatting is op geen enkele manier een bindende verplichting en, tenzij het bestuur iets anders zegt, is er geen verplichting om die schatting vast te leggen, te archiveren, of een verandering terug te koppelen naar de partner die om de schatting gevraagd heeft.
+Deze schatting is op geen enkele manier een bindende verplichting en, tenzij het bestuur iets anders zegt, is er geen verplichting om die schatting vast te leggen, te archiveren, of een verandering terug te koppelen naar de Piraat die om de schatting gevraagd heeft.
 
 **(d) Checklist punten & Metriek:** Je moet delen of je de reguliere, terugkerende, acties die je routinematig uitvoert ten dienste van jouw Rollen in de Cirkel hebt volbracht. Je moet ook Metrieken vastleggen en rapporteren die zijn toegewezen aan jouw Rollen door de Stuurman van de Cirkel of door een andere Rol of ander Proces die de autoriteit heeft gekregen om Metrieken van de Cirkel te definiëren. 
 
@@ -535,7 +535,7 @@ Je hebt de plicht om berichten en verzoeken van je mede Cirkel Leden snel te ver
 
 **(a) Verzoeken voor Verwerking:** Andere Cirkel Leden mogen je vragen om iedere Verantwoordelijkheid of Project van een een Rol die je vervult in de Cirkel te verwerken. Als je daar geen Eerstvolgende Acties voor hebt vastgelegd moet je een Eerstvolgende Actie bepalen en vastleggen wanneer die redelijke is om te doen. Als die er niet zijn moet je in plaats daarvan aangeven waar je op wacht. Dat moet ofwel een Eerstvolgende Actie of Project zijn die is vastgelegd door een andere Rol. of een specifieke situatie of conditie die moet plaatsvinden voordat je een verdere Eerstvolgende Acties neemt. 
 
-**(b) Verzoeken voor Projecten en Eerstvolgende Acties:** Andere Cirkel Leden mogen je vragen om een specifieke Eerstvolgende Actie of een specifiek Project voor een van je Rollen in de Cirkel op je te nemen. Als je het een redelijke Eerstvolgende Actie of een redelijk Project vindt moet je deze accepteren en vastleggen. Als dat niet het geval is moet je; ofwel uitleggen wat je redenen zijn, of een andere Eerstvolgende Actie of een ander Project, waarvan je denkt dat het het doel van de aanvrager tegemoet komt, vastleggen en communiceren.
+**(b) Verzoeken voor Projecten en Eerstvolgende Acties:** Andere Cirkel Leden mogen je vragen om een specifieke Eerstvolgende Actie of een specifiek Project voor een van je Rollen in de Cirkel op je te nemen. Als je het een redelijke Eerstvolgende Actie of een redelijk Project vindt moet je deze accepteren en vastleggen. Als dat niet het geval is moet je; ofwel uitleggen wat je redenen zijn, of een andere Eerstvolgende Actie of een ander Project, waarvan je denkt dat het het Doel van de aanvrager tegemoet komt, vastleggen en communiceren.
 
 **(c) Verzoeken om een Domein te beïnvloeden:** Andere Cirkel Leden mogen vragen om een Domein te beïnvloeden die wordt beheerd door een van jouw Rollen in de Cirkel. Als je geen Bezwaren ziet voor dit verzoek dan moet je het toestaan. Als je wel Bezwaren ziet moet je de Bezwaren verklaren aan de aanvrager. 
 
@@ -555,7 +555,7 @@ Als een Stuurman, Cirkel Vertegenwoordiger of Koppel Link van een Cirkel mag je 
 
 #### 4.1.5 Impliciete verwachtingen hebben geen betekenis
 
-Al jouw verantwoordelijkheden en plichten als Partner van de Organisatie zijn gedefinieerd in deze Broncode. En komen in uiting in het bestuursdocument. Eerder gedane (impliciete) verwachtingen verantwoordelijkheden of plichten hebben geen betekenis of autoriteit. Tenzij het Bestuur van de Cirkel ze als natuurlijk aannemen, of als ze komen van een basis verplichting of contractuele overeenkomst die je persoonlijk hebt ten opzichte van of met de Organisatie. 
+Al jouw verantwoordelijkheden en plichten als Piraat van de Organisatie zijn gedefinieerd in deze Broncode. En komen in uiting in het bestuursdocument. Eerder gedane (impliciete) verwachtingen verantwoordelijkheden of plichten hebben geen betekenis of autoriteit. Tenzij het Bestuur van de Cirkel ze als natuurlijk aannemen, of als ze komen van een basis verplichting of contractuele overeenkomst die je persoonlijk hebt ten opzichte van of met de Organisatie. 
 
 ### 4.2. Actie Overleg
 
@@ -563,7 +563,7 @@ De secretaris van de Cirkel is verantwoordelijk voor het plannen van regelmatige
 
 #### 4.2.1 Focus en intentie
 
-Actie Overleggen zijn bedoeld om;
+Actie Overleggen zijn beDoeld om;
 
 **(a)** de status van terugkerende acties op 'check-lijsten' van de Rollen van de Cirkel te delen;
 
@@ -575,7 +575,7 @@ Actie Overleggen zijn bedoeld om;
 
 #### 4.2.2 Aanwezigheid
 
-Alle Leden van de Cirkel en elke Partner of Rol die is uitgenodigd om deel te nemen aan het Rol Overleg van een Cirkel zijn ook uitgenodigd om deel te nemen in de Actie Overleggen, tenzij een Domeinafspraak iets anders stelt. Er is geen voorafgaand bericht of minimum aantal deelnemers vereist voor een Actie Overleg, tenzij een Domeinafspraak iets anders stelt. 
+Alle Leden van de Cirkel en elke Piraat of Rol die is uitgenodigd om deel te nemen aan het Rol Overleg van een Cirkel zijn ook uitgenodigd om deel te nemen in de Actie Overleggen, tenzij een Domeinafspraak iets anders stelt. Er is geen voorafgaand bericht of minimum aantal deelnemers vereist voor een Actie Overleg, tenzij een Domeinafspraak iets anders stelt. 
 
 #### 4.2.3 Begeleiding & Proces
 
@@ -593,10 +593,10 @@ Elk Cirkel Lid can een verzoek doen om een wederkerende actie aan de cheklist to
 
 **(d) Project Updates:** De Scheids vraagt iedere deelnemer om de vordering van projecten toe te lichten. Dit is de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen die de deelnemer vervult in de Cirkel. Deelnemers mogen alleen de vordering delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project dan moet deze worden opgenomen totdat het is voltooid of is komen te vervallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Sub-Cirkel moet de Scheids de Lead- en Cirkel Vertegenwoordiger de ruimte geven om updates te delen. 
 
-**(e) Verzamel en verwerk spanningen:** De Scheids bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Partners met relevante Rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Archivaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
-De Scheids heeft het doel om ieder agenda punt te behandeld en heeft het recht om een dialoog af te breken als deze dat doel in de weg staat. 
+**(e) Verzamel en verwerk spanningen:** De Scheids bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Piraten met relevante Rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Archivaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
+De Scheids heeft het Doel om ieder agenda punt te behandeld en heeft het recht om een dialoog af te breken als deze dat Doel in de weg staat. 
 
-**(f) Sluitings-Ronde:** De Scheids geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Actie Overleg, te delen. Reacties zijn niet toegestaan.
+**(f) Sluitings-Ronde:** De Scheids geeft iedere Piraat om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Actie Overleg, te delen. Reacties zijn niet toegestaan.
 
 ##### 4.2.3.1 Proces verandering
 
@@ -604,11 +604,11 @@ Een Cirkel mag een Beleid aannemen om iets te veranderen of toe te voegen aan di
 
 #### 4.2.2 Vervanging voor afwezige leden
 
-Als een Gedefinieerde Rol van de Cirkel geheel of gedeeltelijk ondervertegenwoordigd is in een Actie Overleg, omdat een Partner afwezig is, dan mag de Stuurman van de Cirkel handelen namens die Rol. Als de Stuurman ook afwezig is, dan mag iedere deelnemer Eerstvolgende Acties of Projecten accepteren namens die Rol. Echter die mogen, door de Partner die de Rol normaal vervult, worden behandeld als verzoeken die worden gedaan onder de voorwaarden van Artikel 4.1.2 (b). 
+Als een Gedefinieerde Rol van de Cirkel geheel of gedeeltelijk ondervertegenwoordigd is in een Actie Overleg, omdat een Piraat afwezig is, dan mag de Stuurman van de Cirkel handelen namens die Rol. Als de Stuurman ook afwezig is, dan mag iedere deelnemer Eerstvolgende Acties of Projecten accepteren namens die Rol. Echter die mogen, door de Piraat die de Rol normaal vervult, worden behandeld als verzoeken die worden gedaan onder de voorwaarden van Artikel 4.1.2 (b). 
 
 ### 4.3 Individuele Actie
 
-Als Partner van de Organisatie ben je in sommige gevallen bevoegd om te handelen buiten de autoriteit van je Rollen, of om zelfs de regels van deze Broncode te breken. Door te handelen vanuit deze uitgebreide autoriteit neem je **'Individuele Actie'** en ben je gebonden aan de volgende regels:
+Als Piraat van de Organisatie ben je in sommige gevallen bevoegd om te handelen buiten de autoriteit van je Rollen, of om zelfs de regels van deze Broncode te breken. Door te handelen vanuit deze uitgebreide autoriteit neem je **'Individuele Actie'** en ben je gebonden aan de volgende regels:
 
 #### 4.3.1 Toegestane situaties
 
@@ -624,9 +624,9 @@ Je mag alleen Individuele Actie nemen als al het volgende waar is:
 
 #### 4.3.2 Communicatie & herstel
 
-Bij het nemen van een Individuele Actie heb je de plicht om die Actie, en de intentie erachter, uit te leggen aan iedere Partner die een Rol vervult die mogelijk aanzienlijk beïnvloed is. Bij verzoek van een Partner heb je ook de plicht om redelijke aanvullende maatregelen te nemen om te helpen bij het oplossen van Spanningen die gecreëerd zijn door jouw Individuele Actie.
+Bij het nemen van een Individuele Actie heb je de plicht om die Actie, en de intentie erachter, uit te leggen aan iedere Piraat die een Rol vervult die mogelijk aanzienlijk beïnvloed is. Bij verzoek van een Piraat heb je ook de plicht om redelijke aanvullende maatregelen te nemen om te helpen bij het oplossen van Spanningen die gecreëerd zijn door jouw Individuele Actie.
 
-Als jouw Individuele Actie effectief handelde vanuit een andere Rol, of een Domein of Beleid heeft geschaad, dan moet je bij verzoek van de Partner die normaal de Rol, het Domein of de Domeinafspraak beheert, of op verzoek van de Stuurman die de geraakte entiteit beheert, stoppen met het nemen van een gelijksoortige Individuele Actie.
+Als jouw Individuele Actie effectief handelde vanuit een andere Rol, of een Domein of Beleid heeft geschaad, dan moet je bij verzoek van de Piraat die normaal de Rol, het Domein of de Domeinafspraak beheert, of op verzoek van de Stuurman die de geraakte entiteit beheert, stoppen met het nemen van een gelijksoortige Individuele Actie.
 
 #### 4.3.3 Beleid verhelderen
 
@@ -640,8 +640,8 @@ Nadat je een Individuele Actie hebt genomen heb je de plicht om de vereiste gevo
 
 ### 5.1 Gezaghebbende krijgen nieuwe bevoegdheden 
 
-Door het aannemen van deze Broncode geven de Gezaghebbende hun bevoegdheden op om de Organisatie te besturen en te leiden door haar Partners te vertellen **wat** ze moeten doen en **hoe** ze dit moeten doen. De bevoegdheden die ze hebben worden bepaald aan de hand van de autoriteit die hen word gegeven via de regels en processen van deze Broncode. 
-Echter, als een uitzondering op deze regel, mogen de Gezaghebbende doorgaan met het uitoefenen van die bevoegdheden waarvan ze niet de macht hebben om die te delegeren, zoals vereist Beleid buiten de contRole van de Organisatie of zoals vastgelegd in de statuten van de Organisatie. Deze bevoegdheden blijven bestaan totdat die situatie veranderd. 
+Door het aannemen van deze Broncode geven de Gezaghebbende hun bevoegdheden op om de Organisatie te besturen en te leiden door haar Piraten te vertellen **wat** ze moeten doen en **hoe** ze dit moeten doen. De bevoegdheden die ze hebben worden bepaald aan de hand van de autoriteit die hen word gegeven via de regels en processen van deze Broncode. 
+Echter, als een uitzondering op deze regel, mogen de Gezaghebbende doorgaan met het uitoefenen van die bevoegdheden waarvan ze niet de macht hebben om die te delegeren, zoals vereist Beleid buiten de controle van de Organisatie of zoals vastgelegd in de statuten van de Organisatie. Deze bevoegdheden blijven bestaan totdat die situatie veranderd. 
 
 ### 5.2 Anker Cirkel
 
@@ -659,7 +659,7 @@ Verder, in een Anker Cirkel zonder Stuurman, wordt de normale autoriteit van Rol
 
 #### 5.2.3 Doel van de Organisatie
 
-De Anker Cirkel is automatisch verantwoordelijk voor het ontdekken en uitdrukken van het Doel van de Organisatie in haar geheel. Het Doel van de Organisatie is het diepste creatieve potentieel die zij duurzaam kan uitdrukken in de wereld, rekening houdend met alle beperkingen die hiermee te maken hebben en alles wat ervoor beschikbaar is. Dat geldt ook voor haar historie, huidige capaciteiten, beschikbare middelen, Partners, karakter, cultuur, bedrijfsstructuur, merk, markt bewustzijn en alle andere relevante middelen of factoren. 
+De Anker Cirkel is automatisch verantwoordelijk voor het ontdekken en uitdrukken van het Doel van de Organisatie in haar geheel. Het Doel van de Organisatie is het diepste creatieve potentieel die zij duurzaam kan uitdrukken in de wereld, rekening houdend met alle beperkingen die hiermee te maken hebben en alles wat ervoor beschikbaar is. Dat geldt ook voor haar historie, huidige capaciteiten, beschikbare middelen, Piraten, karakter, cultuur, bedrijfsstructuur, merk, markt bewustzijn en alle andere relevante middelen of factoren. 
 
 De Stuurman van de Anker Cirkel krijgt deze Verantwoordelijk standaard automatisch en mag het Doel vastleggen en updaten om deze Verantwoordelijkheid uit te voeren. 
 
@@ -687,13 +687,13 @@ Echter, deze nagelaten Domeinafspraken en systemen zullen al hun betekenis en au
 
 ### 5.5 Broncode wijzigingen of intrekking
 
-De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intrekken, gebruikmakend van welke autoriteit en welk proces dan ook die ze hebben gebruikt om het aan te nemen. Wijzigingen moeten schriftelijk worden gemaakt en gepubliceerd worden op een plek die voor alle Partners van de Organisatie toegankelijk is. 
+De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intrekken, gebruikmakend van welke autoriteit en welk proces dan ook die ze hebben gebruikt om het aan te nemen. Wijzigingen moeten schriftelijk worden gemaakt en gepubliceerd worden op een plek die voor alle Piraten van de Organisatie toegankelijk is. 
 
 ## Bijlage A: Definitie Van KernRollen
 
 ### Stuurman
 
-**Doel:** De Stuurman vertegenwoordigd het doel van de gehele Cirkel
+**Doel:** De Stuurman vertegenwoordigd het Doel van de gehele Cirkel
 
 **Domeinen:** Rollen toewijzen binnen de Cirkel
 
@@ -701,7 +701,7 @@ De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intre
 
 * Vertalen van het werk van de cirkel in gesegmenteerde Rollen (en indien nodig ander Bestuur)
 
-* Toewijzen van Partners aan de Rollen van de Cirkel; de passendheid bewaken; feedback aanbieden om de passendheid te verbeteren; en het opnieuw toewijzen van Rollen aan andere Partners als het zinvol is voor het verbeteren van de passendheid. 
+* Toewijzen van Piraten aan de Rollen van de Cirkel; de passendheid bewaken; feedback aanbieden om de passendheid te verbeteren; en het opnieuw toewijzen van Rollen aan andere Piraten als het zinvol is voor het verbeteren van de passendheid. 
 
 * Toekennen van de middelen van de Cirkel aan haar verschillende Projecten en/of Rollen.
 
