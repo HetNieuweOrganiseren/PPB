@@ -99,29 +99,29 @@ Standaard mag een Rol die een gedelegeert Domein controleert deze, of significan
 
 Een domein is altijd gelimiteerd door de autoriteit die het in eerste instantie had.
 
-### 2.2 Cirkel Stuurman
+### 2.2 Cirkel LeadLink
 
-Iedere Cirkel heeft een **"Stuurman Rol"**. De definitie van deze Rol vind je in [Bijlage A](#bijlage-a-definitie-van-kernRollen), de verantwoordelijkheden en bevoegdheden staan in dit Artikel. 
+Iedere Cirkel heeft een **"LeadLink Rol"**. De definitie van deze Rol vind je in [Bijlage A](#bijlage-a-definitie-van-kernRollen), de verantwoordelijkheden en bevoegdheden staan in dit Artikel. 
 
-De persoon die de Stuurman Rol vervult wordt **Stuurman** genoemd wanneer deze handelt in die hoedanigheid. 
+De persoon die de LeadLink Rol vervult wordt **LeadLink** genoemd wanneer deze handelt in die hoedanigheid. 
 
 #### 2.2.1 Vult ongedefinieerde functies in
 
-De Stuurman is de eindverantwoordelijke van een Cirkel en vervult het Doel en alle Verantwoordelijkheden van de Cirkel en beheert elk Domein van die Cirkel. Tenzij de Verantwoordelijkheden en domeinen zijn gedefinieerd in een Rol binnen die Cirkel of op een andere manier zijn gedelegeert. 
+De LeadLink is de eindverantwoordelijke van een Cirkel en vervult het Doel en alle Verantwoordelijkheden van de Cirkel en beheert elk Domein van die Cirkel. Tenzij de Verantwoordelijkheden en domeinen zijn gedefinieerd in een Rol binnen die Cirkel of op een andere manier zijn gedelegeert. 
 
-Verder mag de Stuurman geen Domeinafspraken definiëren die de Rollen van de Cirkel beperken, behalve wanneer dat gebeurt via het Rol Overleg van de Cirkel. 
+Verder mag de LeadLink geen Domeinafspraken definiëren die de Rollen van de Cirkel beperken, behalve wanneer dat gebeurt via het Rol Overleg van de Cirkel. 
 
 #### 2.2.1 Bepaalt prioriteiten en strategieën 
 
-De Stuurman van een Cirkel mag relatieve prioriteiten voor de Cirkel bepalen. 
+De LeadLink van een Cirkel mag relatieve prioriteiten voor de Cirkel bepalen. 
 
-Bovendien kan de Stuurman een meer algemene ‘Strategie’ of meerdere strategieën voor de Cirkel bepalen, welke als hulpmiddel dienen voor de Rollen om zelf op een voortdurende basis prioriteiten te bepalen. 
+Bovendien kan de LeadLink een meer algemene ‘Strategie’ of meerdere strategieën voor de Cirkel bepalen, welke als hulpmiddel dienen voor de Rollen om zelf op een voortdurende basis prioriteiten te bepalen. 
 
-#### 2.2.1 Wijzigingen van de Stuurman Rol
+#### 2.2.1 Wijzigingen van de LeadLink Rol
 
-Een Cirkel mag geen Verantwoordelijkheden of andere functies toevoegen aan de Stuurman Rol. Ook mag het Doel van deze Rol niet aangepast worden en kan de Rol niet verwijderd worden. 
+Een Cirkel mag geen Verantwoordelijkheden of andere functies toevoegen aan de LeadLink Rol. Ook mag het Doel van deze Rol niet aangepast worden en kan de Rol niet verwijderd worden. 
 
-Echter, een Cirkel mag Verantwoordelijkheden, Domeinen, bevoegdheden of functies van de Stuurman Rol wel delegeren door ze bij een andere Rol in de Cirkel te plaatsen, of door een alternatieve manier te bepalen om ze uit te voeren. Als dit gebeurt. verdwijnt automatisch de relevantie of de autoriteit van de Stuurman Rol zolang deze delegatie in stand blijft. 
+Echter, een Cirkel mag Verantwoordelijkheden, Domeinen, bevoegdheden of functies van de LeadLink Rol wel delegeren door ze bij een andere Rol in de Cirkel te plaatsen, of door een alternatieve manier te bepalen om ze uit te voeren. Als dit gebeurt. verdwijnt automatisch de relevantie of de autoriteit van de LeadLink Rol zolang deze delegatie in stand blijft. 
 
 ### 2.3 Cirkel participatie & bestuur
 
@@ -135,7 +135,7 @@ Tenzij er een speciale afspraak of uitsluiting wordt gemaakt onder de voorwaarde
 
 **(a)** iedere Piraat die een Rol vervult binnen die Cirkel;
 
-**(b)** de Stuurman van de Cirkel, zoals vastgelegd in Artikel 2.2;
+**(b)** de LeadLink van de Cirkel, zoals vastgelegd in Artikel 2.2;
 
 **(c)** iedere verkozen RepLink van de Cirkel, zoals vastgelegd in Artikel 2.6.4;
 
@@ -147,21 +147,21 @@ Als een Rol wordt ingevuld door meerdere Piraats, kan een Cirkel een domein inst
 
 #### 2.3.3 Uitsluiting bij minimale besteding van aandacht
 
-Soms besteedt een Piraat slechts een zeer klein, bijna verwaarloosbaar gedeelte van zijn aandacht aan een Rol in de Cirkel. Als de Stuurman van de Cirkel denkt dat dit redelijkerwijs het geval is, dan kan de Stuurman deze Piraat in deze Rol uitsluiten als lid van de Cirkel. 
+Soms besteedt een Piraat slechts een zeer klein, bijna verwaarloosbaar gedeelte van zijn aandacht aan een Rol in de Cirkel. Als de LeadLink van de Cirkel denkt dat dit redelijkerwijs het geval is, dan kan de LeadLink deze Piraat in deze Rol uitsluiten als lid van de Cirkel. 
 
-Als een Piraat op deze manier wordt uitgesloten, heeft de Stuurman de plicht om Spanningen te overdenken en te verwerken die worden overgebracht door de uitgesloten Piraat, precies zoals een RepLink zou doen als de Rol een Sub Cirkel zou zijn, tenzij er een ander manier voor de uitgesloten Piraat is bepaald om Spanningen gerelateerd aan deze Rol te verwerken. 
+Als een Piraat op deze manier wordt uitgesloten, heeft de LeadLink de plicht om Spanningen te overdenken en te verwerken die worden overgebracht door de uitgesloten Piraat, precies zoals een RepLink zou doen als de Rol een Sub Cirkel zou zijn, tenzij er een ander manier voor de uitgesloten Piraat is bepaald om Spanningen gerelateerd aan deze Rol te verwerken. 
 
 #### 2.3.4 Speciale benoeming van Cirkel leden
 
-De Stuurman van de Cirkel kan extra personen aanwijzen als lid van de Cirkel, naast de voorgeschreven personen die genoemd staan in deze Broncode, en kan deze benoeming op ieder moment opheffen. 
+De LeadLink van de Cirkel kan extra personen aanwijzen als lid van de Cirkel, naast de voorgeschreven personen die genoemd staan in deze Broncode, en kan deze benoeming op ieder moment opheffen. 
 
 ### 2.4 Rol toewijzing
 
-De Stuurman van de Cirkel kan Piraten toewijzen aan een Rol in de Cirkel, tenzij deze autoriteit is beperkt of gedelegeert. 
+De LeadLink van de Cirkel kan Piraten toewijzen aan een Rol in de Cirkel, tenzij deze autoriteit is beperkt of gedelegeert. 
 
 #### 2.4.1 Onvervulde Rollen
 
-Als een Rol in een Cirkel niet door een Piraat wordt vervuld word deze toegewezen aan de Stuurman. 
+Als een Rol in een Cirkel niet door een Piraat wordt vervuld word deze toegewezen aan de LeadLink. 
 
 #### 2.4.2 Rollen toewijzen aan meerdere personen
 
@@ -171,19 +171,19 @@ Als een Rol toewijzing een Focus bevat dan geldt dat: het Doel, de Verantwoordel
 
 #### 2.4.3 Afstand doen van Rollen
 
-Een Piraat die een Rol vervult kan daar op ieder moment afstand van doen, tenzij er een andere afspraak geld, door dat te laten weten aan de persoon die de toewijzing van die Rol beheert - standaard is dat de Stuurman. 
+Een Piraat die een Rol vervult kan daar op ieder moment afstand van doen, tenzij er een andere afspraak geld, door dat te laten weten aan de persoon die de toewijzing van die Rol beheert - standaard is dat de LeadLink. 
 
 ### 2.5 Verkozen Rollen
 
-Elke Cirkel heeft een **"Scheids Rol"**, een **"Archivaris Rol"** en een **"RepLink Rol"**, waarvan de definities in Bijlage A staan. Dit zijn de ‘Verkozen Rollen’ van de Cirkel. De personen die deze Rollen vervullen noemen we de **"Scheids"**, **"Archivaris"** en **"RepLink"** van de Cirkel wanneer ze handelen vanuit deze Verkozen Rollen. 
+Elke Cirkel heeft een **"Facilitator Rol"**, een **"Secretaris Rol"** en een **"RepLink Rol"**, waarvan de definities in Bijlage A staan. Dit zijn de ‘Verkozen Rollen’ van de Cirkel. De personen die deze Rollen vervullen noemen we de **"Facilitator"**, **"Archivaris"** en **"RepLink"** van de Cirkel wanneer ze handelen vanuit deze Verkozen Rollen. 
 
 #### 2.5.1 Verkiezingen en verkiesbaarheid
 
-De Scheids van elke Cirkel begeleidt terugkerende verkiezingen volgens de regels van artikel 3.3.5 om een Piraat die lid is van een Cirkel te verkiezen voor de verkiesbare Rollen. Alle leden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Piraat die de Stuurman van de Cirkel vervult, deze mag niet worden gekozen als Scheids of Cirkel Vertegenwoordiger. 
+De Facilitator van elke Cirkel begeleidt terugkerende verkiezingen volgens de regels van artikel 3.3.5 om een Piraat die lid is van een Cirkel te verkiezen voor de verkiesbare Rollen. Alle leden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Piraat die de LeadLink van de Cirkel vervult, deze mag niet worden gekozen als Facilitator of Cirkel Vertegenwoordiger. 
 
 #### 2.5.2 Verkiezingstermijn en herzien van verkiezingen 
 
-Tijdens het verkiezingsproces stelt de Scheids een termijn vast voor iedere verkozen Rol. Bij het verstrijken van die termijn is de Archivaris verantwoordelijk voor het plannen van een nieuwe verkiezing voor die Rol. 
+Tijdens het verkiezingsproces stelt de Facilitator een termijn vast voor iedere verkozen Rol. Bij het verstrijken van die termijn is de Archivaris verantwoordelijk voor het plannen van een nieuwe verkiezing voor die Rol. 
 
 Echter, nog voordat een termijn is verstreken kan elk lid van de Cirkel een nieuwe verkiezing voorstellen, gebruikmakend van het proces dat is bepaald in Artikel 3. 
 
@@ -201,11 +201,11 @@ Als er een vervanger nodig is, dan wordt de vervanger bepaald in deze volgorde:
 
 **(a)** iemand die expliciet is bepaald door de Piraat die de Rol voorheen vervulde; of
 
-**(b)** de Scheids van de Cirkel; of
+**(b)** de Facilitator van de Cirkel; of
 
 **(c)** de Archivaris van de Cirkel; of
 
-**(d)** de Stuurman van de Cirkel; of
+**(d)** de LeadLink van de Cirkel; of
 
 **(e)** een lid van de Cirkel die aangeeft dat hij of zij als vervanger zal optreden. 
 
@@ -224,15 +224,15 @@ Een Cirkel kan een Sub-Cirkel verwijderen door middel van bestuur door;
 **(b)** het terugbrengen van de Sub-Cirkel naar een enkele Rol, dus door alle Rollen te verwijderen, of
 **(c)** het oplossen van de Sub-Cirkel grens, zodat alle functies worden geabsorbeerd door de Super-cirkel.
 
-#### 2.6.3 Stuurman van Sub-Cirkel
+#### 2.6.3 LeadLink van Sub-Cirkel
 
-De Stuurman van een Cirkel kan een Piraat aanwijzen om de Stuurman Rol voor een Sub-Cirkel te vervullen, gebruikmakend van dezelfde regels die gelden als de Stuurman personen toewijst aan andere Gedefinieerde Rollen van de Cirkel.
-Of de Piraat die de oorspronkelijk Rol vervulde word de Stuurman van die Sub-Cirkel.
-Of er vinden verkiezingen plaats voor de Rol van Stuurman voor die Sub-Cirkel
+De LeadLink van een Cirkel kan een Piraat aanwijzen om de LeadLink Rol voor een Sub-Cirkel te vervullen, gebruikmakend van dezelfde regels die gelden als de LeadLink personen toewijst aan andere Gedefinieerde Rollen van de Cirkel.
+Of de Piraat die de oorspronkelijk Rol vervulde word de LeadLink van die Sub-Cirkel.
+Of er vinden verkiezingen plaats voor de Rol van LeadLink voor die Sub-Cirkel
 
 #### 2.6.4 Cirkel Vertegenwoordiger naar Sub-Cirkel
 
-Elke Cirkel verkiest normaliter een RepLink voor haar Super-Cirkel. Deze verkiezing is echter niet nodig wanneer een Cirkel geen andere leden heeft dan een Stuurman en een KoppelLink. In dat geval, ook al wordt er een verkiezing gehouden, wordt de Cirkel Vertegenwoordiger geen Kernlid van de Super Cirkel. 
+Elke Cirkel verkiest normaliter een RepLink voor haar Super-Cirkel. Deze verkiezing is echter niet nodig wanneer een Cirkel geen andere leden heeft dan een LeadLink en een KoppelLink. In dat geval, ook al wordt er een verkiezing gehouden, wordt de Cirkel Vertegenwoordiger geen Kernlid van de Super Cirkel. 
 
 ### 2.7 KoppelLink
 
@@ -300,13 +300,13 @@ Voorstellen worden beschouwd als aangenomen en wijzigen het Bestuur van de Cirke
 Elk lid van de Cirkel mag een Voorstel doen in het **"Rol Overleg"**, volgens de regels van Artikel 3.3. 
 Als alternatief kan een Voorsteller ook een Voorstel indienen aan alle leden van de Cirkel buiten een Rol Overleg, hierbij  gebruik makend van een communicatie-kanaal dat door de Archivaris voor dit Doel is goedgekeurd. 
 
-Als dit gebeurt kan de Scheids hetzelfde proces en dezelfde regels toepassen die worden gebruikt tijdens een Rol Overleg, of toestaan dat ieder lid van de Cirkel direct verklaart of er wel of geen Bezwaren zijn om te integreren. Op ieder moment, totdat het ingediende Voorstel buiten het Rol Overleg is aangenomen, kan de Scheids of elk willekeurig lid van de Cirkel het proces buiten het Rol Overleg stoppen door de Voorsteller te verzoeken het Voorstel naar een Rol Overleg te brengen.
+Als dit gebeurt kan de Facilitator hetzelfde proces en dezelfde regels toepassen die worden gebruikt tijdens een Rol Overleg, of toestaan dat ieder lid van de Cirkel direct verklaart of er wel of geen Bezwaren zijn om te integreren. Op ieder moment, totdat het ingediende Voorstel buiten het Rol Overleg is aangenomen, kan de Facilitator of elk willekeurig lid van de Cirkel het proces buiten het Rol Overleg stoppen door de Voorsteller te verzoeken het Voorstel naar een Rol Overleg te brengen.
 
 Een Cirkel kan Domeinafspraken aannemen om te beperken hoe en wanneer Voorstellen gemaakt of verwerkt kunnen worden buiten het Rol Overleg. Maar geen enkele Domeinafspraak mag het recht beperken van de Leden om een Voorstel buiten het Rol Overleg naar een Rol Overleg te brengen. 
 
 #### 3.2.2 Criteria voor geldige Voorstellen
 
-Sommige Voorstellen worden niet toegestaan tijdens het Bestuur Proces van de Cirkel en de Scheids kan deze afwijzen voordat ze volledig verwerkt zijn.
+Sommige Voorstellen worden niet toegestaan tijdens het Bestuur Proces van de Cirkel en de Facilitator kan deze afwijzen voordat ze volledig verwerkt zijn.
 
 Om geldig te zijn voor verwerking moet een Voorstel een Spanning oplossen of verminderen die wordt waargenomen door de Voorsteller. Een Voorstel helpt de Indiener het Doel of een Verantwoordelijkheid van een van de Rollen die de Piraat vervult in de Cirkel beter uit te drukken. 
 
@@ -316,9 +316,9 @@ Een Voorstel is altijd geldig, ongeacht de voorgaande criteria, als het uitsluit
 
 #### 3.2.3 Voorstellen testen
 
-De Scheids test de geldigheid van een Voorstel door de Indiener vragen te stellen. Voor een Voorstel om de test te doorstaan moet de Indiener in staat zijn om de Spanning te omschrijven en een voorbeeld geven van een feitelijke situatie waarin het Voorstel de Spanning zou hebben verminderd. De Scheids moet het Voorstel verwerpen als de Scheids vindt dat de Voorsteller niet heeft voldaan aan deze voorwaarde. 
+De Facilitator test de geldigheid van een Voorstel door de Indiener vragen te stellen. Voor een Voorstel om de test te doorstaan moet de Indiener in staat zijn om de Spanning te omschrijven en een voorbeeld geven van een feitelijke situatie waarin het Voorstel de Spanning zou hebben verminderd. De Facilitator moet het Voorstel verwerpen als de Facilitator vindt dat de Voorsteller niet heeft voldaan aan deze voorwaarde. 
 
-Echter, bij het beoordelen van de geldigheid van een Voorstel mag de Scheids alleen oordelen of de Indiener het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met een logische en redelijke beredenering. De Scheids mag geen oordeel vellen op basis van de nauwkeurigheid van de antwoorden, noch op de vraag of het Voorstel de Spanning voldoende zou aanpakken.
+Echter, bij het beoordelen van de geldigheid van een Voorstel mag de Facilitator alleen oordelen of de Indiener het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met een logische en redelijke beredenering. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid van de antwoorden, noch op de vraag of het Voorstel de Spanning voldoende zou aanpakken.
 
 #### 3.2.4 Criteria voor geldige Bezwaren
 
@@ -340,26 +340,26 @@ Bijvoorbeeld, Eerstvolgende Acties, Projecten en specifieke operationele besliss
 
 #### 3.2.5 Bezwaren testen
 
-De Scheids mag de geldigheid van een ingebracht Bezwaart testen door de Bezwaarmaker vragen te stellen. 
-Een bezwaar doorstaat de test als de Bezwaarmaker in staat is om een redelijk argument te geven voor alle criteria genoemd in 3.2.4. Het Bezwaar word verworpen als de Scheids vindt dat de Bezwaarmaker niet heeft voldaan aan deze voorwaarde. 
+De Facilitator mag de geldigheid van een ingebracht Bezwaart testen door de Bezwaarmaker vragen te stellen. 
+Een bezwaar doorstaat de test als de Bezwaarmaker in staat is om een redelijk argument te geven voor alle criteria genoemd in 3.2.4. Het Bezwaar word verworpen als de Facilitator vindt dat de Bezwaarmaker niet heeft voldaan aan deze voorwaarde. 
 
-Bij het beoordelen van de geldigheid van een Bezwaar mag de Scheids alleen oordelen of de Bezwaarmaker het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met een logische en redelijke beredenering. De Scheids mag geen oordeel vellen op basis van de nauwkeurigheid of de belangrijkheid van de argumenten.
+Bij het beoordelen van de geldigheid van een Bezwaar mag de Facilitator alleen oordelen of de Bezwaarmaker het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met een logische en redelijke beredenering. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid of de belangrijkheid van de argumenten.
 
-Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Broncode, zie Artikel 3.2.4 (e), dan mag de Scheids de Archivaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Broncode. Als dit  het geval blijkt te zijn moet de Scheids het Bezwaar verwerpen. 
+Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Broncode, zie Artikel 3.2.4 (e), dan mag de Facilitator de Archivaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Broncode. Als dit  het geval blijkt te zijn moet de Facilitator het Bezwaar verwerpen. 
 
 #### 3.2.6 Regels van integratie
 
 Als er een Bezwaar tegen een Voorstel wordt ingebracht gelden de volgende aanvullende regels tijdens het vinden van een oplossing:
 
-**(a)** De Scheids moet een Bezwaar testen als dat wordt verzocht door een Lid van de Cirkel en deze verwerpen als het niet voldoet aan de criteria die zijn Gedefinieerde in Artikel 3. 
+**(a)** De Facilitator moet een Bezwaar testen als dat wordt verzocht door een Lid van de Cirkel en deze verwerpen als het niet voldoet aan de criteria die zijn Gedefinieerde in Artikel 3. 
 
-**(b)** De Bezwaarmaker moet een voorstel doen die een oplossing bied voor de huidige spanning en de oorspronkelijke spanning van de Voorsteller. Andere Leden van de Cirkel mogen helpen bij het formuleren van de oplossing. Wanneer de Scheids concludeert dat de Bezwaarmaker geen oprechte inspanning doet om een oplossing te vinden moet de Scheids het Bezwaar beschouwen als verworpen en doorgaan met het verwerken van het Voorstel alsof het Bezwaar niet was ingebracht. 
+**(b)** De Bezwaarmaker moet een voorstel doen die een oplossing bied voor de huidige spanning en de oorspronkelijke spanning van de Voorsteller. Andere Leden van de Cirkel mogen helpen bij het formuleren van de oplossing. Wanneer de Facilitator concludeert dat de Bezwaarmaker geen oprechte inspanning doet om een oplossing te vinden moet de Facilitator het Bezwaar beschouwen als verworpen en doorgaan met het verwerken van het Voorstel alsof het Bezwaar niet was ingebracht. 
 
-**(c)** Ieder Lid van de Cirkel mag de Voorsteller verhelderende vragen stellen over de Spanning die ten grondslag ligt aan het Voorstel en/of over ieder voorbeeld dat de Voorsteller heeft gegeven om die Spanning toe te lichten. Als de Scheids concludeert dat de Voorsteller geen oprechte inspanning doet om die vragen te beantwoorden moet de Scheids het Voorstel beschouwen als ongeldig en deze verwerpen. 
+**(c)** Ieder Lid van de Cirkel mag de Voorsteller verhelderende vragen stellen over de Spanning die ten grondslag ligt aan het Voorstel en/of over ieder voorbeeld dat de Voorsteller heeft gegeven om die Spanning toe te lichten. Als de Facilitator concludeert dat de Voorsteller geen oprechte inspanning doet om die vragen te beantwoorden moet de Facilitator het Voorstel beschouwen als ongeldig en deze verwerpen. 
 
 **(d)** De Bezwaarmaker mag een wijziging voorstellen en moet redelijke argumenten geven waarom het de Spanning zou oplossen of voorkomen voor iedere specifieke situatie die de Voorsteller heeft gegeven om de Spanning toe te lichten.
 Vervolgens moet de Voorsteller een redelijk argument geven waarom het gewijzigde Voorstel de Spanning in minimaal één specifieke situatie die al was gegeven niet zou oplossen of voorkomen.
-Als alternatief mag de Voorsteller een extra voorbeeld geven dat het gewijzigde Voorstel niet zou oplossen, maar welke nog steeds voldoet aan de criteria voor het behandelen van een Voorstel zoals vereist in Artikel 3.2.2. Als de Scheids concludeert dat de Voorsteller niet heeft voldaan aan deze voorwaarden moet de Scheids het Voorstel beschouwen als ongeldig en deze verwerpen. 
+Als alternatief mag de Voorsteller een extra voorbeeld geven dat het gewijzigde Voorstel niet zou oplossen, maar welke nog steeds voldoet aan de criteria voor het behandelen van een Voorstel zoals vereist in Artikel 3.2.2. Als de Facilitator concludeert dat de Voorsteller niet heeft voldaan aan deze voorwaarden moet de Facilitator het Voorstel beschouwen als ongeldig en deze verwerpen. 
 
 ### 3.3 Rol Overleggen
 
@@ -367,13 +367,13 @@ De Archivaris van een Cirkel is verantwoordelijk voor het plannen van Rol Overle
 
 Als aanvulling op ieder regulier, terugkerend, Rol Overleg dat de Archivaris plant, is de Archivaris verantwoordelijk voor het direct plannen van extra speciale Rol Overleggen op verzoek van ieder Lid van de Cirkel. 
 
-De Scheids is verantwoordelijk voor het voorzitten van alle Rol Overleggen in lijn met de volgende regels van relevante Domeinafspraken van de Cirkel:
+De Facilitator is verantwoordelijk voor het voorzitten van alle Rol Overleggen in lijn met de volgende regels van relevante Domeinafspraken van de Cirkel:
 
 #### 3.3.1 Aanwezigheid
 
-Alle Leden van een Cirkel hebben het recht om volledig mee te doen in alle Rol Overleggen van die Cirkel. Een waarnemende Scheids en/of Archivaris hebben ook het recht om volledig mee te doen en worden Leden van de Cirkel tijdens een Rol Overleg, zelfs als ze normaal geen leden van die Cirkel zijn. 
+Alle Leden van een Cirkel hebben het recht om volledig mee te doen in alle Rol Overleggen van die Cirkel. Een waarnemende Facilitator en/of Archivaris hebben ook het recht om volledig mee te doen en worden Leden van de Cirkel tijdens een Rol Overleg, zelfs als ze normaal geen leden van die Cirkel zijn. 
 
-Bovendien mogen de Stuurman en iedere RepLink en KoppelLink van een Cirkel één extra Piraat uitnodigen, maar uitsluitend om de -Link te helpen bij het verwerken van een specifieke Spanning. De uitgenodigde Piraat wordt een Lid van die Cirkel voor de duur van dat Rol Overleg. Naast de personen genoemd in dit Artikel, is het niemand anders toegestaan om deel te nemen aan een Rol Overleg van een Cirkel, tenzij deze expliciet uitgenodigd is via een Beleid van de Cirkel. 
+Bovendien mogen de LeadLink en iedere RepLink en KoppelLink van een Cirkel één extra Piraat uitnodigen, maar uitsluitend om de -Link te helpen bij het verwerken van een specifieke Spanning. De uitgenodigde Piraat wordt een Lid van die Cirkel voor de duur van dat Rol Overleg. Naast de personen genoemd in dit Artikel, is het niemand anders toegestaan om deel te nemen aan een Rol Overleg van een Cirkel, tenzij deze expliciet uitgenodigd is via een Beleid van de Cirkel. 
 
 #### 3.3.1 Aankondiging en minimum aantal deelnemers
 
@@ -387,58 +387,58 @@ Iedereen die er niet in slaagt om aanwezig te zijn bij een Rol Overleg geld als 
 
 #### 3.3.3 Rol Overleg proces
 
-De Scheids moet de volgende stappen gebruiken voor Rol Overleggen en helder aangeven in welke stap het overleg zich bevind:
+De Facilitator moet de volgende stappen gebruiken voor Rol Overleggen en helder aangeven in welke stap het overleg zich bevind:
 
-**(a) Openings-Ronde:** De Scheids geeft iedere Piraat om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Rol Overleg te delen. Reacties zijn niet toegestaan.
+**(a) Openings-Ronde:** De Facilitator geeft iedere Piraat om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Rol Overleg te delen. Reacties zijn niet toegestaan.
 
-**(b) Administratieve Mededelingen:** De Scheids geeft de ruimte om relevante administratieve of logistieke onderwerpen te bespreken en op te lossen.
+**(b) Administratieve Mededelingen:** De Facilitator geeft de ruimte om relevante administratieve of logistieke onderwerpen te bespreken en op te lossen.
 
-**(c) Agenda Opbouw en Verwerking:** De Scheids bouwt een agenda aan de hand van de actuele spanningen van de leden en verwerkt deze vervolgens om de beurt.
+**(c) Agenda Opbouw en Verwerking:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen van de leden en verwerkt deze vervolgens om de beurt.
 
-**(d) Sluitings-Ronde:** De Scheids geeft iedere Piraat om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Rol Overleg, te delen. Reacties zijn niet toegestaan. 
+**(d) Sluitings-Ronde:** De Facilitator geeft iedere Piraat om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Rol Overleg, te delen. Reacties zijn niet toegestaan. 
 
 Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag niet in strijd zijn met een van de stappen of andere regels die zijn gedefinieerd in dit Artikel van de Broncode. 
 
 #### 3.3.4 Agenda opbouw
 
-De Scheids bouwt een agenda tijdens (dus niet voorafgaand aan) het Rol Overleg door het vastleggen van de actuele Spanningen van de aanwezige Leden. Elk Lid mag zoveel agendapunten toevoegen als gewenst. Deelnemers mogen ook tijdens het overleg, tussen de verwerking van alle bestaande agendapunten, extra agendapunten toevoegen. 
+De Facilitator bouwt een agenda tijdens (dus niet voorafgaand aan) het Rol Overleg door het vastleggen van de actuele Spanningen van de aanwezige Leden. Elk Lid mag zoveel agendapunten toevoegen als gewenst. Deelnemers mogen ook tijdens het overleg, tussen de verwerking van alle bestaande agendapunten, extra agendapunten toevoegen. 
 
 **(a) Agendapunten Format:** Ieder agendapunt in een Rol Overleg vertegenwoordigt een Spanning om op te lossen en word verwerkt door de deelnemer die het agendapunt heeft toegevoegd. Bij het toevoegen van een agendapunt mag de deelnemer alleen een kort kenmerk voor de Spanning geven. Dus niet de Spanning verder uitleggen of bespreken totdat het verwerken van dat agendapunt daadwerkelijk begint. 
 
-**(b) Volgorde van de Agenda:** De Scheids mag bepalen in welke volgorde de agendapunten worden behandeld en maakt daarbij gebruik van een proces of criteria die de Scheids geschikt acht. Echter, een agendapunt die vraagt om een verkiezing van een van de Verkozen Rollen van de Cirkel krijgt voorrang boven alle andere agendapunten wanneer hierom word verzocht door een aanwezig Lid. 
-Verder, als het overleg gepland is naar aanleiding van een verzoek van een van de Leden, dan moet de Scheids alle agendapunten die worden ingebracht door dit Lid voorrang geven boven alle agendapunten, tenzij dat Lid iets anders voorstelt. 
+**(b) Volgorde van de Agenda:** De Facilitator mag bepalen in welke volgorde de agendapunten worden behandeld en maakt daarbij gebruik van een proces of criteria die de Facilitator geschikt acht. Echter, een agendapunt die vraagt om een verkiezing van een van de Verkozen Rollen van de Cirkel krijgt voorrang boven alle andere agendapunten wanneer hierom word verzocht door een aanwezig Lid. 
+Verder, als het overleg gepland is naar aanleiding van een verzoek van een van de Leden, dan moet de Facilitator alle agendapunten die worden ingebracht door dit Lid voorrang geven boven alle agendapunten, tenzij dat Lid iets anders voorstelt. 
 
-**(c) Agendapunten Behandelen:** Zodra de Scheids een eerste volgorde van de agenda heeft bepaald moet de Scheids de Leden begeleiden bij het behandelen van ieder opeenvolgend agendapunt. Om een agendapunt te behandelen dat vraagt om een verkiezing moet de Scheids het **"Integratief Verkiezingsproces"** gebruiken zoals gedefinieerd in Artikel 3.3.6. Voor het verwerken van ieder ander agendapunt moet de Scheids gebruik maken van het **"Integratief Besluitvormingsproces"**, gedefinieerd in Artikel 3.3.5.
+**(c) Agendapunten Behandelen:** Zodra de Facilitator een eerste volgorde van de agenda heeft bepaald moet de Facilitator de Leden begeleiden bij het behandelen van ieder opeenvolgend agendapunt. Om een agendapunt te behandelen dat vraagt om een verkiezing moet de Facilitator het **"Integratief Verkiezingsproces"** gebruiken zoals gedefinieerd in Artikel 3.3.6. Voor het verwerken van ieder ander agendapunt moet de Facilitator gebruik maken van het **"Integratief Besluitvormingsproces"**, gedefinieerd in Artikel 3.3.5.
 
 #### 3.3.5 Integratief Besluitvormingsproces
 
-De Scheids voert het Integratief Besluitvormingsproces als volgt uit:
+De Facilitator voert het Integratief Besluitvormingsproces als volgt uit:
 
-**(a) Voorstel doen:** Allereerst omschrijft de Voorsteller de Spanning en doet een Voorstel om de Spanning op te lossen. Als de Voorsteller om hulp vraagt bij het formuleren van een Voorstel mag de Scheids en dialoog, of een ander gemeenschappelijk proces om te helpen, toestaan. Maar de Scheids moet deze activiteit uitsluitend richten op het maken van een initieel Voorstel voor de actuele spanning en niet om andere Spanningen aan te spreken of om andermans zorgen te integreren in het Voorstel. 
+**(a) Voorstel doen:** Allereerst omschrijft de Voorsteller de Spanning en doet een Voorstel om de Spanning op te lossen. Als de Voorsteller om hulp vraagt bij het formuleren van een Voorstel mag de Facilitator en dialoog, of een ander gemeenschappelijk proces om te helpen, toestaan. Maar de Facilitator moet deze activiteit uitsluitend richten op het maken van een initieel Voorstel voor de actuele spanning en niet om andere Spanningen aan te spreken of om andermans zorgen te integreren in het Voorstel. 
 
-**(b) Verhelderende vragen:** Zodra de Voorsteller het Voorstel heeft geformuleerd mogen de andere deelnemers verhelderende vragen stellen om het Voorstel of de Spanning erachter beter te begrijpen. De Voorsteller mag iedere vraag beantwoorden maar is hiertoe niet verplicht. De Scheids staat geen enkele reactie of mening over het Voorstel toe en voorkomt enige discussie van dien aard. Iedere deelnemer mag ten alle tijden aan de Archivaris vragen om het vastgelegde Voorstel voor te lezen of om het bestaande bestuur te verhelderen. Dat geld voor deze stap en iedere andere stap waarin het de Leden is toegestaan om te praten. De Archivaris moet dit verzoek altijd honoreren. 
+**(b) Verhelderende vragen:** Zodra de Voorsteller het Voorstel heeft geformuleerd mogen de andere deelnemers verhelderende vragen stellen om het Voorstel of de Spanning erachter beter te begrijpen. De Voorsteller mag iedere vraag beantwoorden maar is hiertoe niet verplicht. De Facilitator staat geen enkele reactie of mening over het Voorstel toe en voorkomt enige discussie van dien aard. Iedere deelnemer mag ten alle tijden aan de Archivaris vragen om het vastgelegde Voorstel voor te lezen of om het bestaande bestuur te verhelderen. Dat geld voor deze stap en iedere andere stap waarin het de Leden is toegestaan om te praten. De Archivaris moet dit verzoek altijd honoreren. 
 
-**(c) Reactieronde:** Zodra er geen verhelderende vragen meer zijn mag ieder Lid, met uitzondering van de Voorsteller, één voor één reacties geven op het Voorstel. De Scheids moet reacties buiten de beurt om, of iedere andere poging om anderen in een dialoog te betrekken of uitwisselingen van dien aard en elke reactie op andere reacties in plaats van op het Voorstel, niet tolereren en direct stoppen. 
+**(c) Reactieronde:** Zodra er geen verhelderende vragen meer zijn mag ieder Lid, met uitzondering van de Voorsteller, één voor één reacties geven op het Voorstel. De Facilitator moet reacties buiten de beurt om, of iedere andere poging om anderen in een dialoog te betrekken of uitwisselingen van dien aard en elke reactie op andere reacties in plaats van op het Voorstel, niet tolereren en direct stoppen. 
 
-**(d) Verduidelijken en Wijzigen:** Na de reactieronde mag de Voorsteller het voorstel verduidelijken als antwoord op de reacties en wijzigingen doen aan het Voorstel. Echter, het Doel van iedere wijziging moet zijn om de Spanning van de Voorsteller beter aan te spreken, niet de Spanningen van anderen. Tijdens deze stap worden alle reactie van alle Leden, behalve die van de Voorsteller of de Archivaris, niet getolereerd en moeten door de Scheids gestopt worden. Iedere bijdrage van de Archivaris moet uitsluitend gericht zijn op het vastleggen van het gewijzigde Voorstel. 
+**(d) Verduidelijken en Wijzigen:** Na de reactieronde mag de Voorsteller het voorstel verduidelijken als antwoord op de reacties en wijzigingen doen aan het Voorstel. Echter, het Doel van iedere wijziging moet zijn om de Spanning van de Voorsteller beter aan te spreken, niet de Spanningen van anderen. Tijdens deze stap worden alle reactie van alle Leden, behalve die van de Voorsteller of de Archivaris, niet getolereerd en moeten door de Facilitator gestopt worden. Iedere bijdrage van de Archivaris moet uitsluitend gericht zijn op het vastleggen van het gewijzigde Voorstel. 
 
-**(e) Bezwarenronde:** Vervolgens mag ieder Lid één voor één een mogelijk Bezwaar op het aannemen van het Voorstel inbrengen. De Scheids moet discussies of reacties van elke soort niet tolereren en stoppen. De Scheids mag Bezwaren testen zoals beschreven in Artikel 3.2.5 en moet ieder geldig Bezwaar vastleggen. Als er geen geldige Bezwaren zijn legt de Archivaris het Voorstel vast als aangenomen Bestuur voor de Cirkel. 
+**(e) Bezwarenronde:** Vervolgens mag ieder Lid één voor één een mogelijk Bezwaar op het aannemen van het Voorstel inbrengen. De Facilitator moet discussies of reacties van elke soort niet tolereren en stoppen. De Facilitator mag Bezwaren testen zoals beschreven in Artikel 3.2.5 en moet ieder geldig Bezwaar vastleggen. Als er geen geldige Bezwaren zijn legt de Archivaris het Voorstel vast als aangenomen Bestuur voor de Cirkel. 
 
-**(f) Integratie:** Als er geldige Bezwaren zijn begeleidt de Scheids een dialoog om het Voorstel zo te wijzigen dat ieder Bezwaar één voor één wordt opgelost. De Scheids verklaart het Bezwaar als opgelost zodra de Bezwaarmaker bevestigt dat het gewijzigde Voorstel het Bezwaar niet zou veroorzaken en de Voorsteller bevestigt dat het gewijzigde voorstel nog steeds de Spanning van de Voorsteller aanspreekt. Tijdens de dialoog moet de Scheids de regels van integratie toepassen zoals gedefinieerd in Artikel 3.2.6. Zodra alle vastgelegde Bezwaren zijn opgelost gaat de Scheids terug naar de Bezwarenronde om te kijken of er nieuwe Bezwaren zijn op het gewijzigde Voorstel. 
+**(f) Integratie:** Als er geldige Bezwaren zijn begeleidt de Facilitator een dialoog om het Voorstel zo te wijzigen dat ieder Bezwaar één voor één wordt opgelost. De Facilitator verklaart het Bezwaar als opgelost zodra de Bezwaarmaker bevestigt dat het gewijzigde Voorstel het Bezwaar niet zou veroorzaken en de Voorsteller bevestigt dat het gewijzigde voorstel nog steeds de Spanning van de Voorsteller aanspreekt. Tijdens de dialoog moet de Facilitator de regels van integratie toepassen zoals gedefinieerd in Artikel 3.2.6. Zodra alle vastgelegde Bezwaren zijn opgelost gaat de Facilitator terug naar de Bezwarenronde om te kijken of er nieuwe Bezwaren zijn op het gewijzigde Voorstel. 
 
 #### 3.3.6 Integratief Verkiezingsproces
 
-De Scheids moet het Integratief Verkiezingsproces als volgt uitvoeren:
+De Facilitator moet het Integratief Verkiezingsproces als volgt uitvoeren:
 
-**(a) Rol omschrijven:** Als eerste moet de Scheids de beoogde Rol en haar termijn identificeren voor de verkiezing. De Scheids mag ook de functies van de beoogde Rol omschrijven en andere relevantie informatie voor die Rol presenteren. 
+**(a) Rol omschrijven:** Als eerste moet de Facilitator de beoogde Rol en haar termijn identificeren voor de verkiezing. De Facilitator mag ook de functies van de beoogde Rol omschrijven en andere relevantie informatie voor die Rol presenteren. 
 
-**(b) Stembiljet invullen:** Ieder Lid vult vervolgens een Stembiljet in om van alle beschikbare Leden diegene te nomineren waarvan het Lid denkt dat die het meest geschikt is voor de Rol. Iedere Lid moet het stembriefje ook kenmerken met zijn of haar eigen naam en niemand mag zich onthouden van stemmen of meerdere mensen nomineren. Voor en tijdens deze stap moet de Scheids direct alle reacties of discussies over mogelijke kandidaten of nominaties stoppen.
+**(b) Stembiljet invullen:** Ieder Lid vult vervolgens een Stembiljet in om van alle beschikbare Leden diegene te nomineren waarvan het Lid denkt dat die het meest geschikt is voor de Rol. Iedere Lid moet het stembriefje ook kenmerken met zijn of haar eigen naam en niemand mag zich onthouden van stemmen of meerdere mensen nomineren. Voor en tijdens deze stap moet de Facilitator direct alle reacties of discussies over mogelijke kandidaten of nominaties stoppen.
 
-**(c) Nominatieronde:** Als alle Stembiljetten zijn ingediend deelt de Scheids één voor één de inhoud van ieder stembriefje met alle Leden. Als de Scheids een nominatie deelt moet het Lid dat heeft genomineerd uitleggen waarom hij of zij vindt dat die kandidaat goed zou passen in deze Rol. Alleen opmerkingen over de genomineerde kandidaat zijn toegestaan, elke andere reactie of opmerking moet gestopt worden door de Scheids.
+**(c) Nominatieronde:** Als alle Stembiljetten zijn ingediend deelt de Facilitator één voor één de inhoud van ieder stembriefje met alle Leden. Als de Facilitator een nominatie deelt moet het Lid dat heeft genomineerd uitleggen waarom hij of zij vindt dat die kandidaat goed zou passen in deze Rol. Alleen opmerkingen over de genomineerde kandidaat zijn toegestaan, elke andere reactie of opmerking moet gestopt worden door de Facilitator.
 
-**(d) Nominatie veranderronde:** Zodra alle nominaties zijn gedeeld geeft de Scheids alle Leden de mogelijkheid om zijn of haar nominatie te veranderen. Een deelnemer die een verandering doet mag alleen zijn of haar reden voor de verandering uitleggen, elke andere reactie of opmerking moet gestopt worden door de Scheids.
+**(d) Nominatie veranderronde:** Zodra alle nominaties zijn gedeeld geeft de Facilitator alle Leden de mogelijkheid om zijn of haar nominatie te veranderen. Een deelnemer die een verandering doet mag alleen zijn of haar reden voor de verandering uitleggen, elke andere reactie of opmerking moet gestopt worden door de Facilitator.
 
-**(e) Een Voorstel maken:** Vervolgens moet de Scheids de nominaties tellen en een Voorstel doen om de kandidaat met de meeste stemmen voor de gestelde termijn te verkiezen. Als er een gelijkspel is voor wie de meeste nominaties heeft dan mag de Scheids een van de volgende dingen doen: 
+**(e) Een Voorstel maken:** Vervolgens moet de Facilitator de nominaties tellen en een Voorstel doen om de kandidaat met de meeste stemmen voor de gestelde termijn te verkiezen. Als er een gelijkspel is voor wie de meeste nominaties heeft dan mag de Facilitator een van de volgende dingen doen: 
 
 **(i)** een van de kandidaten blindelings en willekeurig selecteren en die persoon voorstellen, of 
 
@@ -448,7 +448,7 @@ De Scheids moet het Integratief Verkiezingsproces als volgt uitvoeren:
 
 **(iv)** teruggaan naar de vorige stap en iedere deelnemer die iemand anders heeft genomineerd dan de gelijkspelende kandidaten vragen om die nominatie te veranderen in een van de gelijkspelende kandidaten en dan teruggaan naar deze stap en opnieuw de regels toepassen. 
 
-**(f) Voorstel doen:** Zodra de Scheids een Voorstel doet om een kandidaat te verkiezen moet de Scheids naar de Bezwaren ronde (stap **(e)** van 3.3.5 het Integratief Besluitvormingsproces) gaan om dat Voorstel te verwerken. Als de voorgestelde kandidaat aanwezig is dan moet de Scheids deze kandidaat als laatste vragen om Bezwaren. Als er Bezwaren worden ingebracht mag de Scheids kiezen om deze te verwerken als een normaal Bezwaar of om het Voorstel direct na de Bezwarenronde of op ieder punt tijdens de stap van Integratie te verwerpen. Als de Scheids ervoor kiest om het Voorstel te verwerpen dan moet de Scheids teruggaan naar stap **(e)** (in het Integratief Verkiezingsproces 3.3.6) en alle nominaties voor de bestaande kandidaat verwerpen en in plaats daarvan een voorstel doen voor een andere kandidaat. 
+**(f) Voorstel doen:** Zodra de Facilitator een Voorstel doet om een kandidaat te verkiezen moet de Facilitator naar de Bezwaren ronde (stap **(e)** van 3.3.5 het Integratief Besluitvormingsproces) gaan om dat Voorstel te verwerken. Als de voorgestelde kandidaat aanwezig is dan moet de Facilitator deze kandidaat als laatste vragen om Bezwaren. Als er Bezwaren worden ingebracht mag de Facilitator kiezen om deze te verwerken als een normaal Bezwaar of om het Voorstel direct na de Bezwarenronde of op ieder punt tijdens de stap van Integratie te verwerpen. Als de Facilitator ervoor kiest om het Voorstel te verwerpen dan moet de Facilitator teruggaan naar stap **(e)** (in het Integratief Verkiezingsproces 3.3.6) en alle nominaties voor de bestaande kandidaat verwerpen en in plaats daarvan een voorstel doen voor een andere kandidaat. 
 
 #### 3.3.7 Operationele beslissingen in Rol Overleggen
 
@@ -482,28 +482,28 @@ Een **"Proces-storing"** doet zich voor als er in een Cirkel een patroon word ge
 
 #### 3.5.1 Storing door vastgelopen Rol Overleg
 
-De Scheids kan een Proces-storing in de Cirkel constateren als de Leden van de Cirkel er niet in slagen om een Voorstel succesvol te behandelen in een Rol Overleg, zelfs als dat voor geruime tijd is geprobeerd.
+De Facilitator kan een Proces-storing in de Cirkel constateren als de Leden van de Cirkel er niet in slagen om een Voorstel succesvol te behandelen in een Rol Overleg, zelfs als dat voor geruime tijd is geprobeerd.
 Als de Voorsteller speciaal voor het behandelen van dat Voorstel een Rol Overleg heeft verzocht, dan mag de Voorsteller in dat geval ook een Processtoring constateren. 
 
 #### 3.5.2 Storing door ongrondwettelijk gedrag
 
-De Scheids van een Cirkel mag een Proces-storing constateren in een van de Sub-Cirkels wanneer er een patroon van gedrag of uitkomsten word geconstateerd die in strijd is met de regels van deze Broncode. Echter, wanneer de Scheids ook de Stuurman of Scheids van de Sub-Cirkel is dan mogen de Archivaris van de Super-Cirkel of de Cirkel Vertegenwoordiger deze constatering ook doen. 
+De Facilitator van een Cirkel mag een Proces-storing constateren in een van de Sub-Cirkels wanneer er een patroon van gedrag of uitkomsten word geconstateerd die in strijd is met de regels van deze Broncode. Echter, wanneer de Facilitator ook de LeadLink of Facilitator van de Sub-Cirkel is dan mogen de Archivaris van de Super-Cirkel of de Cirkel Vertegenwoordiger deze constatering ook doen. 
 
 #### 3.5.3 Proces herstel
 
 Wanneer een daartoe bevoegde partij een Processtoring in een Cirkel constateert gebeurt het volgende:
 
-**(a)** De Scheids van de Super-Cirkel krijgt een Project om het proces te herstellen in die Cirkel; en 
+**(a)** De Facilitator van de Super-Cirkel krijgt een Project om het proces te herstellen in die Cirkel; en 
 
-**(b)** De Scheids van de Super-Cirkel krijg de autoriteit om op te treden als Scheids of Archivaris van die Cirkel, of om een andere Piraat te benoemen om dat te doen; en
+**(b)** De Facilitator van de Super-Cirkel krijg de autoriteit om op te treden als Facilitator of Archivaris van die Cirkel, of om een andere Piraat te benoemen om dat te doen; en
 
-**(c)** De Scheids van die Cirkel krijgt de autoriteit om de nauwkeurigheid te beoordelen van alle argumenten die worden gepresenteerd om Spanningen en Bezwaren te valideren in het Bestuursproces van die Cirkel.
+**(c)** De Facilitator van die Cirkel krijgt de autoriteit om de nauwkeurigheid te beoordelen van alle argumenten die worden gepresenteerd om Spanningen en Bezwaren te valideren in het Bestuursproces van die Cirkel.
 
-Deze autoriteit is tijdelijk en stopt zodra de Scheids van de Super-Cirkel concludeert dat het proces in de cirkel is hersteld.
+Deze autoriteit is tijdelijk en stopt zodra de Facilitator van de Super-Cirkel concludeert dat het proces in de cirkel is hersteld.
 
 #### 3.5.4 Escalatie van Proces-storing
 
-Een Processtoring van één Cirkel mag niet beschouwd worden als een Processtoring van haar Super-Cirkel, zolang de Scheids van de Super-Cirkel snel en ijverig werkt om de Processtoring  op te lossen.
+Een Processtoring van één Cirkel mag niet beschouwd worden als een Processtoring van haar Super-Cirkel, zolang de Facilitator van de Super-Cirkel snel en ijverig werkt om de Processtoring  op te lossen.
 
 Echter, als de Proces-storing niet binnen een redelijke termijn is opgelost mag de Archivaris van iedere Super-Cirkel waar de verstoorde Cirkel onderdeel van is ook een Proces-storing in de Super-Cirkel constateren.
 
@@ -527,7 +527,7 @@ Je hebt de plicht om transparantie te geven wanneer dat gevraagd wordt door je m
 **(c) Schattingen:** Je moet een schatting geven van de datum waarop je verwacht een Project of een Eerstvolgende Actie af te ronden. Een ruwe schatting met het oog op je huidige context en prioriteiten is voldoende, dus zonder gedetailleerde analyse of planning. 
 Deze schatting is op geen enkele manier een bindende verplichting en, tenzij het bestuur iets anders zegt, is er geen verplichting om die schatting vast te leggen, te archiveren, of een verandering terug te koppelen naar de Piraat die om de schatting gevraagd heeft.
 
-**(d) Checklist punten & Metriek:** Je moet delen of je de reguliere, terugkerende, acties die je routinematig uitvoert ten dienste van jouw Rollen in de Cirkel hebt volbracht. Je moet ook Metrieken vastleggen en rapporteren die zijn toegewezen aan jouw Rollen door de Stuurman van de Cirkel of door een andere Rol of ander Proces die de autoriteit heeft gekregen om Metrieken van de Cirkel te definiëren. 
+**(d) Checklist punten & Metriek:** Je moet delen of je de reguliere, terugkerende, acties die je routinematig uitvoert ten dienste van jouw Rollen in de Cirkel hebt volbracht. Je moet ook Metrieken vastleggen en rapporteren die zijn toegewezen aan jouw Rollen door de LeadLink van de Cirkel of door een andere Rol of ander Proces die de autoriteit heeft gekregen om Metrieken van de Cirkel te definiëren. 
 
 #### 4.1.2 Plicht van verwerking
 
@@ -547,11 +547,11 @@ Je hebt de plicht om te prioriteren waar je jouw aandacht en middelen op richt, 
 
 **(b) Verzochte Overleggen boven Uitvoering:** Op verzoek van een mede Cirkel Lid moet je de aanwezigheid bij een overleg van de Cirkel, voorgeschreven in deze Broncode, prioriteren boven het uitvoeren van je eigen Eerstvolgende Acties. Echter, je mag het verzoek afwijzen als je al dingen had gepland op het moment dat het Overleg plaatsvindt, of als het verzoek betrekking heeft op een doorlopende serie of patroon van overleggen in plaats van een specifiek overleg. 
 
-**(c) Behoeften van de Cirkel boven Individuele Doelen:** Bij de beoordeling van de besteding van jouw tijd, aandacht en andere middelen van je werk in de Cirkel moet je integreren en afstemmen met alle officiële prioritering en/of strategieën van de Cirkel zoals die zijn vastgesteld door de Stuurman van de Cirkel. 
+**(c) Behoeften van de Cirkel boven Individuele Doelen:** Bij de beoordeling van de besteding van jouw tijd, aandacht en andere middelen van je werk in de Cirkel moet je integreren en afstemmen met alle officiële prioritering en/of strategieën van de Cirkel zoals die zijn vastgesteld door de LeadLink van de Cirkel. 
 
 #### 4.1.4 Links mogen plichten overdragen
 
-Als een Stuurman, Cirkel Vertegenwoordiger of Koppel Link van een Cirkel mag je iemand anders uitnodigen om de verantwoordelijkheden, genoemd in dit artikel (4), op zich te nemen. Je mag dit alleen doen voor hulp bij het verwerken van een specifieke Spanning. Deze moet invloed hebben op de entiteit waar jij de link van bent en geld alleen als; jij de Spanning ook waarneemt en, betrokken blijft bij de verwerking daarvan. De persoon die je uitnodigt wordt tijdelijk een volledig lid van de Cirkel en mede verantwoordelijk voor jouw Rol tijdens de verwerking van die specifieke Spanning. De ander vervult samen met jou jouw Rol totdat je de uitnodiging intrekt.
+Als een LeadLink, Cirkel Vertegenwoordiger of Koppel Link van een Cirkel mag je iemand anders uitnodigen om de verantwoordelijkheden, genoemd in dit artikel (4), op zich te nemen. Je mag dit alleen doen voor hulp bij het verwerken van een specifieke Spanning. Deze moet invloed hebben op de entiteit waar jij de link van bent en geld alleen als; jij de Spanning ook waarneemt en, betrokken blijft bij de verwerking daarvan. De persoon die je uitnodigt wordt tijdelijk een volledig lid van de Cirkel en mede verantwoordelijk voor jouw Rol tijdens de verwerking van die specifieke Spanning. De ander vervult samen met jou jouw Rol totdat je de uitnodiging intrekt.
 
 #### 4.1.5 Impliciete verwachtingen hebben geen betekenis
 
@@ -559,7 +559,7 @@ Al jouw verantwoordelijkheden en plichten als Piraat van de Organisatie zijn ged
 
 ### 4.2. Actie Overleg
 
-De secretaris van de Cirkel is verantwoordelijk voor het plannen van regelmatige **'Actie Overleggen'** om de werk-uitvoering van de Cirkel te begeleiden. De Scheids is verantwoordelijk voor het voorzitten van Actie Overleggen in lijn met de volgende regels en alle relevante Domeinafspraken van de Cirkel:
+De secretaris van de Cirkel is verantwoordelijk voor het plannen van regelmatige **'Actie Overleggen'** om de werk-uitvoering van de Cirkel te begeleiden. De Facilitator is verantwoordelijk voor het voorzitten van Actie Overleggen in lijn met de volgende regels en alle relevante Domeinafspraken van de Cirkel:
 
 #### 4.2.1 Focus en intentie
 
@@ -579,24 +579,24 @@ Alle Leden van de Cirkel en elke Piraat of Rol die is uitgenodigd om deel te nem
 
 #### 4.2.3 Begeleiding & Proces
 
-De Scheids moet normaliter het volgende proces gebruiken voor een Actie Overleg:
+De Facilitator moet normaliter het volgende proces gebruiken voor een Actie Overleg:
 
-**(a) Openings-Ronde:** De Scheids geeft iedere deelnemer om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Actie Overleg te delen. Reacties zijn niet toegestaan.
+**(a) Openings-Ronde:** De Facilitator geeft iedere deelnemer om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Actie Overleg te delen. Reacties zijn niet toegestaan.
 
-**(b) Checklist Review:** De Scheids vraagt iedere deelnemer om de voltooiing van iedere terugkerende acties op de checklist van die deelnemer te verifiëren.
+**(b) Checklist Review:** De Facilitator vraagt iedere deelnemer om de voltooiing van iedere terugkerende acties op de checklist van die deelnemer te verifiëren.
 
-'Checklists' worden gebruikt om duidelijk te maken of wederkerende acties gedaan worden. De Scheids Leest de 'cheklist' van terugkerende acties, deelnemers antwoorden met: "Check" / "Geen Check".
+'Checklists' worden gebruikt om duidelijk te maken of wederkerende acties gedaan worden. De Facilitator Leest de 'cheklist' van terugkerende acties, deelnemers antwoorden met: "Check" / "Geen Check".
 
 Elk Cirkel Lid can een verzoek doen om een wederkerende actie aan de cheklist toe te voegen, zolang het verzoek valt binnen de verantwoordelijkheden van de betreffende Rol. M.a.w. een nieuw 'checklist' item mag geen nieuwe verwachting vastleggen voor de Rol. De verantwoordleijkheid voor een verwachting aan een Rol koppelen kan alleen via het Rol Overleg gebeuren.
 
-**(c) Metrieken Bekijken:** De Scheids vraagt iedere deelnemer voor veranderingen in alle Metrieken waar hij/zij verantwoordelijk voor is.
+**(c) Metrieken Bekijken:** De Facilitator vraagt iedere deelnemer voor veranderingen in alle Metrieken waar hij/zij verantwoordelijk voor is.
 
-**(d) Project Updates:** De Scheids vraagt iedere deelnemer om de vordering van projecten toe te lichten. Dit is de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen die de deelnemer vervult in de Cirkel. Deelnemers mogen alleen de vordering delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project dan moet deze worden opgenomen totdat het is voltooid of is komen te vervallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Sub-Cirkel moet de Scheids de Lead- en Cirkel Vertegenwoordiger de ruimte geven om updates te delen. 
+**(d) Project Updates:** De Facilitator vraagt iedere deelnemer om de vordering van projecten toe te lichten. Dit is de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen die de deelnemer vervult in de Cirkel. Deelnemers mogen alleen de vordering delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project dan moet deze worden opgenomen totdat het is voltooid of is komen te vervallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Sub-Cirkel moet de Facilitator de Lead- en Cirkel Vertegenwoordiger de ruimte geven om updates te delen. 
 
-**(e) Verzamel en verwerk spanningen:** De Scheids bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Piraten met relevante Rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Archivaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
-De Scheids heeft het Doel om ieder agenda punt te behandeld en heeft het recht om een dialoog af te breken als deze dat Doel in de weg staat. 
+**(e) Verzamel en verwerk spanningen:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Piraten met relevante Rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Archivaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
+De Facilitator heeft het Doel om ieder agenda punt te behandeld en heeft het recht om een dialoog af te breken als deze dat Doel in de weg staat. 
 
-**(f) Sluitings-Ronde:** De Scheids geeft iedere Piraat om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Actie Overleg, te delen. Reacties zijn niet toegestaan.
+**(f) Sluitings-Ronde:** De Facilitator geeft iedere Piraat om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Actie Overleg, te delen. Reacties zijn niet toegestaan.
 
 ##### 4.2.3.1 Proces verandering
 
@@ -604,7 +604,7 @@ Een Cirkel mag een Beleid aannemen om iets te veranderen of toe te voegen aan di
 
 #### 4.2.2 Vervanging voor afwezige leden
 
-Als een Gedefinieerde Rol van de Cirkel geheel of gedeeltelijk ondervertegenwoordigd is in een Actie Overleg, omdat een Piraat afwezig is, dan mag de Stuurman van de Cirkel handelen namens die Rol. Als de Stuurman ook afwezig is, dan mag iedere deelnemer Eerstvolgende Acties of Projecten accepteren namens die Rol. Echter die mogen, door de Piraat die de Rol normaal vervult, worden behandeld als verzoeken die worden gedaan onder de voorwaarden van Artikel 4.1.2 (b). 
+Als een Gedefinieerde Rol van de Cirkel geheel of gedeeltelijk ondervertegenwoordigd is in een Actie Overleg, omdat een Piraat afwezig is, dan mag de LeadLink van de Cirkel handelen namens die Rol. Als de LeadLink ook afwezig is, dan mag iedere deelnemer Eerstvolgende Acties of Projecten accepteren namens die Rol. Echter die mogen, door de Piraat die de Rol normaal vervult, worden behandeld als verzoeken die worden gedaan onder de voorwaarden van Artikel 4.1.2 (b). 
 
 ### 4.3 Individuele Actie
 
@@ -626,7 +626,7 @@ Je mag alleen Individuele Actie nemen als al het volgende waar is:
 
 Bij het nemen van een Individuele Actie heb je de plicht om die Actie, en de intentie erachter, uit te leggen aan iedere Piraat die een Rol vervult die mogelijk aanzienlijk beïnvloed is. Bij verzoek van een Piraat heb je ook de plicht om redelijke aanvullende maatregelen te nemen om te helpen bij het oplossen van Spanningen die gecreëerd zijn door jouw Individuele Actie.
 
-Als jouw Individuele Actie effectief handelde vanuit een andere Rol, of een Domein of Beleid heeft geschaad, dan moet je bij verzoek van de Piraat die normaal de Rol, het Domein of de Domeinafspraak beheert, of op verzoek van de Stuurman die de geraakte entiteit beheert, stoppen met het nemen van een gelijksoortige Individuele Actie.
+Als jouw Individuele Actie effectief handelde vanuit een andere Rol, of een Domein of Beleid heeft geschaad, dan moet je bij verzoek van de Piraat die normaal de Rol, het Domein of de Domeinafspraak beheert, of op verzoek van de LeadLink die de geraakte entiteit beheert, stoppen met het nemen van een gelijksoortige Individuele Actie.
 
 #### 4.3.3 Beleid verhelderen
 
@@ -634,7 +634,7 @@ Als jouw Individuele Actie een onderdeel is van een terugkerende Actie of een Ro
 
 #### 4.3.4 Prioriteren van de vereiste gevolgen
 
-Nadat je een Individuele Actie hebt genomen heb je de plicht om de vereiste gevolgen die gedefinieerd zijn in dit Artikel te prioriteren boven het uitvoeren van je reguliere werk. Echter, de Stuurman van de Cirkel die volledig alle Rollen bevat die aanzienlijk beïnvloed waren door jouw actie kan deze standaard prioriteit nog veranderen. 
+Nadat je een Individuele Actie hebt genomen heb je de plicht om de vereiste gevolgen die gedefinieerd zijn in dit Artikel te prioriteren boven het uitvoeren van je reguliere werk. Echter, de LeadLink van de Cirkel die volledig alle Rollen bevat die aanzienlijk beïnvloed waren door jouw actie kan deze standaard prioriteit nog veranderen. 
 
 ## Artikel 5: Implementatie Kwesties
 
@@ -649,27 +649,27 @@ Bij het aannemen van deze Broncode, moeten de Gezaghebbende een eerste Cirkel va
 
 #### 5.2.1 Links naar de Anker Cirkel
 
-De Gezaghebbende mogen een eerste Stuurman van de Anker Cirkel benoemen. Als alternatief kunnen de Gezaghebbende de Anker Cirkel zonder Stuurman laten en een of meerdere initiële Koppel Links naar de Anker Cirkel creëren in plaats van een Stuurman. 
+De Gezaghebbende mogen een eerste LeadLink van de Anker Cirkel benoemen. Als alternatief kunnen de Gezaghebbende de Anker Cirkel zonder LeadLink laten en een of meerdere initiële Koppel Links naar de Anker Cirkel creëren in plaats van een LeadLink. 
 
-#### 5.2.2 Handelen zonder een Stuurman
+#### 5.2.2 Handelen zonder een LeadLink
 
-Als de Anker Cirkel geen Stuurman heeft dan worden alle besluiten die normaal de autoriteit van de Stuurman vereisen geldige uitkomsten van het Bestuursproces van de Cirkel. Iedere Rol in de Cirkel kan dus Stuurman autoriteit uitvoeren door een besluit als verandering van Bestuur van de cirkel voor te stellen, gebruikmakend van de regels in Artikel III. 
+Als de Anker Cirkel geen LeadLink heeft dan worden alle besluiten die normaal de autoriteit van de LeadLink vereisen geldige uitkomsten van het Bestuursproces van de Cirkel. Iedere Rol in de Cirkel kan dus LeadLink autoriteit uitvoeren door een besluit als verandering van Bestuur van de cirkel voor te stellen, gebruikmakend van de regels in Artikel III. 
 
-Verder, in een Anker Cirkel zonder Stuurman, wordt de normale autoriteit van Rollen om autocratisch Domeinen van een Cirkel te beïnvloeden (zie Artikel 2.1.2) ingetrokken. In plaats daarvan, mogen de Rollen van de Cirkel alleen invloed uitoefenen op Domeinen als een Domeinafspraak die beïnvloeding expliciet toestaat, of, als alternatief, door de actie voor te stellen via het Bestuursproces, precies zoals hierboven Gedefinieerde over de Stuurman autoriteit. 
+Verder, in een Anker Cirkel zonder LeadLink, wordt de normale autoriteit van Rollen om autocratisch Domeinen van een Cirkel te beïnvloeden (zie Artikel 2.1.2) ingetrokken. In plaats daarvan, mogen de Rollen van de Cirkel alleen invloed uitoefenen op Domeinen als een Domeinafspraak die beïnvloeding expliciet toestaat, of, als alternatief, door de actie voor te stellen via het Bestuursproces, precies zoals hierboven Gedefinieerde over de LeadLink autoriteit. 
 
 #### 5.2.3 Doel van de Organisatie
 
 De Anker Cirkel is automatisch verantwoordelijk voor het ontdekken en uitdrukken van het Doel van de Organisatie in haar geheel. Het Doel van de Organisatie is het diepste creatieve potentieel die zij duurzaam kan uitdrukken in de wereld, rekening houdend met alle beperkingen die hiermee te maken hebben en alles wat ervoor beschikbaar is. Dat geldt ook voor haar historie, huidige capaciteiten, beschikbare middelen, Piraten, karakter, cultuur, bedrijfsstructuur, merk, markt bewustzijn en alle andere relevante middelen of factoren. 
 
-De Stuurman van de Anker Cirkel krijgt deze Verantwoordelijk standaard automatisch en mag het Doel vastleggen en updaten om deze Verantwoordelijkheid uit te voeren. 
+De LeadLink van de Anker Cirkel krijgt deze Verantwoordelijk standaard automatisch en mag het Doel vastleggen en updaten om deze Verantwoordelijkheid uit te voeren. 
 
-Als de Anker Cirkel geen Stuurman heeft word deze Verantwoordelijkheid automatisch van iedere Koppel Link naar de Anker Cirkel en elke van deze mag het Doel updaten door de update voor te stellen via het Bestuursproces van de Cirkel. 
+Als de Anker Cirkel geen LeadLink heeft word deze Verantwoordelijkheid automatisch van iedere Koppel Link naar de Anker Cirkel en elke van deze mag het Doel updaten door de update voor te stellen via het Bestuursproces van de Cirkel. 
 
 #### 5.2.4 De Anker Cirkel updaten
 
-De Stuurman van de Anker Cirkel heeft de autoriteit om de Cirkel een naam te geven, haar Domeinen te verhelderen en Verantwoordelijkheden toe te voegen of te wijzigen. 
+De LeadLink van de Anker Cirkel heeft de autoriteit om de Cirkel een naam te geven, haar Domeinen te verhelderen en Verantwoordelijkheden toe te voegen of te wijzigen. 
 
-De Stuurman van de Anker Cirkel kan ook zijn of haar eigen vervanger benoemen indien gewenst, tenzij anders gespecificeerd door de Gezaghebbende. 
+De LeadLink van de Anker Cirkel kan ook zijn of haar eigen vervanger benoemen indien gewenst, tenzij anders gespecificeerd door de Gezaghebbende. 
 
 #### 5.2.5 Geen Super Cirkel
 
@@ -677,7 +677,7 @@ De Anker Cirkel heeft geen Super Cirkel en verkiest geen Cirkel Vertegenwoordige
 
 ### 5.3 Initiële structuur
 
-De Stuurman van de Anker Cirkel mag een eerste structuur en Bestuur voor de Organisatie bepalen, buiten het gangbare Bestuursproces die vereist is door deze Broncode. Als die eerste structuur andere Cirkels omvat dan mogen de Stuurmans van die Cirkels hetzelfde doen met hun Cirkels. Deze autoriteit mag alleen worden gebruikt om een een eerste structuur te bepalen voor een Cirkel om mee te beginnen en voordat de Cirkel is gestart met het uitvoeren van haar Bestuursproces. 
+De LeadLink van de Anker Cirkel mag een eerste structuur en Bestuur voor de Organisatie bepalen, buiten het gangbare Bestuursproces die vereist is door deze Broncode. Als die eerste structuur andere Cirkels omvat dan mogen de LeadLinks van die Cirkels hetzelfde doen met hun Cirkels. Deze autoriteit mag alleen worden gebruikt om een een eerste structuur te bepalen voor een Cirkel om mee te beginnen en voordat de Cirkel is gestart met het uitvoeren van haar Bestuursproces. 
 
 ### 5.4 Bestaande Domeinafspraken en systemen
 
@@ -691,9 +691,9 @@ De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intre
 
 ## Bijlage A: Definitie Van KernRollen
 
-### Stuurman
+### LeadLink
 
-**Doel:** De Stuurman vertegenwoordigd het Doel van de gehele Cirkel
+**Doel:** De LeadLink vertegenwoordigd het Doel van de gehele Cirkel
 
 **Domeinen:** Rollen toewijzen binnen de Cirkel
 
@@ -711,7 +711,7 @@ De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intre
 
 * Beperkingen in de Cirkel ten opzichte van de Super-Cirkel verwijderen 
 
-*De Stuurman ‘erft’ alle aan de cirkel gegeven domeinen en verantwoordelijkheden, voor zover deze niet specifiek zijn gedelegeert aan een Rol of proces binnen de cirkel.*
+*De LeadLink ‘erft’ alle aan de cirkel gegeven domeinen en verantwoordelijkheden, voor zover deze niet specifiek zijn gedelegeert aan een Rol of proces binnen de cirkel.*
 
 ### Cirkel Vertegenwoordiger
 
@@ -725,7 +725,7 @@ De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intre
 
 * Verstrekken van zicht aan de Super Cirkel over de gezondheid van de Sub Cirkel, inclusief het rapporteren van Metrieken of checklist items die zijn toegewezen aan de hele Sub Cirkel. 
 
-### Scheids 
+### Facilitator 
 
 **Doel:** Begeleiden van het Rol- en Actie Overleg conform de spelregels van deze grondwet. 
 
