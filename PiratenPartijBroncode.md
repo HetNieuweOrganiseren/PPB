@@ -75,7 +75,7 @@ Een Cirkel bevat een integreert vele Rollen. Dit artikel beschrijft hoe een Cirk
 
 ### 2.1 Cirkel fundamenten
 
-Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere Rollen, zodat meerdere Piraats samen kunnen werken aan de uitdrukking van het algemene Doel en verantwoordelijkheden van die Cirkel. Een **"Cirkel"** kan haar eigen Rollen definiëren, haar Domeinen controleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn **"Gedefinieerde"** **"Rollen"** en liggen vast in het **"Bestuurs-Document"**, en elke Piraat die een van de Gedefinieerde Rollen vervult is een **"Piraat"** van die Cirkel. Een Cirkel heeft altijd minimaal drie **Piraten**
+Een **"Cirkel"** is een **"Rol"** die zichzelf opsplitst in meerdere Rollen, zodat meerdere Piraten samen kunnen werken aan de uitdrukking van het algemene Doel en verantwoordelijkheden van die Cirkel. Een **"Cirkel"** kan haar eigen Rollen definiëren, haar Domeinen controleren en Verantwoordelijkheden uitvoeren. De Rollen die een Cirkel definieert zijn **"Gedefinieerde"** **"Rollen"** en liggen vast in het **"Bestuurs-Document"**, en elke Piraat die een van de Gedefinieerde Rollen vervult is een **"Piraat"** van die Cirkel. Een Cirkel heeft altijd minimaal drie **Piraten**
 
 #### 2.1.1 Rollen en Beleid definiëren 
 
@@ -143,7 +143,7 @@ Tenzij er een speciale afspraak of uitsluiting wordt gemaakt onder de voorwaarde
 
 #### 2.3.2 Vertegenwoordiging van Rollen met meerdere Piraten
 
-Als een Rol wordt ingevuld door meerdere Piraats, kan een Cirkel een domein instellen waarmee slechts een van die Piraten aangesteld word als vertegenwoordiger van die Rol. Als dat zo is gedraagt deze Piraat zich als een RepLink om de spanningen van de andere Piraten te vertegenwoordigen. Binnen deze Domein afspraak is er minimaal 1 Piraat die deze Rol vervult als Lid van de Cirkel en deze moet kunnen verantwoorden hoe deze vertegenwoordiging is bepaald. 
+Als een Rol wordt ingevuld door meerdere Piraten, kan een Cirkel een domein instellen waarmee slechts een van die Piraten aangesteld word als vertegenwoordiger van die Rol. Als dat zo is gedraagt deze Piraat zich als een RepLink om de spanningen van de andere Piraten te vertegenwoordigen. Binnen deze Domein afspraak is er minimaal 1 Piraat die deze Rol vervult als Lid van de Cirkel en deze moet kunnen verantwoorden hoe deze vertegenwoordiging is bepaald. 
 
 #### 2.3.3 Uitsluiting bij minimale besteding van aandacht
 
@@ -175,7 +175,7 @@ Een Piraat die een Rol vervult kan daar op ieder moment afstand van doen, tenzij
 
 ### 2.5 Verkozen Rollen
 
-Elke Cirkel heeft een **"Facilitator Rol"**, een **"Secretaris Rol"** en een **"RepLink Rol"**, waarvan de definities in Bijlage A staan. Dit zijn de ‘Verkozen Rollen’ van de Cirkel. De personen die deze Rollen vervullen noemen we de **"Facilitator"**, **"Archivaris"** en **"RepLink"** van de Cirkel wanneer ze handelen vanuit deze Verkozen Rollen. 
+Elke Cirkel heeft een **"Facilitator Rol"**, een **"Secretaris Rol"** en een **"RepLink Rol"**, waarvan de definities in Bijlage A staan. Dit zijn de ‘Verkozen Rollen’ van de Cirkel. De personen die deze Rollen vervullen noemen we de **"Facilitator"**, **"Secretaris"** en **"RepLink"** van de Cirkel wanneer ze handelen vanuit deze Verkozen Rollen. 
 
 #### 2.5.1 Verkiezingen en verkiesbaarheid
 
@@ -183,7 +183,7 @@ De Facilitator van elke Cirkel begeleidt terugkerende verkiezingen volgens de re
 
 #### 2.5.2 Verkiezingstermijn en herzien van verkiezingen 
 
-Tijdens het verkiezingsproces stelt de Facilitator een termijn vast voor iedere verkozen Rol. Bij het verstrijken van die termijn is de Archivaris verantwoordelijk voor het plannen van een nieuwe verkiezing voor die Rol. 
+Tijdens het verkiezingsproces stelt de Facilitator een termijn vast voor iedere verkozen Rol. Bij het verstrijken van die termijn is de Secretaris verantwoordelijk voor het plannen van een nieuwe verkiezing voor die Rol. 
 
 Echter, nog voordat een termijn is verstreken kan elk lid van de Cirkel een nieuwe verkiezing voorstellen, gebruikmakend van het proces dat is bepaald in Artikel 3. 
 
@@ -203,7 +203,7 @@ Als er een vervanger nodig is, dan wordt de vervanger bepaald in deze volgorde:
 
 **(b)** de Facilitator van de Cirkel; of
 
-**(c)** de Archivaris van de Cirkel; of
+**(c)** de Secretaris van de Cirkel; of
 
 **(d)** de LeadLink van de Cirkel; of
 
@@ -298,7 +298,7 @@ Voorstellen worden beschouwd als aangenomen en wijzigen het Bestuur van de Cirke
 #### 3.2.1 Voorstellen doen
 
 Elk lid van de Cirkel mag een Voorstel doen in het **"Rol Overleg"**, volgens de regels van Artikel 3.3. 
-Als alternatief kan een Voorsteller ook een Voorstel indienen aan alle leden van de Cirkel buiten een Rol Overleg, hierbij  gebruik makend van een communicatie-kanaal dat door de Archivaris voor dit Doel is goedgekeurd. 
+Als alternatief kan een Voorsteller ook een Voorstel indienen aan alle leden van de Cirkel buiten een Rol Overleg, hierbij  gebruik makend van een communicatie-kanaal dat door de Secretaris voor dit Doel is goedgekeurd. 
 
 Als dit gebeurt kan de Facilitator hetzelfde proces en dezelfde regels toepassen die worden gebruikt tijdens een Rol Overleg, of toestaan dat ieder lid van de Cirkel direct verklaart of er wel of geen Bezwaren zijn om te integreren. Op ieder moment, totdat het ingediende Voorstel buiten het Rol Overleg is aangenomen, kan de Facilitator of elk willekeurig lid van de Cirkel het proces buiten het Rol Overleg stoppen door de Voorsteller te verzoeken het Voorstel naar een Rol Overleg te brengen.
 
@@ -345,7 +345,7 @@ Een bezwaar doorstaat de test als de Bezwaarmaker in staat is om een redelijk ar
 
 Bij het beoordelen van de geldigheid van een Bezwaar mag de Facilitator alleen oordelen of de Bezwaarmaker het vereiste voorbeeld en uitleg heeft gegeven en of deze werden gepresenteerd met een logische en redelijke beredenering. De Facilitator mag geen oordeel vellen op basis van de nauwkeurigheid of de belangrijkheid van de argumenten.
 
-Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Broncode, zie Artikel 3.2.4 (e), dan mag de Facilitator de Archivaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Broncode. Als dit  het geval blijkt te zijn moet de Facilitator het Bezwaar verwerpen. 
+Echter, als een Bezwaar wordt ingebracht omdat een Voorstel in strijd is met de Broncode, zie Artikel 3.2.4 (e), dan mag de Facilitator de Secretaris van de Cirkel vragen om te verklaren of het Voorstel inderdaad in strijd is met de Broncode. Als dit  het geval blijkt te zijn moet de Facilitator het Bezwaar verwerpen. 
 
 #### 3.2.6 Regels van integratie
 
@@ -363,21 +363,21 @@ Als alternatief mag de Voorsteller een extra voorbeeld geven dat het gewijzigde 
 
 ### 3.3 Rol Overleggen
 
-De Archivaris van een Cirkel is verantwoordelijk voor het plannen van Rol Overleggen om het Bestuurs-proces van de Cirkel te initiëren. 
+De Secretaris van een Cirkel is verantwoordelijk voor het plannen van Rol Overleggen om het Bestuurs-proces van de Cirkel te initiëren. 
 
-Als aanvulling op ieder regulier, terugkerend, Rol Overleg dat de Archivaris plant, is de Archivaris verantwoordelijk voor het direct plannen van extra speciale Rol Overleggen op verzoek van ieder Lid van de Cirkel. 
+Als aanvulling op ieder regulier, terugkerend, Rol Overleg dat de Secretaris plant, is de Secretaris verantwoordelijk voor het direct plannen van extra speciale Rol Overleggen op verzoek van ieder Lid van de Cirkel. 
 
 De Facilitator is verantwoordelijk voor het voorzitten van alle Rol Overleggen in lijn met de volgende regels van relevante Domeinafspraken van de Cirkel:
 
 #### 3.3.1 Aanwezigheid
 
-Alle Leden van een Cirkel hebben het recht om volledig mee te doen in alle Rol Overleggen van die Cirkel. Een waarnemende Facilitator en/of Archivaris hebben ook het recht om volledig mee te doen en worden Leden van de Cirkel tijdens een Rol Overleg, zelfs als ze normaal geen leden van die Cirkel zijn. 
+Alle Leden van een Cirkel hebben het recht om volledig mee te doen in alle Rol Overleggen van die Cirkel. Een waarnemende Facilitator en/of Secretaris hebben ook het recht om volledig mee te doen en worden Leden van de Cirkel tijdens een Rol Overleg, zelfs als ze normaal geen leden van die Cirkel zijn. 
 
 Bovendien mogen de LeadLink en iedere RepLink en KoppelLink van een Cirkel één extra Piraat uitnodigen, maar uitsluitend om de -Link te helpen bij het verwerken van een specifieke Spanning. De uitgenodigde Piraat wordt een Lid van die Cirkel voor de duur van dat Rol Overleg. Naast de personen genoemd in dit Artikel, is het niemand anders toegestaan om deel te nemen aan een Rol Overleg van een Cirkel, tenzij deze expliciet uitgenodigd is via een Beleid van de Cirkel. 
 
 #### 3.3.1 Aankondiging en minimum aantal deelnemers
 
-Een Cirkel mag alleen haar Bestuurs-proces uitvoeren in een Rol Overleg als de Archivaris alle Leden van de Cirkel, een redelijke tijd voorafgaand aan dat Overleg
+Een Cirkel mag alleen haar Bestuurs-proces uitvoeren in een Rol Overleg als de Secretaris alle Leden van de Cirkel, een redelijke tijd voorafgaand aan dat Overleg
 
  Overleg, een aankondiging heeft gegeven dat het Rol Overleg zal plaatsvinden. De aankondiging bevat minimaal de Datum tijd en locatie van het Rol Overleg. 
 
@@ -416,13 +416,13 @@ De Facilitator voert het Integratief Besluitvormingsproces als volgt uit:
 
 **(a) Voorstel doen:** Allereerst omschrijft de Voorsteller de Spanning en doet een Voorstel om de Spanning op te lossen. Als de Voorsteller om hulp vraagt bij het formuleren van een Voorstel mag de Facilitator en dialoog, of een ander gemeenschappelijk proces om te helpen, toestaan. Maar de Facilitator moet deze activiteit uitsluitend richten op het maken van een initieel Voorstel voor de actuele spanning en niet om andere Spanningen aan te spreken of om andermans zorgen te integreren in het Voorstel. 
 
-**(b) Verhelderende vragen:** Zodra de Voorsteller het Voorstel heeft geformuleerd mogen de andere deelnemers verhelderende vragen stellen om het Voorstel of de Spanning erachter beter te begrijpen. De Voorsteller mag iedere vraag beantwoorden maar is hiertoe niet verplicht. De Facilitator staat geen enkele reactie of mening over het Voorstel toe en voorkomt enige discussie van dien aard. Iedere deelnemer mag ten alle tijden aan de Archivaris vragen om het vastgelegde Voorstel voor te lezen of om het bestaande bestuur te verhelderen. Dat geld voor deze stap en iedere andere stap waarin het de Leden is toegestaan om te praten. De Archivaris moet dit verzoek altijd honoreren. 
+**(b) Verhelderende vragen:** Zodra de Voorsteller het Voorstel heeft geformuleerd mogen de andere deelnemers verhelderende vragen stellen om het Voorstel of de Spanning erachter beter te begrijpen. De Voorsteller mag iedere vraag beantwoorden maar is hiertoe niet verplicht. De Facilitator staat geen enkele reactie of mening over het Voorstel toe en voorkomt enige discussie van dien aard. Iedere deelnemer mag ten alle tijden aan de Secretaris vragen om het vastgelegde Voorstel voor te lezen of om het bestaande bestuur te verhelderen. Dat geld voor deze stap en iedere andere stap waarin het de Leden is toegestaan om te praten. De Secretaris moet dit verzoek altijd honoreren. 
 
 **(c) Reactieronde:** Zodra er geen verhelderende vragen meer zijn mag ieder Lid, met uitzondering van de Voorsteller, één voor één reacties geven op het Voorstel. De Facilitator moet reacties buiten de beurt om, of iedere andere poging om anderen in een dialoog te betrekken of uitwisselingen van dien aard en elke reactie op andere reacties in plaats van op het Voorstel, niet tolereren en direct stoppen. 
 
-**(d) Verduidelijken en Wijzigen:** Na de reactieronde mag de Voorsteller het voorstel verduidelijken als antwoord op de reacties en wijzigingen doen aan het Voorstel. Echter, het Doel van iedere wijziging moet zijn om de Spanning van de Voorsteller beter aan te spreken, niet de Spanningen van anderen. Tijdens deze stap worden alle reactie van alle Leden, behalve die van de Voorsteller of de Archivaris, niet getolereerd en moeten door de Facilitator gestopt worden. Iedere bijdrage van de Archivaris moet uitsluitend gericht zijn op het vastleggen van het gewijzigde Voorstel. 
+**(d) Verduidelijken en Wijzigen:** Na de reactieronde mag de Voorsteller het voorstel verduidelijken als antwoord op de reacties en wijzigingen doen aan het Voorstel. Echter, het Doel van iedere wijziging moet zijn om de Spanning van de Voorsteller beter aan te spreken, niet de Spanningen van anderen. Tijdens deze stap worden alle reactie van alle Leden, behalve die van de Voorsteller of de Secretaris, niet getolereerd en moeten door de Facilitator gestopt worden. Iedere bijdrage van de Secretaris moet uitsluitend gericht zijn op het vastleggen van het gewijzigde Voorstel. 
 
-**(e) Bezwarenronde:** Vervolgens mag ieder Lid één voor één een mogelijk Bezwaar op het aannemen van het Voorstel inbrengen. De Facilitator moet discussies of reacties van elke soort niet tolereren en stoppen. De Facilitator mag Bezwaren testen zoals beschreven in Artikel 3.2.5 en moet ieder geldig Bezwaar vastleggen. Als er geen geldige Bezwaren zijn legt de Archivaris het Voorstel vast als aangenomen Bestuur voor de Cirkel. 
+**(e) Bezwarenronde:** Vervolgens mag ieder Lid één voor één een mogelijk Bezwaar op het aannemen van het Voorstel inbrengen. De Facilitator moet discussies of reacties van elke soort niet tolereren en stoppen. De Facilitator mag Bezwaren testen zoals beschreven in Artikel 3.2.5 en moet ieder geldig Bezwaar vastleggen. Als er geen geldige Bezwaren zijn legt de Secretaris het Voorstel vast als aangenomen Bestuur voor de Cirkel. 
 
 **(f) Integratie:** Als er geldige Bezwaren zijn begeleidt de Facilitator een dialoog om het Voorstel zo te wijzigen dat ieder Bezwaar één voor één wordt opgelost. De Facilitator verklaart het Bezwaar als opgelost zodra de Bezwaarmaker bevestigt dat het gewijzigde Voorstel het Bezwaar niet zou veroorzaken en de Voorsteller bevestigt dat het gewijzigde voorstel nog steeds de Spanning van de Voorsteller aanspreekt. Tijdens de dialoog moet de Facilitator de regels van integratie toepassen zoals gedefinieerd in Artikel 3.2.6. Zodra alle vastgelegde Bezwaren zijn opgelost gaat de Facilitator terug naar de Bezwarenronde om te kijken of er nieuwe Bezwaren zijn op het gewijzigde Voorstel. 
 
@@ -452,29 +452,29 @@ De Facilitator moet het Integratief Verkiezingsproces als volgt uitvoeren:
 
 #### 3.3.7 Operationele beslissingen in Rol Overleggen
 
-Rol Overleggen zijn primair beDoeld om het Bestuursproces van de Cirkel te ondersteunen. Maar zolang het niet afleidt mag ieder Lid tijdens een Rol Overleg Projecten of Eerstvolgende Acties accepteren, of andere operationele beslissingen maken, die buiten de scope van het Bestuursproces van de Cirkel vallen. Echter, de Archivaris mag geen enkele operationele uitkomsten of beslissingen vastleggen in het formele Bestuurs-Document van de Cirkel. 
+Rol Overleggen zijn primair beDoeld om het Bestuursproces van de Cirkel te ondersteunen. Maar zolang het niet afleidt mag ieder Lid tijdens een Rol Overleg Projecten of Eerstvolgende Acties accepteren, of andere operationele beslissingen maken, die buiten de scope van het Bestuursproces van de Cirkel vallen. Echter, de Secretaris mag geen enkele operationele uitkomsten of beslissingen vastleggen in het formele Bestuurs-Document van de Cirkel. 
 
 Verder dragen operationele uitkomsten en beslissingen die gemaakt zijn tijdens een Rol Overleg niet meer of minder gewicht of autoriteit dan diegene die gemaakt worden buiten een Rol Overleg. 
 
 ### 3.4. Interpreteren van de Broncode en Bestuur
 
-Als een Piraat van de Organisatie mag je jouw redelijke oordeel gebruiken om deze Broncode en het vastgelegde Bestuur van de Organisatie te interpreteren, inclusief hoe deze worden toegepast in een specifieke situatie, en handelen op basis van die interpretatie. Je mag er ook op rekenen dat de Archivaris een expliciete interpretatie van het Bestuur van elke Cirkel geeft die wordt beïnvloed door dat Bestuur. Echter, in iedere situatie gelden de volgende aanvullende voorwaarden:
+Als een Piraat van de Organisatie mag je jouw redelijke oordeel gebruiken om deze Broncode en het vastgelegde Bestuur van de Organisatie te interpreteren, inclusief hoe deze worden toegepast in een specifieke situatie, en handelen op basis van die interpretatie. Je mag er ook op rekenen dat de Secretaris een expliciete interpretatie van het Bestuur van elke Cirkel geeft die wordt beïnvloed door dat Bestuur. Echter, in iedere situatie gelden de volgende aanvullende voorwaarden:
 
-#### 3.4.1. Interpretatie van de Archivaris overstemt
+#### 3.4.1. Interpretatie van de Secretaris overstemt
 
-Als jouw interpretatie in strijd is met de interpretatie van een Archivaris dan overstemt de interpretatie van de Archivaris die van jou en ben je verantwoordelijk om in lijn met deze interpretatie te handelen totdat het Bestuur is verandert. 
+Als jouw interpretatie in strijd is met de interpretatie van een Secretaris dan overstemt de interpretatie van de Secretaris die van jou en ben je verantwoordelijk om in lijn met deze interpretatie te handelen totdat het Bestuur is verandert. 
 
 #### 3.4.2 Interpretatie van de Super-Cirkel overstemt 
 
-De Archivaris van een Cirkel mag een interpretatie die is gegeven door een Archivaris van een Sub-Cirkel overstemmen. Als twee Archivarissen een conflicterende uitspraak over interpretatie geven en een daarvan is de Archivaris van een Sub-Cirkel die onderdeel is van de bredere Cirkel, dan ben je verantwoordelijk om in lijn te handelen met de interpretatie die wordt gegeven door de Archivaris van de bredere Cirkel. 
+De Secretaris van een Cirkel mag een interpretatie die is gegeven door een Secretaris van een Sub-Cirkel overstemmen. Als twee Secretarissen een conflicterende uitspraak over interpretatie geven en een daarvan is de Secretaris van een Sub-Cirkel die onderdeel is van de bredere Cirkel, dan ben je verantwoordelijk om in lijn te handelen met de interpretatie die wordt gegeven door de Secretaris van de bredere Cirkel. 
 
 #### 3.4.3 Interpretaties worden standaard
 
-Na de beslissing over een interpretatie mag een Archivaris van een cirkel ervoor kiezen om die interpretatie en de logica erachter te publiceren in het Bestuurs-Document van die Cirkel. Zodra het gepubliceerd is zijn de Archivaris van die Cirkel en de Archivarissen van alle Sub-Cirkels die daar onderdeel van zijn verantwoordelijk om alle toekomstige uitspraken in lijn te laten zijn met de voorgaande gepubliceerde logica en interpretaties. Een Archivaris mag voorgaande logica en interpretaties alleen tegenspreken als een overtuigend nieuw argument of een nieuwe omstandigheid een verandering ondersteunt. Eenmaal tegengesproken worden de nieuwe logica en interpretaties de actuele standaard waar alle toekomstige uitspraken in lijn mee moeten zijn. 
+Na de beslissing over een interpretatie mag een Secretaris van een cirkel ervoor kiezen om die interpretatie en de logica erachter te publiceren in het Bestuurs-Document van die Cirkel. Zodra het gepubliceerd is zijn de Secretaris van die Cirkel en de Secretarissen van alle Sub-Cirkels die daar onderdeel van zijn verantwoordelijk om alle toekomstige uitspraken in lijn te laten zijn met de voorgaande gepubliceerde logica en interpretaties. Een Secretaris mag voorgaande logica en interpretaties alleen tegenspreken als een overtuigend nieuw argument of een nieuwe omstandigheid een verandering ondersteunt. Eenmaal tegengesproken worden de nieuwe logica en interpretaties de actuele standaard waar alle toekomstige uitspraken in lijn mee moeten zijn. 
 
 #### 3.4.4 Schrappen van ongeldig Bestuur
 
-Ieder lid van de Cirkel mag zijn Archivaris vragen om een uitspraak te doen over de geldigheid van de vastlegging van Bestuur van de Cirkel of van iedere Rol of Sub-Cirkel waar de Cirkel uiteindelijk onderdeel van is. Als de Archivaris bij een dergelijk verzoek concludeert dat het Bestuur in strijd is met de regels van deze Broncode moet de Archivaris de conflicterende Bestuur schrappen uit het betreffende Bestuurs-Document. Als dit gebeurd moet de Archivaris direct aan alle Leden van de Cirkel communiceren wat er gewijzigd is en waarom. 
+Ieder lid van de Cirkel mag zijn Secretaris vragen om een uitspraak te doen over de geldigheid van de vastlegging van Bestuur van de Cirkel of van iedere Rol of Sub-Cirkel waar de Cirkel uiteindelijk onderdeel van is. Als de Secretaris bij een dergelijk verzoek concludeert dat het Bestuur in strijd is met de regels van deze Broncode moet de Secretaris de conflicterende Bestuur schrappen uit het betreffende Bestuurs-Document. Als dit gebeurd moet de Secretaris direct aan alle Leden van de Cirkel communiceren wat er gewijzigd is en waarom. 
 
 ### 3.5 Proces-storing 
 
@@ -487,7 +487,7 @@ Als de Voorsteller speciaal voor het behandelen van dat Voorstel een Rol Overleg
 
 #### 3.5.2 Storing door ongrondwettelijk gedrag
 
-De Facilitator van een Cirkel mag een Proces-storing constateren in een van de Sub-Cirkels wanneer er een patroon van gedrag of uitkomsten word geconstateerd die in strijd is met de regels van deze Broncode. Echter, wanneer de Facilitator ook de LeadLink of Facilitator van de Sub-Cirkel is dan mogen de Archivaris van de Super-Cirkel of de Cirkel Vertegenwoordiger deze constatering ook doen. 
+De Facilitator van een Cirkel mag een Proces-storing constateren in een van de Sub-Cirkels wanneer er een patroon van gedrag of uitkomsten word geconstateerd die in strijd is met de regels van deze Broncode. Echter, wanneer de Facilitator ook de LeadLink of Facilitator van de Sub-Cirkel is dan mogen de Secretaris van de Super-Cirkel of de Cirkel Vertegenwoordiger deze constatering ook doen. 
 
 #### 3.5.3 Proces herstel
 
@@ -495,7 +495,7 @@ Wanneer een daartoe bevoegde partij een Processtoring in een Cirkel constateert 
 
 **(a)** De Facilitator van de Super-Cirkel krijgt een Project om het proces te herstellen in die Cirkel; en 
 
-**(b)** De Facilitator van de Super-Cirkel krijg de autoriteit om op te treden als Facilitator of Archivaris van die Cirkel, of om een andere Piraat te benoemen om dat te doen; en
+**(b)** De Facilitator van de Super-Cirkel krijg de autoriteit om op te treden als Facilitator of Secretaris van die Cirkel, of om een andere Piraat te benoemen om dat te doen; en
 
 **(c)** De Facilitator van die Cirkel krijgt de autoriteit om de nauwkeurigheid te beoordelen van alle argumenten die worden gepresenteerd om Spanningen en Bezwaren te valideren in het Bestuursproces van die Cirkel.
 
@@ -505,7 +505,7 @@ Deze autoriteit is tijdelijk en stopt zodra de Facilitator van de Super-Cirkel c
 
 Een Processtoring van één Cirkel mag niet beschouwd worden als een Processtoring van haar Super-Cirkel, zolang de Facilitator van de Super-Cirkel snel en ijverig werkt om de Processtoring  op te lossen.
 
-Echter, als de Proces-storing niet binnen een redelijke termijn is opgelost mag de Archivaris van iedere Super-Cirkel waar de verstoorde Cirkel onderdeel van is ook een Proces-storing in de Super-Cirkel constateren.
+Echter, als de Proces-storing niet binnen een redelijke termijn is opgelost mag de Secretaris van iedere Super-Cirkel waar de verstoorde Cirkel onderdeel van is ook een Proces-storing in de Super-Cirkel constateren.
 
 ## Artikel 4: Operationeel Proces
 
@@ -593,7 +593,7 @@ Elk Cirkel Lid can een verzoek doen om een wederkerende actie aan de cheklist to
 
 **(d) Project Updates:** De Facilitator vraagt iedere deelnemer om de vordering van projecten toe te lichten. Dit is de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen die de deelnemer vervult in de Cirkel. Deelnemers mogen alleen de vordering delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project dan moet deze worden opgenomen totdat het is voltooid of is komen te vervallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Sub-Cirkel moet de Facilitator de Lead- en Cirkel Vertegenwoordiger de ruimte geven om updates te delen. 
 
-**(e) Verzamel en verwerk spanningen:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Piraten met relevante Rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Archivaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
+**(e) Verzamel en verwerk spanningen:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Piraten met relevante Rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Secretaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
 De Facilitator heeft het Doel om ieder agenda punt te behandeld en heeft het recht om een dialoog af te breken als deze dat Doel in de weg staat. 
 
 **(f) Sluitings-Ronde:** De Facilitator geeft iedere Piraat om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Actie Overleg, te delen. Reacties zijn niet toegestaan.
@@ -735,7 +735,7 @@ De Gezaghebbende of hun opvolgers mogen deze Broncode volledig wijzigen of intre
 
 * ContRoleren van de Overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de Broncode. 
 
-### Archivaris
+### Secretaris
 
 **Doel:** Handhaven en stabiliseren van de formele administratie van de Cirkel.
 
